@@ -1,0 +1,101 @@
+name,mpg,cylinders,displacement,horsepower
+chevrolet chevelle malibu,18,8,307,130
+buick skylark 320,15,8,350,165
+plymouth satellite,18,8,318,150
+amc rebel sst,16,8,304,150
+ford torino,17,8,302,140
+ford galaxie 500,15,8,429,198
+chevrolet impala,14,8,454,220
+plymouth fury iii,14,8,440,215
+pontiac catalina,14,8,455,225
+amc ambassador dpl,15,8,390,190
+dodge challenger se,15,8,383,170
+plymouth 'cuda 340,14,8,340,160
+chevrolet monte carlo,15,8,400,150
+buick estate wagon (sw),14,8,455,225
+toyota corona mark ii,24,4,113,95
+plymouth duster,22,6,198,95
+amc hornet,18,6,199,97
+ford maverick,21,6,200,85
+datsun pl510,27,4,97,88
+volkswagen 1131 deluxe sedan,26,4,97,46
+peugeot 504,25,4,110,87
+audi 100 ls,24,4,107,90
+saab 99e,25,4,104,95
+bmw 2002,26,4,121,113
+amc gremlin,21,6,199,90
+ford f250,10,8,360,215
+chevy c20,10,8,307,200
+dodge d200,11,8,318,210
+hi 1200d,9,8,304,193
+datsun pl510,27,4,97,88
+chevrolet vega 2300,28,4,140,90
+toyota corona,25,4,113,95
+amc gremlin,19,6,232,100
+plymouth satellite custom,16,6,225,105
+chevrolet chevelle malibu,17,6,250,100
+ford torino 500,19,6,250,88
+amc matador,18,6,232,100
+chevrolet impala,14,8,350,165
+pontiac catalina brougham,14,8,400,175
+ford galaxie 500,14,8,351,153
+plymouth fury iii,14,8,318,150
+dodge monaco (sw),12,8,383,180
+ford country squire (sw),13,8,400,170
+pontiac safari (sw),13,8,400,175
+amc hornet sportabout (sw),18,6,258,110
+chevrolet vega (sw),22,4,140,72
+pontiac firebird,19,6,250,100
+ford mustang,18,6,250,88
+mercury capri 2000,23,4,122,86
+opel 1900,28,4,116,90
+peugeot 304,30,4,79,70
+fiat 124b,30,4,88,76
+toyota corolla 1200,31,4,71,65
+datsun 1200,35,4,72,69
+volkswagen model 111,27,4,97,60
+plymouth cricket,26,4,91,70
+toyota corona hardtop,24,4,113,95
+dodge colt hardtop,25,4,97.5,80
+volkswagen type 3,23,4,97,54
+chevrolet vega,20,4,140,90
+ford pinto runabout,21,4,122,86
+chevrolet impala,13,8,350,165
+pontiac catalina,14,8,400,175
+plymouth fury iii,15,8,318,150
+ford galaxie 500,14,8,351,153
+amc ambassador sst,17,8,304,150
+mercury marquis,11,8,429,208
+buick lesabre custom,13,8,350,155
+oldsmobile delta 88 royale,12,8,350,160
+chrysler newport royal,13,8,400,190
+mazda rx2 coupe,19,3,70,97
+amc matador (sw),15,8,304,150
+chevrolet chevelle concours (sw),13,8,307,130
+ford gran torino (sw),13,8,302,140
+plymouth satellite custom (sw),14,8,318,150
+volvo 145e (sw),18,4,121,112
+volkswagen 411 (sw),22,4,121,76
+peugeot 504 (sw),21,4,120,87
+renault 12 (sw),26,4,96,69
+ford pinto (sw),22,4,122,86
+datsun 510 (sw),28,4,97,92
+toyouta corona mark ii (sw),23,4,120,97
+dodge colt (sw),28,4,98,80
+toyota corolla 1600 (sw),27,4,97,88
+buick century 350,13,8,350,175
+amc matador,14,8,304,150
+chevrolet malibu,13,8,350,145
+ford gran torino,14,8,302,137
+dodge coronet custom,15,8,318,150
+mercury marquis brougham,12,8,429,198
+chevrolet caprice classic,13,8,400,150
+ford ltd,13,8,351,158
+plymouth fury gran sedan,14,8,318,150
+chrysler new yorker brougham,13,8,440,215
+buick electra 225 custom,12,8,455,225
+amc ambassador brougham,13,8,360,175
+plymouth valiant,18,6,225,105
+chevrolet nova custom,16,6,250,100
+amc hornet,18,6,232,100
+ford maverick,18,6,250,88

@@ -1,0 +1,3001 @@
+year,age,sex,maritl,race,education,wage
+2006,18,1. Male,1. Never Married,1. White,1. < HS Grad,75.04315402
+2004,24,1. Male,1. Never Married,1. White,4. College Grad,70.47601965
+2003,45,1. Male,2. Married,1. White,3. Some College,130.9821774
+2003,43,1. Male,2. Married,3. Asian,4. College Grad,154.685293
+2005,50,1. Male,4. Divorced,1. White,2. HS Grad,75.04315402
+2008,54,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2009,44,1. Male,2. Married,4. Other,3. Some College,169.528538
+2008,30,1. Male,1. Never Married,3. Asian,3. Some College,111.7208494
+2006,41,1. Male,1. Never Married,2. Black,3. Some College,118.8843593
+2004,52,1. Male,2. Married,1. White,2. HS Grad,128.6804882
+2007,45,1. Male,4. Divorced,1. White,3. Some College,117.1468169
+2007,34,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2005,35,1. Male,1. Never Married,1. White,2. HS Grad,89.49247952
+2003,39,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2009,54,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2009,51,1. Male,2. Married,1. White,3. Some College,90.48191336
+2003,37,1. Male,1. Never Married,3. Asian,4. College Grad,82.6796373
+2006,50,1. Male,2. Married,1. White,5. Advanced Degree,212.8423523
+2007,56,1. Male,2. Married,1. White,4. College Grad,129.156693
+2003,37,1. Male,1. Never Married,1. White,3. Some College,98.59934386
+2003,38,1. Male,2. Married,3. Asian,4. College Grad,200.5432623
+2005,40,1. Male,4. Divorced,1. White,2. HS Grad,50.40666086
+2009,75,1. Male,2. Married,1. White,4. College Grad,85.38394038
+2007,40,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2006,38,1. Male,1. Never Married,1. White,2. HS Grad,94.07271475
+2005,49,1. Male,2. Married,1. White,5. Advanced Degree,277.6014175
+2006,43,1. Male,2. Married,1. White,2. HS Grad,84.04595765
+2004,34,1. Male,2. Married,4. Other,2. HS Grad,65.11085372
+2008,57,1. Male,2. Married,1. White,2. HS Grad,116.2653241
+2003,18,1. Male,1. Never Married,2. Black,2. HS Grad,70.47601965
+2004,55,1. Male,2. Married,1. White,5. Advanced Degree,195.676308
+2005,51,1. Male,2. Married,1. White,3. Some College,101.4020523
+2008,33,1. Male,1. Never Married,1. White,5. Advanced Degree,81.28325328
+2005,34,1. Male,1. Never Married,1. White,2. HS Grad,111.7208494
+2006,36,1. Male,2. Married,1. White,4. College Grad,89.88004678
+2003,56,1. Male,1. Never Married,1. White,5. Advanced Degree,87.98103279
+2006,70,1. Male,1. Never Married,1. White,4. College Grad,87.98103279
+2004,25,1. Male,1. Never Married,1. White,4. College Grad,103.9024706
+2006,32,1. Male,2. Married,1. White,3. Some College,105.9278108
+2003,27,1. Male,2. Married,1. White,1. < HS Grad,66.22940829
+2004,28,1. Male,2. Married,3. Asian,4. College Grad,34.60741773
+2007,27,1. Male,1. Never Married,1. White,4. College Grad,109.8339856
+2004,43,1. Male,1. Never Married,1. White,1. < HS Grad,45.28216999
+2005,50,1. Male,1. Never Married,4. Other,1. < HS Grad,73.77574327
+2004,39,1. Male,2. Married,2. Black,2. HS Grad,81.28325328
+2008,52,1. Male,2. Married,1. White,5. Advanced Degree,154.685293
+2009,35,1. Male,2. Married,1. White,4. College Grad,267.9010869
+2007,57,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2006,25,1. Male,1. Never Married,1. White,1. < HS Grad,66.22940829
+2006,33,1. Male,1. Never Married,1. White,2. HS Grad,116.2653241
+2005,57,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2008,71,1. Male,2. Married,1. White,3. Some College,101.8243521
+2004,43,1. Male,2. Married,1. White,4. College Grad,272.2947832
+2003,23,1. Male,1. Never Married,1. White,3. Some College,35.03342132
+2009,30,1. Male,1. Never Married,1. White,5. Advanced Degree,114.4757133
+2004,22,1. Male,1. Never Married,2. Black,2. HS Grad,81.28325328
+2006,59,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2003,28,1. Male,1. Never Married,3. Asian,4. College Grad,148.4131591
+2004,61,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2003,34,1. Male,2. Married,1. White,2. HS Grad,111.7208494
+2005,43,1. Male,2. Married,1. White,4. College Grad,152.838801
+2006,54,1. Male,2. Married,1. White,3. Some College,117.1468169
+2005,69,1. Male,2. Married,1. White,2. HS Grad,77.7376033
+2004,41,1. Male,2. Married,1. White,3. Some College,87.98103279
+2003,48,1. Male,2. Married,1. White,5. Advanced Degree,125.5254984
+2003,49,1. Male,2. Married,1. White,3. Some College,123.336104
+2009,42,1. Male,2. Married,1. White,2. HS Grad,158.2946214
+2003,37,1. Male,2. Married,1. White,4. College Grad,200.5432623
+2004,55,1. Male,2. Married,3. Asian,2. HS Grad,99.6894637
+2008,21,1. Male,1. Never Married,2. Black,2. HS Grad,70.47601965
+2004,58,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2006,31,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2006,25,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2006,32,1. Male,1. Never Married,1. White,3. Some College,100.7642728
+2009,40,1. Male,1. Never Married,2. Black,1. < HS Grad,94.07271475
+2003,44,1. Male,2. Married,1. White,5. Advanced Degree,99.6894637
+2003,60,1. Male,2. Married,1. White,4. College Grad,268.266292
+2006,23,1. Male,1. Never Married,1. White,1. < HS Grad,81.28325328
+2003,63,1. Male,2. Married,1. White,2. HS Grad,113.5670896
+2008,44,1. Male,1. Never Married,1. White,1. < HS Grad,87.98103279
+2005,47,1. Male,2. Married,3. Asian,5. Advanced Degree,128.6804882
+2004,61,1. Male,2. Married,1. White,3. Some College,106.7239776
+2009,55,1. Male,2. Married,1. White,5. Advanced Degree,66.04469423
+2003,24,1. Male,1. Never Married,1. White,1. < HS Grad,51.52195631
+2007,42,1. Male,3. Widowed,1. White,2. HS Grad,85.38394038
+2006,25,1. Male,2. Married,1. White,2. HS Grad,76.89360252
+2004,34,1. Male,4. Divorced,1. White,2. HS Grad,90.48191336
+2009,53,1. Male,2. Married,1. White,1. < HS Grad,68.07642829
+2009,53,1. Male,2. Married,1. White,4. College Grad,130.9821774
+2009,70,1. Male,2. Married,3. Asian,5. Advanced Degree,127.901233
+2004,47,1. Male,2. Married,1. White,4. College Grad,131.2245938
+2003,46,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2003,33,1. Male,4. Divorced,1. White,1. < HS Grad,76.89360252
+2005,34,1. Male,2. Married,1. White,5. Advanced Degree,107.9039239
+2006,22,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2009,74,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2003,40,1. Male,2. Married,2. Black,3. Some College,98.59934386
+2006,45,1. Male,2. Married,1. White,4. College Grad,200.5432623
+2009,43,1. Male,2. Married,3. Asian,4. College Grad,156.5035109
+2005,33,1. Male,2. Married,3. Asian,4. College Grad,144.944365
+2009,62,1. Male,2. Married,2. Black,4. College Grad,118.8843593
+2008,37,1. Male,2. Married,1. White,4. College Grad,121.4303138
+2004,54,1. Male,2. Married,1. White,2. HS Grad,111.7208494
+2005,34,1. Male,2. Married,1. White,3. Some College,68.74808773
+2008,50,1. Male,1. Never Married,1. White,4. College Grad,114.4757133
+2006,46,1. Male,4. Divorced,1. White,3. Some College,95.23071257
+2007,41,1. Male,2. Married,1. White,1. < HS Grad,87.98103279
+2003,63,1. Male,4. Divorced,2. Black,3. Some College,64.27439722
+2007,38,1. Male,2. Married,1. White,3. Some College,128.6804882
+2006,35,1. Male,2. Married,1. White,3. Some College,114.4757133
+2009,29,1. Male,2. Married,1. White,4. College Grad,112.6488963
+2008,66,1. Male,2. Married,1. White,1. < HS Grad,81.28325328
+2004,37,1. Male,2. Married,1. White,2. HS Grad,75.89548482
+2006,39,1. Male,2. Married,2. Black,2. HS Grad,112.136923
+2003,42,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2007,51,1. Male,4. Divorced,1. White,2. HS Grad,94.07271475
+2009,55,1. Male,2. Married,3. Asian,5. Advanced Degree,114.4757133
+2006,51,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2008,38,1. Male,2. Married,1. White,5. Advanced Degree,276.7784133
+2005,49,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2006,42,1. Male,2. Married,1. White,2. HS Grad,91.69922611
+2009,43,1. Male,5. Separated,1. White,1. < HS Grad,86.69515483
+2006,38,1. Male,2. Married,1. White,4. College Grad,162.9464607
+2008,59,1. Male,2. Married,3. Asian,2. HS Grad,139.2137881
+2009,57,1. Male,2. Married,1. White,3. Some College,95.23071257
+2005,25,1. Male,1. Never Married,1. White,2. HS Grad,66.96164432
+2004,49,1. Male,2. Married,1. White,4. College Grad,131.1943236
+2004,41,1. Male,2. Married,1. White,1. < HS Grad,90.48191336
+2009,38,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2003,61,1. Male,2. Married,1. White,5. Advanced Degree,79.1280845
+2007,49,1. Male,4. Divorced,1. White,2. HS Grad,104.5917379
+2008,52,1. Male,4. Divorced,1. White,5. Advanced Degree,132.4878211
+2007,43,1. Male,2. Married,1. White,5. Advanced Degree,141.7751723
+2008,60,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2005,46,1. Male,2. Married,3. Asian,5. Advanced Degree,134.7053751
+2004,21,1. Male,1. Never Married,1. White,2. HS Grad,55.76739051
+2009,61,1. Male,2. Married,1. White,4. College Grad,106.9218141
+2007,32,1. Male,2. Married,2. Black,5. Advanced Degree,118.8843593
+2004,58,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2003,35,1. Male,1. Never Married,1. White,2. HS Grad,88.92960664
+2004,26,1. Male,1. Never Married,2. Black,2. HS Grad,81.28325328
+2006,32,1. Male,1. Never Married,2. Black,2. HS Grad,94.07271475
+2003,37,1. Male,2. Married,1. White,2. HS Grad,106.9218141
+2007,22,1. Male,1. Never Married,3. Asian,2. HS Grad,59.09706408
+2005,51,1. Male,1. Never Married,1. White,2. HS Grad,65.11085372
+2004,44,1. Male,4. Divorced,1. White,5. Advanced Degree,120.5894365
+2005,35,1. Male,2. Married,3. Asian,5. Advanced Degree,157.7005277
+2004,60,1. Male,2. Married,1. White,2. HS Grad,129.4536446
+2007,40,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2004,35,1. Male,1. Never Married,1. White,1. < HS Grad,59.09706408
+2007,35,1. Male,2. Married,1. White,5. Advanced Degree,94.07271475
+2008,47,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2003,43,1. Male,1. Never Married,1. White,4. College Grad,81.28325328
+2003,33,1. Male,2. Married,1. White,1. < HS Grad,81.28325328
+2003,60,1. Male,4. Divorced,1. White,5. Advanced Degree,153.4575153
+2008,38,1. Male,2. Married,3. Asian,5. Advanced Degree,136.8763676
+2005,53,1. Male,2. Married,1. White,2. HS Grad,75.04315402
+2004,55,1. Male,2. Married,1. White,3. Some College,130.2208324
+2003,57,1. Male,2. Married,2. Black,2. HS Grad,104.9215065
+2005,64,1. Male,2. Married,1. White,4. College Grad,49.55533812
+2007,43,1. Male,2. Married,1. White,2. HS Grad,123.9085676
+2008,35,1. Male,2. Married,2. Black,3. Some College,123.0896998
+2008,54,1. Male,2. Married,1. White,2. HS Grad,78.15516141
+2007,45,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2003,58,1. Male,4. Divorced,3. Asian,4. College Grad,138.2991269
+2007,48,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2003,46,1. Male,2. Married,3. Asian,1. < HS Grad,68.74808773
+2004,46,1. Male,2. Married,1. White,2. HS Grad,84.39111475
+2009,55,1. Male,2. Married,1. White,1. < HS Grad,85.38394038
+2006,51,1. Male,2. Married,1. White,3. Some College,128.6804882
+2005,49,1. Male,2. Married,1. White,3. Some College,70.47601965
+2008,34,1. Male,1. Never Married,1. White,3. Some College,76.89360252
+2007,53,1. Male,2. Married,1. White,3. Some College,148.4131591
+2004,40,1. Male,2. Married,1. White,3. Some College,148.4131591
+2009,50,1. Male,2. Married,1. White,3. Some College,175.9608831
+2006,37,1. Male,4. Divorced,1. White,1. < HS Grad,98.59934386
+2003,39,1. Male,2. Married,1. White,3. Some College,145.1436012
+2004,52,1. Male,2. Married,1. White,4. College Grad,99.6894637
+2003,50,1. Male,2. Married,1. White,2. HS Grad,141.0888744
+2006,48,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2006,47,1. Male,2. Married,1. White,2. HS Grad,129.4536446
+2005,27,1. Male,2. Married,1. White,4. College Grad,111.7208494
+2006,39,1. Male,2. Married,1. White,2. HS Grad,103.9024706
+2009,44,1. Male,2. Married,2. Black,2. HS Grad,118.8843593
+2003,37,1. Male,2. Married,2. Black,3. Some College,151.5914842
+2006,52,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2004,26,1. Male,1. Never Married,3. Asian,3. Some College,99.6894637
+2008,39,1. Male,2. Married,3. Asian,5. Advanced Degree,99.6894637
+2006,25,1. Male,2. Married,2. Black,2. HS Grad,99.6894637
+2005,31,1. Male,1. Never Married,1. White,4. College Grad,94.07271475
+2004,58,1. Male,2. Married,1. White,3. Some College,152.2168068
+2005,30,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2004,27,1. Male,2. Married,1. White,1. < HS Grad,65.11085372
+2003,40,1. Male,4. Divorced,1. White,2. HS Grad,95.23071257
+2006,55,1. Male,2. Married,1. White,5. Advanced Degree,173.8794933
+2009,35,1. Male,2. Married,3. Asian,5. Advanced Degree,193.4110705
+2008,48,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2006,29,1. Male,1. Never Married,3. Asian,4. College Grad,160.6424754
+2005,25,1. Male,1. Never Married,1. White,3. Some College,89.49247952
+2004,40,1. Male,2. Married,1. White,3. Some College,120.5894365
+2006,27,1. Male,2. Married,1. White,1. < HS Grad,73.77574327
+2006,44,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2006,49,1. Male,2. Married,1. White,3. Some College,118.8843593
+2003,22,1. Male,1. Never Married,1. White,3. Some College,34.60741773
+2007,45,1. Male,2. Married,1. White,3. Some College,114.4757133
+2007,33,1. Male,2. Married,1. White,3. Some College,85.38394038
+2007,63,1. Male,2. Married,2. Black,5. Advanced Degree,318.3424301
+2006,49,1. Male,1. Never Married,2. Black,4. College Grad,141.7751723
+2005,39,1. Male,1. Never Married,1. White,5. Advanced Degree,130.9821774
+2007,25,1. Male,1. Never Married,4. Other,1. < HS Grad,73.77574327
+2005,29,1. Male,1. Never Married,1. White,5. Advanced Degree,130.9821774
+2006,37,1. Male,2. Married,1. White,2. HS Grad,75.04315402
+2008,35,1. Male,2. Married,1. White,5. Advanced Degree,154.9902603
+2009,46,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2008,58,1. Male,2. Married,1. White,4. College Grad,73.11830692
+2003,39,1. Male,2. Married,1. White,5. Advanced Degree,123.0896998
+2008,41,1. Male,2. Married,1. White,4. College Grad,157.7005277
+2008,29,1. Male,2. Married,2. Black,4. College Grad,81.28325328
+2009,37,1. Male,2. Married,1. White,4. College Grad,107.2560621
+2009,62,1. Male,2. Married,1. White,2. HS Grad,78.98167452
+2008,27,1. Male,1. Never Married,2. Black,2. HS Grad,73.77574327
+2003,37,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2006,56,1. Male,5. Separated,3. Asian,4. College Grad,99.6894637
+2004,36,1. Male,2. Married,1. White,3. Some College,176.9896505
+2005,23,1. Male,1. Never Married,4. Other,2. HS Grad,73.77574327
+2003,46,1. Male,2. Married,1. White,3. Some College,99.6894637
+2009,26,1. Male,1. Never Married,1. White,3. Some College,94.07271475
+2006,43,1. Male,2. Married,1. White,1. < HS Grad,95.23071257
+2007,36,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2003,54,1. Male,5. Separated,1. White,3. Some College,99.6894637
+2003,62,1. Male,2. Married,1. White,2. HS Grad,95.68881191
+2006,40,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2006,53,1. Male,2. Married,1. White,3. Some College,118.8843593
+2007,48,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2004,23,1. Male,2. Married,1. White,4. College Grad,61.18752643
+2009,34,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2004,43,1. Male,2. Married,1. White,4. College Grad,256.4006496
+2006,55,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2007,59,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2007,60,1. Male,2. Married,1. White,2. HS Grad,55.76739051
+2009,49,1. Male,1. Never Married,1. White,2. HS Grad,75.35567932
+2006,45,1. Male,2. Married,3. Asian,3. Some College,130.9821774
+2006,31,1. Male,4. Divorced,1. White,2. HS Grad,43.73511168
+2004,34,1. Male,1. Never Married,1. White,4. College Grad,114.4757133
+2005,26,1. Male,1. Never Married,1. White,5. Advanced Degree,114.4757133
+2007,22,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2004,40,1. Male,2. Married,1. White,2. HS Grad,68.5721657
+2009,41,1. Male,2. Married,1. White,3. Some College,109.8339856
+2006,36,1. Male,1. Never Married,2. Black,3. Some College,97.49329405
+2007,38,1. Male,2. Married,1. White,1. < HS Grad,62.39835472
+2003,48,1. Male,2. Married,1. White,2. HS Grad,97.49329405
+2006,47,1. Male,2. Married,1. White,3. Some College,134.7053751
+2005,47,1. Male,5. Separated,1. White,1. < HS Grad,61.18752643
+2007,35,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2008,49,1. Male,2. Married,3. Asian,2. HS Grad,65.11085372
+2004,40,1. Male,2. Married,1. White,3. Some College,109.8339856
+2004,32,1. Male,3. Widowed,3. Asian,4. College Grad,104.9215065
+2008,57,1. Male,2. Married,1. White,4. College Grad,73.77574327
+2008,56,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2009,73,1. Male,2. Married,1. White,1. < HS Grad,90.48191336
+2007,29,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2003,49,1. Male,2. Married,3. Asian,5. Advanced Degree,134.7053751
+2009,30,1. Male,1. Never Married,1. White,2. HS Grad,109.8339856
+2008,29,1. Male,2. Married,1. White,2. HS Grad,91.69922611
+2004,36,1. Male,2. Married,1. White,3. Some College,95.23071257
+2009,39,1. Male,2. Married,1. White,5. Advanced Degree,156.5035109
+2007,48,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2006,45,1. Male,2. Married,2. Black,4. College Grad,99.6894637
+2004,50,1. Male,2. Married,1. White,4. College Grad,54.59815003
+2003,42,1. Male,2. Married,1. White,4. College Grad,32.36641317
+2007,58,1. Male,2. Married,1. White,3. Some College,118.8843593
+2007,48,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2003,48,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2005,45,1. Male,2. Married,1. White,3. Some College,118.8843593
+2007,41,1. Male,4. Divorced,1. White,3. Some College,110.7826503
+2008,27,1. Male,1. Never Married,1. White,2. HS Grad,93.55726735
+2004,44,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2003,32,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2006,46,1. Male,2. Married,1. White,1. < HS Grad,118.8843593
+2005,52,1. Male,2. Married,2. Black,2. HS Grad,52.15617117
+2003,22,1. Male,1. Never Married,1. White,3. Some College,43.73511168
+2004,53,1. Male,3. Widowed,1. White,2. HS Grad,117.1468169
+2008,34,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2009,38,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2009,42,1. Male,2. Married,1. White,1. < HS Grad,101.8243521
+2005,25,1. Male,1. Never Married,2. Black,3. Some College,94.07271475
+2004,29,1. Male,1. Never Married,1. White,3. Some College,86.69515483
+2005,28,1. Male,2. Married,1. White,5. Advanced Degree,141.7751723
+2005,46,1. Male,2. Married,1. White,4. College Grad,66.96164432
+2007,55,1. Male,2. Married,2. Black,5. Advanced Degree,118.8843593
+2004,56,1. Male,2. Married,1. White,2. HS Grad,105.7676396
+2005,41,1. Male,4. Divorced,2. Black,2. HS Grad,118.8843593
+2009,61,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2003,47,1. Male,2. Married,1. White,2. HS Grad,65.11085372
+2006,52,1. Male,2. Married,1. White,3. Some College,85.38394038
+2004,27,1. Male,2. Married,1. White,2. HS Grad,72.15045568
+2007,33,1. Male,1. Never Married,2. Black,3. Some College,89.24288466
+2003,58,1. Male,1. Never Married,1. White,2. HS Grad,65.11085372
+2005,27,1. Male,2. Married,1. White,4. College Grad,145.8051634
+2009,52,1. Male,5. Separated,2. Black,2. HS Grad,87.98103279
+2003,45,1. Male,2. Married,1. White,5. Advanced Degree,41.09980363
+2003,22,1. Male,1. Never Married,1. White,2. HS Grad,68.3956538
+2005,25,1. Male,1. Never Married,1. White,3. Some College,81.28325328
+2004,25,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2005,41,1. Male,2. Married,2. Black,1. < HS Grad,130.9821774
+2006,54,1. Male,5. Separated,1. White,4. College Grad,148.4131591
+2007,23,1. Male,2. Married,1. White,2. HS Grad,81.22674631
+2006,36,1. Male,1. Never Married,1. White,5. Advanced Degree,63.188861
+2004,31,1. Male,5. Separated,1. White,3. Some College,94.07271475
+2006,52,1. Male,2. Married,1. White,2. HS Grad,92.65813017
+2007,46,1. Male,2. Married,2. Black,2. HS Grad,76.89360252
+2007,45,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2009,40,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2004,33,1. Male,1. Never Married,3. Asian,4. College Grad,86.69515483
+2007,42,1. Male,2. Married,1. White,4. College Grad,133.9715001
+2007,41,1. Male,2. Married,1. White,4. College Grad,125.5254984
+2007,25,1. Male,1. Never Married,4. Other,2. HS Grad,92.89584479
+2005,24,1. Male,4. Divorced,1. White,2. HS Grad,72.15045568
+2006,24,1. Male,1. Never Married,1. White,3. Some College,118.8843593
+2008,51,1. Male,2. Married,1. White,2. HS Grad,70.47601965
+2004,41,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2009,42,1. Male,1. Never Married,1. White,4. College Grad,114.4757133
+2005,30,1. Male,1. Never Married,1. White,4. College Grad,87.98103279
+2009,55,1. Male,2. Married,3. Asian,1. < HS Grad,54.59815003
+2008,23,1. Male,1. Never Married,1. White,2. HS Grad,84.04595765
+2003,60,1. Male,4. Divorced,1. White,4. College Grad,85.38394038
+2003,40,1. Male,2. Married,3. Asian,5. Advanced Degree,141.7751723
+2008,41,1. Male,1. Never Married,1. White,2. HS Grad,110.7826503
+2003,80,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2005,53,1. Male,2. Married,1. White,2. HS Grad,97.49329405
+2004,40,1. Male,1. Never Married,1. White,2. HS Grad,171.7651326
+2009,35,1. Male,2. Married,1. White,3. Some College,137.4812478
+2009,55,1. Male,2. Married,1. White,1. < HS Grad,75.35567932
+2008,24,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2007,39,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2003,30,1. Male,2. Married,1. White,5. Advanced Degree,95.23071257
+2005,68,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2004,54,1. Male,2. Married,2. Black,2. HS Grad,109.8339856
+2008,27,1. Male,1. Never Married,1. White,4. College Grad,81.28325328
+2005,34,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2004,53,1. Male,2. Married,1. White,5. Advanced Degree,127.1157438
+2004,48,1. Male,2. Married,2. Black,5. Advanced Degree,85.38394038
+2005,59,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2004,30,1. Male,2. Married,1. White,3. Some College,118.8843593
+2007,45,1. Male,2. Married,1. White,5. Advanced Degree,163.515864
+2007,39,1. Male,2. Married,4. Other,4. College Grad,104.9215065
+2008,45,1. Male,2. Married,3. Asian,4. College Grad,99.6894637
+2007,43,1. Male,2. Married,1. White,5. Advanced Degree,281.7459706
+2003,30,1. Male,1. Never Married,2. Black,5. Advanced Degree,138.2991269
+2005,57,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2004,53,1. Male,2. Married,1. White,4. College Grad,136.8763676
+2009,42,1. Male,2. Married,1. White,4. College Grad,186.8766776
+2005,23,1. Male,1. Never Married,1. White,2. HS Grad,90.48191336
+2009,58,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2005,43,1. Male,2. Married,1. White,1. < HS Grad,145.1436012
+2003,33,1. Male,4. Divorced,1. White,5. Advanced Degree,120.5894365
+2004,56,1. Male,2. Married,1. White,4. College Grad,101.8243521
+2006,37,1. Male,2. Married,2. Black,4. College Grad,108.8745258
+2009,41,1. Male,4. Divorced,1. White,5. Advanced Degree,38.60591452
+2007,33,1. Male,2. Married,1. White,3. Some College,92.89584479
+2007,50,1. Male,1. Never Married,1. White,5. Advanced Degree,126.3238807
+2003,43,1. Male,2. Married,1. White,5. Advanced Degree,191.5736835
+2004,53,1. Male,2. Married,1. White,4. College Grad,155.9005061
+2005,37,1. Male,3. Widowed,1. White,3. Some College,87.98103279
+2006,20,1. Male,1. Never Married,2. Black,3. Some College,59.09706408
+2003,26,1. Male,1. Never Married,1. White,3. Some College,73.77574327
+2003,29,1. Male,4. Divorced,1. White,4. College Grad,90.48191336
+2008,57,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2009,47,1. Male,2. Married,1. White,3. Some College,151.5914842
+2004,54,1. Male,2. Married,1. White,5. Advanced Degree,272.2947832
+2007,38,1. Male,2. Married,1. White,1. < HS Grad,97.49329405
+2006,23,1. Male,1. Never Married,1. White,3. Some College,68.11199407
+2004,31,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2004,43,1. Male,2. Married,1. White,4. College Grad,272.2947832
+2003,33,1. Male,2. Married,1. White,5. Advanced Degree,111.7208494
+2004,48,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2008,33,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2009,52,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2008,30,1. Male,1. Never Married,2. Black,3. Some College,69.79153085
+2004,44,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2004,38,1. Male,2. Married,1. White,2. HS Grad,127.273347
+2008,51,1. Male,2. Married,1. White,2. HS Grad,160.6424754
+2007,47,1. Male,2. Married,1. White,3. Some College,171.7651326
+2005,28,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2004,52,1. Male,4. Divorced,1. White,3. Some College,115.3750386
+2004,23,1. Male,1. Never Married,1. White,1. < HS Grad,72.15045568
+2003,65,1. Male,2. Married,1. White,1. < HS Grad,73.77574327
+2005,27,1. Male,1. Never Married,1. White,4. College Grad,127.1157438
+2004,33,1. Male,2. Married,1. White,1. < HS Grad,20.93437794
+2008,49,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2008,27,1. Male,1. Never Married,1. White,3. Some College,102.8702469
+2008,48,1. Male,4. Divorced,1. White,2. HS Grad,115.3750386
+2005,38,1. Male,1. Never Married,1. White,3. Some College,97.49329405
+2008,58,1. Male,2. Married,1. White,3. Some College,104.9215065
+2003,40,1. Male,2. Married,3. Asian,5. Advanced Degree,115.3750386
+2007,46,1. Male,2. Married,1. White,2. HS Grad,93.48669204
+2009,53,1. Male,2. Married,2. Black,3. Some College,123.0896998
+2009,25,1. Male,1. Never Married,2. Black,5. Advanced Degree,118.8843593
+2003,42,1. Male,2. Married,1. White,3. Some College,96.37065283
+2004,40,1. Male,1. Never Married,1. White,2. HS Grad,84.04595765
+2006,35,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2005,50,1. Male,5. Separated,1. White,2. HS Grad,95.23071257
+2004,34,1. Male,2. Married,1. White,3. Some College,81.28325328
+2009,48,1. Male,2. Married,1. White,2. HS Grad,102.8702469
+2004,49,1. Male,2. Married,1. White,5. Advanced Degree,111.7208494
+2009,41,1. Male,2. Married,3. Asian,4. College Grad,94.07271475
+2004,37,1. Male,2. Married,3. Asian,4. College Grad,127.1157438
+2003,58,1. Male,2. Married,1. White,3. Some College,104.9215065
+2006,28,1. Male,1. Never Married,2. Black,2. HS Grad,68.11199407
+2003,33,1. Male,2. Married,1. White,2. HS Grad,128.6804882
+2003,50,1. Male,2. Married,1. White,3. Some College,143.9273594
+2009,38,1. Male,2. Married,1. White,2. HS Grad,103.9024706
+2003,48,1. Male,2. Married,1. White,2. HS Grad,91.69922611
+2008,30,1. Male,2. Married,1. White,3. Some College,95.23071257
+2006,49,1. Male,2. Married,1. White,5. Advanced Degree,138.2991269
+2005,44,1. Male,2. Married,1. White,4. College Grad,118.5567764
+2009,50,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2009,58,1. Male,2. Married,3. Asian,4. College Grad,114.4757133
+2004,45,1. Male,1. Never Married,1. White,4. College Grad,150.0132863
+2005,44,1. Male,2. Married,1. White,3. Some College,97.49329405
+2005,35,1. Male,4. Divorced,1. White,4. College Grad,90.48191336
+2005,59,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2009,45,1. Male,2. Married,1. White,2. HS Grad,130.9821774
+2004,51,1. Male,2. Married,1. White,4. College Grad,150.9627835
+2006,61,1. Male,2. Married,1. White,3. Some College,130.9821774
+2008,45,1. Male,2. Married,1. White,2. HS Grad,145.1436012
+2003,34,1. Male,1. Never Married,1. White,4. College Grad,90.48191336
+2007,33,1. Male,2. Married,1. White,4. College Grad,113.5670896
+2005,45,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2009,50,1. Male,1. Never Married,1. White,5. Advanced Degree,157.7005277
+2006,50,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2005,39,1. Male,2. Married,1. White,3. Some College,84.04595765
+2009,26,1. Male,1. Never Married,1. White,4. College Grad,160.6436382
+2007,49,1. Male,2. Married,1. White,2. HS Grad,47.90556704
+2003,20,1. Male,1. Never Married,1. White,2. HS Grad,59.09706408
+2003,31,1. Male,2. Married,1. White,4. College Grad,81.28325328
+2007,49,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2007,56,1. Male,1. Never Married,2. Black,2. HS Grad,87.98103279
+2005,61,1. Male,2. Married,1. White,4. College Grad,143.8085568
+2005,56,1. Male,5. Separated,1. White,2. HS Grad,110.7826503
+2009,51,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2004,42,1. Male,2. Married,1. White,1. < HS Grad,120.5894365
+2004,45,1. Male,2. Married,1. White,4. College Grad,272.2947832
+2006,30,1. Male,2. Married,1. White,5. Advanced Degree,105.3758927
+2005,48,1. Male,1. Never Married,1. White,4. College Grad,69.01087662
+2009,33,1. Male,2. Married,1. White,5. Advanced Degree,87.98103279
+2007,50,1. Male,2. Married,1. White,3. Some College,89.24288466
+2003,31,1. Male,2. Married,3. Asian,5. Advanced Degree,171.7651326
+2003,48,1. Male,2. Married,1. White,4. College Grad,133.2323508
+2005,35,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2009,47,1. Male,2. Married,2. Black,3. Some College,92.89584479
+2007,45,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2009,52,1. Male,2. Married,1. White,2. HS Grad,119.7425563
+2007,46,1. Male,2. Married,1. White,2. HS Grad,82.6796373
+2007,47,1. Male,2. Married,3. Asian,4. College Grad,105.9278108
+2009,49,1. Male,2. Married,1. White,2. HS Grad,267.9010869
+2007,36,1. Male,2. Married,1. White,1. < HS Grad,104.9215065
+2005,51,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2008,46,1. Male,2. Married,1. White,2. HS Grad,157.7005277
+2004,37,1. Male,2. Married,3. Asian,4. College Grad,148.4131591
+2005,23,1. Male,1. Never Married,1. White,3. Some College,65.11085372
+2008,43,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2006,34,1. Male,2. Married,3. Asian,4. College Grad,78.3924668
+2008,58,1. Male,2. Married,1. White,2. HS Grad,139.2137881
+2009,44,1. Male,1. Never Married,3. Asian,4. College Grad,112.6488963
+2008,61,1. Male,2. Married,1. White,4. College Grad,79.85490031
+2005,40,1. Male,4. Divorced,1. White,1. < HS Grad,65.11085372
+2003,37,1. Male,2. Married,1. White,3. Some College,111.7208494
+2003,33,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2004,38,1. Male,2. Married,1. White,3. Some College,176.9896505
+2006,41,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2005,30,1. Male,2. Married,2. Black,2. HS Grad,104.9215065
+2003,51,1. Male,2. Married,1. White,1. < HS Grad,70.81503862
+2003,39,1. Male,1. Never Married,1. White,3. Some College,94.07271475
+2006,56,1. Male,2. Married,2. Black,3. Some College,127.1157438
+2007,44,1. Male,1. Never Married,1. White,2. HS Grad,97.49329405
+2005,51,1. Male,4. Divorced,1. White,5. Advanced Degree,109.8339856
+2006,35,1. Male,2. Married,1. White,2. HS Grad,75.19962815
+2009,27,1. Male,1. Never Married,1. White,2. HS Grad,65.11085372
+2003,47,1. Male,2. Married,1. White,3. Some College,146.4628385
+2007,51,1. Male,2. Married,3. Asian,3. Some College,81.28325328
+2006,41,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2005,63,1. Male,2. Married,1. White,1. < HS Grad,73.77574327
+2009,61,1. Male,1. Never Married,1. White,2. HS Grad,65.11085372
+2004,46,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2009,33,1. Male,1. Never Married,1. White,3. Some College,79.85490031
+2009,35,1. Male,5. Separated,1. White,1. < HS Grad,73.77574327
+2003,28,1. Male,2. Married,1. White,5. Advanced Degree,87.98103279
+2007,50,1. Male,2. Married,3. Asian,3. Some College,118.8843593
+2007,41,1. Male,2. Married,1. White,5. Advanced Degree,284.5247409
+2008,23,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2004,45,1. Male,2. Married,1. White,3. Some College,106.9218141
+2007,63,1. Male,2. Married,1. White,5. Advanced Degree,100.0134869
+2006,59,1. Male,2. Married,2. Black,3. Some College,108.8745258
+2005,30,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2003,30,1. Male,2. Married,1. White,5. Advanced Degree,115.3750386
+2007,45,1. Male,2. Married,1. White,2. HS Grad,130.9821774
+2005,42,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2009,57,1. Male,2. Married,1. White,1. < HS Grad,106.9218141
+2003,52,1. Male,4. Divorced,1. White,3. Some College,22.96240068
+2003,54,1. Male,2. Married,1. White,3. Some College,115.1824551
+2005,30,1. Male,2. Married,1. White,3. Some College,103.9024706
+2003,47,1. Male,2. Married,1. White,4. College Grad,184.4694642
+2003,38,1. Male,1. Never Married,1. White,3. Some College,314.3293364
+2003,47,1. Male,2. Married,1. White,3. Some College,99.6894637
+2008,39,1. Male,1. Never Married,1. White,4. College Grad,128.6804882
+2005,50,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2003,47,1. Male,2. Married,1. White,2. HS Grad,54.59815003
+2004,45,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2007,44,1. Male,2. Married,1. White,1. < HS Grad,118.8843593
+2003,52,1. Male,2. Married,1. White,2. HS Grad,92.16112203
+2004,42,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2004,18,1. Male,1. Never Married,1. White,1. < HS Grad,41.7049905
+2006,56,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2004,50,1. Male,2. Married,3. Asian,5. Advanced Degree,82.6796373
+2006,50,1. Male,2. Married,1. White,5. Advanced Degree,277.7994802
+2006,53,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2009,38,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2004,27,1. Male,1. Never Married,1. White,1. < HS Grad,84.04595765
+2004,56,1. Male,2. Married,1. White,5. Advanced Degree,163.515864
+2003,50,1. Male,2. Married,1. White,5. Advanced Degree,81.28325328
+2003,56,1. Male,2. Married,1. White,4. College Grad,130.9821774
+2007,50,1. Male,2. Married,1. White,1. < HS Grad,127.1157438
+2005,49,1. Male,1. Never Married,1. White,2. HS Grad,72.15045568
+2005,42,1. Male,1. Never Married,1. White,3. Some College,104.9215065
+2009,50,1. Male,2. Married,1. White,5. Advanced Degree,186.8766776
+2003,53,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2007,28,1. Male,2. Married,1. White,2. HS Grad,139.7030715
+2003,45,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2009,24,1. Male,1. Never Married,1. White,2. HS Grad,66.22940829
+2003,25,1. Male,1. Never Married,1. White,1. < HS Grad,81.28325328
+2004,38,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2009,47,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2003,38,1. Male,2. Married,1. White,4. College Grad,154.685293
+2007,33,1. Male,2. Married,1. White,3. Some College,106.9218141
+2006,39,1. Male,2. Married,1. White,5. Advanced Degree,277.7994802
+2005,52,1. Male,4. Divorced,1. White,2. HS Grad,87.98103279
+2005,46,1. Male,4. Divorced,1. White,2. HS Grad,90.48191336
+2004,42,1. Male,2. Married,1. White,2. HS Grad,106.9218141
+2003,61,1. Male,2. Married,1. White,2. HS Grad,56.90553914
+2005,32,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2009,42,1. Male,4. Divorced,2. Black,2. HS Grad,107.9039239
+2006,61,1. Male,2. Married,1. White,5. Advanced Degree,196.1252726
+2009,27,1. Male,2. Married,1. White,2. HS Grad,91.69922611
+2008,45,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2003,58,1. Male,2. Married,1. White,4. College Grad,32.36641317
+2007,25,1. Male,1. Never Married,1. White,4. College Grad,104.9215065
+2007,34,1. Male,2. Married,1. White,1. < HS Grad,100.7642728
+2005,44,1. Male,2. Married,2. Black,3. Some College,85.38394038
+2007,40,1. Male,2. Married,1. White,3. Some College,82.6796373
+2007,51,1. Male,2. Married,2. Black,4. College Grad,97.49329405
+2003,50,1. Male,2. Married,1. White,5. Advanced Degree,121.0108266
+2009,64,1. Male,2. Married,1. White,4. College Grad,133.9715001
+2003,54,1. Male,2. Married,1. White,3. Some College,148.4131591
+2008,42,1. Male,1. Never Married,1. White,4. College Grad,104.9215065
+2007,31,1. Male,2. Married,3. Asian,2. HS Grad,81.28325328
+2003,25,1. Male,1. Never Married,1. White,4. College Grad,90.48191336
+2006,32,1. Male,2. Married,1. White,3. Some College,106.9218141
+2007,51,1. Male,2. Married,1. White,1. < HS Grad,114.4757133
+2007,75,1. Male,2. Married,2. Black,1. < HS Grad,53.39534689
+2003,28,1. Male,2. Married,4. Other,2. HS Grad,87.98103279
+2009,28,1. Male,1. Never Married,1. White,2. HS Grad,66.22940829
+2007,32,1. Male,1. Never Married,1. White,5. Advanced Degree,96.37065283
+2006,53,1. Male,2. Married,1. White,5. Advanced Degree,272.4032258
+2008,36,1. Male,2. Married,1. White,3. Some College,97.15827504
+2004,43,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2004,51,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2005,35,1. Male,2. Married,2. Black,4. College Grad,99.6894637
+2004,46,1. Male,5. Separated,1. White,2. HS Grad,94.07271475
+2003,38,1. Male,2. Married,1. White,4. College Grad,81.28325328
+2004,43,1. Male,2. Married,3. Asian,4. College Grad,154.685293
+2004,39,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2007,37,1. Male,4. Divorced,1. White,3. Some College,123.0896998
+2008,59,1. Male,4. Divorced,1. White,5. Advanced Degree,73.77574327
+2003,33,1. Male,2. Married,1. White,4. College Grad,107.9039239
+2007,23,1. Male,1. Never Married,1. White,3. Some College,73.77574327
+2006,37,1. Male,1. Never Married,1. White,3. Some College,87.98103279
+2005,40,1. Male,2. Married,1. White,2. HS Grad,27.14057921
+2006,25,1. Male,2. Married,1. White,3. Some College,94.07271475
+2008,27,1. Male,1. Never Married,1. White,4. College Grad,102.4535576
+2004,47,1. Male,2. Married,1. White,5. Advanced Degree,272.2947832
+2008,52,1. Male,2. Married,2. Black,4. College Grad,94.07271475
+2007,23,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2004,33,1. Male,2. Married,1. White,4. College Grad,87.98103279
+2005,37,1. Male,1. Never Married,3. Asian,4. College Grad,109.8339856
+2008,34,1. Male,2. Married,1. White,2. HS Grad,80.43020795
+2003,51,1. Male,5. Separated,1. White,2. HS Grad,148.4131591
+2007,40,1. Male,4. Divorced,1. White,3. Some College,148.4131591
+2007,50,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2005,64,1. Male,2. Married,1. White,3. Some College,118.8843593
+2008,54,1. Male,2. Married,1. White,1. < HS Grad,80.48744436
+2003,50,1. Male,2. Married,2. Black,2. HS Grad,91.69922611
+2004,32,1. Male,2. Married,1. White,4. College Grad,109.3556264
+2004,37,1. Male,2. Married,2. Black,4. College Grad,104.9215065
+2006,19,1. Male,1. Never Married,1. White,1. < HS Grad,65.11085372
+2006,32,1. Male,2. Married,1. White,2. HS Grad,76.89360252
+2004,42,1. Male,2. Married,1. White,3. Some College,99.6894637
+2009,26,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2009,46,1. Male,2. Married,1. White,5. Advanced Degree,157.7005277
+2009,18,1. Male,1. Never Married,1. White,1. < HS Grad,49.55533812
+2005,43,1. Male,2. Married,1. White,2. HS Grad,90.48191336
+2003,62,1. Male,2. Married,1. White,3. Some College,111.7208494
+2008,44,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2005,40,1. Male,2. Married,1. White,3. Some College,133.2323508
+2006,43,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2004,32,1. Male,1. Never Married,3. Asian,4. College Grad,118.8843593
+2006,48,1. Male,1. Never Married,2. Black,2. HS Grad,87.98103279
+2009,35,1. Male,2. Married,1. White,3. Some College,109.8339856
+2006,61,1. Male,2. Married,1. White,3. Some College,130.9821774
+2006,47,1. Male,2. Married,1. White,1. < HS Grad,89.24288466
+2005,55,1. Male,4. Divorced,1. White,2. HS Grad,102.8702469
+2008,28,1. Male,4. Divorced,4. Other,2. HS Grad,76.89360252
+2008,52,1. Male,2. Married,1. White,5. Advanced Degree,149.6950421
+2009,27,1. Male,1. Never Married,2. Black,5. Advanced Degree,102.8702469
+2006,22,1. Male,2. Married,2. Black,3. Some College,90.48191336
+2006,20,1. Male,1. Never Married,1. White,2. HS Grad,69.92912721
+2006,42,1. Male,2. Married,1. White,2. HS Grad,106.9218141
+2007,29,1. Male,2. Married,1. White,4. College Grad,87.98103279
+2003,31,1. Male,1. Never Married,1. White,4. College Grad,109.8339856
+2008,59,1. Male,4. Divorced,1. White,3. Some College,151.5914842
+2008,36,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2007,32,1. Male,2. Married,1. White,1. < HS Grad,66.96164432
+2005,32,1. Male,1. Never Married,1. White,3. Some College,103.9024706
+2006,25,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2008,43,1. Male,2. Married,1. White,3. Some College,134.7053751
+2008,44,1. Male,1. Never Married,1. White,2. HS Grad,43.73511168
+2009,57,1. Male,2. Married,1. White,3. Some College,116.7071546
+2006,49,1. Male,2. Married,2. Black,4. College Grad,141.7751723
+2007,41,1. Male,2. Married,1. White,2. HS Grad,144.4780877
+2006,38,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2004,58,1. Male,2. Married,1. White,1. < HS Grad,118.8843593
+2004,59,1. Male,2. Married,3. Asian,5. Advanced Degree,189.2441629
+2005,39,1. Male,2. Married,1. White,5. Advanced Degree,160.6424754
+2006,60,1. Male,2. Married,1. White,3. Some College,96.03165702
+2007,56,1. Male,2. Married,1. White,2. HS Grad,111.0651943
+2008,44,1. Male,2. Married,1. White,3. Some College,148.4131591
+2008,70,1. Male,2. Married,2. Black,3. Some College,99.6894637
+2009,27,1. Male,1. Never Married,1. White,4. College Grad,81.28325328
+2004,47,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2003,41,1. Male,2. Married,1. White,3. Some College,127.1157438
+2008,29,1. Male,2. Married,1. White,3. Some College,104.9215065
+2009,42,1. Male,2. Married,1. White,1. < HS Grad,112.6488963
+2007,51,1. Male,4. Divorced,1. White,4. College Grad,281.7459706
+2009,47,1. Male,2. Married,1. White,2. HS Grad,114.4775211
+2008,48,1. Male,2. Married,2. Black,2. HS Grad,111.7208494
+2003,39,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2005,23,1. Male,1. Never Married,1. White,2. HS Grad,75.35567932
+2007,31,1. Male,2. Married,1. White,3. Some College,119.7408513
+2005,59,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2003,19,1. Male,1. Never Married,1. White,1. < HS Grad,27.14057921
+2009,42,1. Male,2. Married,1. White,5. Advanced Degree,182.020621
+2004,35,1. Male,2. Married,3. Asian,2. HS Grad,65.11085372
+2007,38,1. Male,2. Married,1. White,5. Advanced Degree,141.7751723
+2006,45,1. Male,2. Married,1. White,3. Some College,114.4757133
+2008,58,1. Male,2. Married,1. White,5. Advanced Degree,135.5980598
+2006,26,1. Male,1. Never Married,1. White,3. Some College,117.1468169
+2003,30,1. Male,1. Never Married,3. Asian,2. HS Grad,99.6894637
+2006,54,1. Male,5. Separated,1. White,5. Advanced Degree,277.7994802
+2008,38,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2005,44,1. Male,2. Married,3. Asian,2. HS Grad,94.07271475
+2003,52,1. Male,2. Married,1. White,4. College Grad,96.37065283
+2004,73,1. Male,4. Divorced,1. White,2. HS Grad,75.35567932
+2006,65,1. Male,2. Married,1. White,5. Advanced Degree,104.9215065
+2003,28,1. Male,2. Married,1. White,4. College Grad,95.23071257
+2009,53,1. Male,2. Married,1. White,1. < HS Grad,54.59815003
+2006,53,1. Male,2. Married,1. White,3. Some College,89.24288466
+2008,52,1. Male,2. Married,1. White,4. College Grad,145.1436012
+2009,27,1. Male,1. Never Married,1. White,2. HS Grad,96.86670324
+2003,57,1. Male,2. Married,1. White,1. < HS Grad,130.9821774
+2004,32,1. Male,1. Never Married,1. White,4. College Grad,84.04595765
+2007,51,1. Male,1. Never Married,1. White,2. HS Grad,148.1550467
+2008,43,1. Male,2. Married,1. White,2. HS Grad,49.55533812
+2004,50,1. Male,2. Married,1. White,3. Some College,141.7751723
+2004,53,1. Male,2. Married,1. White,3. Some College,115.3750386
+2007,54,1. Male,2. Married,3. Asian,1. < HS Grad,65.11085372
+2007,24,1. Male,1. Never Married,1. White,2. HS Grad,85.38394038
+2008,40,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2003,30,1. Male,2. Married,1. White,4. College Grad,95.23071257
+2003,45,1. Male,2. Married,1. White,4. College Grad,99.6894637
+2007,55,1. Male,4. Divorced,1. White,4. College Grad,147.1166892
+2003,45,1. Male,1. Never Married,1. White,5. Advanced Degree,140.3982002
+2004,44,1. Male,1. Never Married,2. Black,4. College Grad,109.8339856
+2004,37,1. Male,3. Widowed,1. White,4. College Grad,127.1157438
+2008,41,1. Male,2. Married,1. White,1. < HS Grad,115.3750386
+2007,44,1. Male,2. Married,1. White,2. HS Grad,59.09706408
+2007,52,1. Male,1. Never Married,1. White,2. HS Grad,76.89360252
+2009,55,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2003,43,1. Male,2. Married,1. White,2. HS Grad,70.90958587
+2009,27,1. Male,1. Never Married,3. Asian,5. Advanced Degree,200.5432623
+2006,43,1. Male,2. Married,1. White,2. HS Grad,97.49329405
+2007,46,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2003,30,1. Male,2. Married,1. White,3. Some College,186.8766776
+2003,43,1. Male,2. Married,1. White,1. < HS Grad,81.28325328
+2005,48,1. Male,2. Married,1. White,3. Some College,160.6424754
+2003,33,1. Male,1. Never Married,2. Black,1. < HS Grad,63.96669083
+2008,29,1. Male,1. Never Married,1. White,3. Some College,87.98103279
+2005,24,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2009,52,1. Male,2. Married,1. White,3. Some College,145.1436012
+2005,50,1. Male,2. Married,1. White,5. Advanced Degree,141.7751723
+2005,24,1. Male,1. Never Married,1. White,2. HS Grad,76.89360252
+2003,42,1. Male,1. Never Married,1. White,3. Some College,123.9085676
+2004,53,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2008,49,1. Male,2. Married,1. White,5. Advanced Degree,279.197497
+2004,46,1. Male,2. Married,1. White,1. < HS Grad,54.59815003
+2008,40,1. Male,2. Married,1. White,3. Some College,154.685293
+2003,41,1. Male,1. Never Married,3. Asian,5. Advanced Degree,180.0301971
+2006,41,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2009,36,1. Male,2. Married,1. White,3. Some College,87.98103279
+2003,34,1. Male,2. Married,2. Black,3. Some College,91.69922611
+2004,24,1. Male,1. Never Married,1. White,3. Some College,59.09706408
+2008,44,1. Male,2. Married,1. White,4. College Grad,123.9085676
+2007,33,1. Male,2. Married,2. Black,4. College Grad,109.8339856
+2007,25,1. Male,1. Never Married,1. White,2. HS Grad,94.07271475
+2005,40,1. Male,2. Married,1. White,2. HS Grad,117.1468169
+2007,48,1. Male,1. Never Married,3. Asian,2. HS Grad,65.11085372
+2005,56,1. Male,2. Married,1. White,2. HS Grad,97.49329405
+2005,25,1. Male,1. Never Married,1. White,4. College Grad,118.0197533
+2005,44,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2003,27,1. Male,1. Never Married,1. White,3. Some College,116.1766952
+2006,58,1. Male,2. Married,1. White,1. < HS Grad,75.35567932
+2008,52,1. Male,4. Divorced,2. Black,4. College Grad,95.23071257
+2007,60,1. Male,1. Never Married,1. White,5. Advanced Degree,111.7208494
+2008,39,1. Male,2. Married,1. White,3. Some College,103.9024706
+2004,51,1. Male,2. Married,1. White,4. College Grad,147.1166892
+2007,31,1. Male,1. Never Married,1. White,3. Some College,87.98103279
+2005,45,1. Male,3. Widowed,1. White,2. HS Grad,118.8843593
+2005,43,1. Male,1. Never Married,1. White,4. College Grad,100.7642728
+2008,45,1. Male,2. Married,1. White,4. College Grad,120.5894365
+2004,40,1. Male,2. Married,1. White,3. Some College,193.8668781
+2008,46,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2009,51,1. Male,2. Married,1. White,5. Advanced Degree,267.9010869
+2006,47,1. Male,4. Divorced,1. White,4. College Grad,174.402876
+2004,52,1. Male,2. Married,1. White,5. Advanced Degree,133.9715001
+2003,31,1. Male,4. Divorced,1. White,2. HS Grad,154.685293
+2007,40,1. Male,2. Married,2. Black,4. College Grad,154.685293
+2009,26,1. Male,1. Never Married,1. White,4. College Grad,118.8843593
+2004,49,1. Male,2. Married,1. White,2. HS Grad,95.23071257
+2009,38,1. Male,4. Divorced,1. White,3. Some College,109.8339856
+2005,50,1. Male,2. Married,4. Other,1. < HS Grad,111.7208494
+2006,63,1. Male,2. Married,1. White,3. Some College,134.7053751
+2008,35,1. Male,2. Married,1. White,1. < HS Grad,85.90104432
+2008,29,1. Male,1. Never Married,1. White,2. HS Grad,118.8843593
+2008,33,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2007,29,1. Male,2. Married,1. White,2. HS Grad,92.89584479
+2007,62,1. Male,4. Divorced,1. White,4. College Grad,109.8339856
+2008,45,1. Male,2. Married,1. White,5. Advanced Degree,124.7204462
+2003,56,1. Male,2. Married,1. White,1. < HS Grad,127.901233
+2003,58,1. Male,2. Married,1. White,1. < HS Grad,97.49329405
+2007,39,1. Male,2. Married,1. White,5. Advanced Degree,198.3502905
+2005,49,1. Male,2. Married,1. White,3. Some College,92.89584479
+2004,24,1. Male,1. Never Married,1. White,4. College Grad,94.07271475
+2003,61,1. Male,4. Divorced,1. White,2. HS Grad,148.4131591
+2008,58,1. Male,2. Married,1. White,4. College Grad,79.85490031
+2009,47,1. Male,2. Married,3. Asian,3. Some College,118.8843593
+2004,41,1. Male,5. Separated,1. White,4. College Grad,87.98103279
+2008,71,1. Male,2. Married,1. White,1. < HS Grad,94.07271475
+2006,47,1. Male,2. Married,1. White,3. Some College,150.0704769
+2005,38,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2005,31,1. Male,1. Never Married,1. White,4. College Grad,73.77574327
+2007,56,1. Male,2. Married,3. Asian,4. College Grad,125.1238157
+2006,44,1. Male,1. Never Married,1. White,4. College Grad,277.7994802
+2003,33,1. Male,2. Married,1. White,4. College Grad,107.9039239
+2005,36,1. Male,1. Never Married,1. White,4. College Grad,60.73977852
+2006,31,1. Male,2. Married,1. White,4. College Grad,92.0363233
+2004,55,1. Male,2. Married,1. White,3. Some College,109.8339856
+2005,48,1. Male,2. Married,1. White,4. College Grad,66.96164432
+2005,50,1. Male,2. Married,1. White,3. Some College,114.4757133
+2006,42,1. Male,2. Married,1. White,4. College Grad,170.6951277
+2008,25,1. Male,1. Never Married,1. White,3. Some College,130.9821774
+2008,55,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2004,28,1. Male,1. Never Married,1. White,5. Advanced Degree,117.1468169
+2003,30,1. Male,2. Married,4. Other,1. < HS Grad,123.0896998
+2008,46,1. Male,1. Never Married,2. Black,4. College Grad,120.5894365
+2004,48,1. Male,4. Divorced,1. White,5. Advanced Degree,130.9821774
+2006,42,1. Male,4. Divorced,1. White,3. Some College,81.28325328
+2008,23,1. Male,2. Married,1. White,4. College Grad,36.6737042
+2003,60,1. Male,2. Married,1. White,5. Advanced Degree,104.9215065
+2008,34,1. Male,2. Married,2. Black,1. < HS Grad,74.41296351
+2003,45,1. Male,2. Married,1. White,4. College Grad,129.0678205
+2007,28,1. Male,1. Never Married,1. White,3. Some College,84.10001012
+2004,33,1. Male,2. Married,1. White,5. Advanced Degree,185.9186629
+2008,58,1. Male,2. Married,1. White,2. HS Grad,105.9278108
+2008,47,1. Male,2. Married,1. White,5. Advanced Degree,163.515864
+2003,24,1. Male,1. Never Married,1. White,3. Some College,63.188861
+2008,56,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2004,56,1. Male,2. Married,1. White,4. College Grad,120.9267015
+2005,23,1. Male,1. Never Married,4. Other,4. College Grad,94.07271475
+2003,56,1. Male,2. Married,1. White,5. Advanced Degree,132.4878211
+2003,45,1. Male,2. Married,1. White,4. College Grad,133.2323508
+2009,58,1. Male,2. Married,1. White,3. Some College,145.1436012
+2007,30,1. Male,2. Married,3. Asian,5. Advanced Degree,118.8843593
+2009,46,1. Male,2. Married,1. White,5. Advanced Degree,150.3306535
+2004,48,1. Male,2. Married,1. White,5. Advanced Degree,278.9644667
+2006,50,1. Male,4. Divorced,1. White,2. HS Grad,98.26923081
+2008,43,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2006,37,1. Male,2. Married,1. White,1. < HS Grad,94.07271475
+2003,49,1. Male,4. Divorced,1. White,3. Some College,176.9896505
+2009,31,1. Male,2. Married,3. Asian,4. College Grad,166.3249412
+2009,54,1. Male,2. Married,3. Asian,2. HS Grad,94.07271475
+2007,52,1. Male,2. Married,1. White,4. College Grad,139.7030715
+2003,70,1. Male,2. Married,1. White,2. HS Grad,78.3924668
+2005,30,1. Male,2. Married,1. White,5. Advanced Degree,141.7758565
+2006,44,1. Male,2. Married,1. White,2. HS Grad,116.2653241
+2003,34,1. Male,2. Married,3. Asian,4. College Grad,148.4131591
+2007,38,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2006,28,1. Male,5. Separated,1. White,1. < HS Grad,90.48191336
+2005,38,1. Male,2. Married,1. White,3. Some College,141.7751723
+2003,39,1. Male,2. Married,1. White,2. HS Grad,63.09271673
+2008,52,1. Male,1. Never Married,1. White,4. College Grad,65.11085372
+2004,34,1. Male,1. Never Married,1. White,4. College Grad,151.5914842
+2003,33,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2007,45,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2006,58,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2003,38,1. Male,2. Married,1. White,2. HS Grad,104.0049599
+2007,63,1. Male,2. Married,1. White,4. College Grad,55.53610442
+2007,38,1. Male,2. Married,1. White,5. Advanced Degree,99.6894637
+2007,31,1. Male,2. Married,1. White,3. Some College,99.6894637
+2007,53,1. Male,2. Married,1. White,4. College Grad,193.4526069
+2009,21,1. Male,1. Never Married,2. Black,2. HS Grad,102.8702469
+2006,38,1. Male,2. Married,1. White,4. College Grad,164.6469889
+2004,18,1. Male,1. Never Married,1. White,1. < HS Grad,69.6190369
+2008,28,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2003,33,1. Male,1. Never Married,1. White,4. College Grad,114.4757133
+2004,32,1. Male,2. Married,1. White,3. Some College,99.6894637
+2009,29,1. Male,1. Never Married,1. White,2. HS Grad,95.23071257
+2005,28,1. Male,2. Married,1. White,1. < HS Grad,82.6796373
+2005,42,1. Male,2. Married,1. White,5. Advanced Degree,116.9430813
+2007,28,1. Male,3. Widowed,1. White,1. < HS Grad,54.59815003
+2009,36,1. Male,2. Married,1. White,5. Advanced Degree,138.2991269
+2007,47,1. Male,2. Married,1. White,2. HS Grad,130.9821774
+2007,53,1. Male,2. Married,1. White,5. Advanced Degree,281.7459706
+2003,48,1. Male,2. Married,1. White,5. Advanced Degree,163.515864
+2006,36,1. Male,2. Married,1. White,5. Advanced Degree,179.214858
+2007,55,1. Male,2. Married,1. White,3. Some College,126.3238807
+2008,37,1. Male,2. Married,1. White,1. < HS Grad,70.47601965
+2009,68,1. Male,2. Married,1. White,4. College Grad,118.0197533
+2003,65,1. Male,2. Married,4. Other,2. HS Grad,71.31963879
+2007,37,1. Male,1. Never Married,1. White,4. College Grad,114.4757133
+2007,33,1. Male,2. Married,1. White,4. College Grad,138.2991269
+2003,19,1. Male,1. Never Married,1. White,2. HS Grad,54.59815003
+2004,50,1. Male,2. Married,1. White,4. College Grad,94.07271475
+2004,22,1. Male,1. Never Married,1. White,3. Some College,80.43020795
+2004,40,1. Male,2. Married,1. White,3. Some College,89.24288466
+2008,45,1. Male,2. Married,1. White,3. Some College,117.1468169
+2009,36,1. Male,2. Married,1. White,5. Advanced Degree,127.1157438
+2005,37,1. Male,2. Married,3. Asian,1. < HS Grad,81.28325328
+2003,24,1. Male,1. Never Married,1. White,2. HS Grad,52.40706405
+2007,66,1. Male,2. Married,2. Black,1. < HS Grad,99.6894637
+2004,35,1. Male,2. Married,3. Asian,1. < HS Grad,63.188861
+2009,33,1. Male,1. Never Married,1. White,4. College Grad,196.1252726
+2005,44,1. Male,2. Married,1. White,3. Some College,101.8243521
+2004,48,1. Male,1. Never Married,1. White,3. Some College,107.9039239
+2009,47,1. Male,2. Married,1. White,2. HS Grad,51.23965492
+2004,41,1. Male,2. Married,1. White,3. Some College,99.6894637
+2005,55,1. Male,2. Married,1. White,4. College Grad,63.188861
+2008,74,1. Male,4. Divorced,2. Black,5. Advanced Degree,148.4131591
+2007,33,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2003,62,1. Male,2. Married,1. White,5. Advanced Degree,130.9821774
+2004,56,1. Male,4. Divorced,1. White,2. HS Grad,101.8243521
+2006,29,1. Male,1. Never Married,1. White,5. Advanced Degree,99.6894637
+2009,56,1. Male,1. Never Married,2. Black,1. < HS Grad,79.85490031
+2009,47,1. Male,2. Married,2. Black,5. Advanced Degree,160.6424754
+2005,45,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2007,44,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2004,25,1. Male,1. Never Married,1. White,4. College Grad,91.69922611
+2005,45,1. Male,4. Divorced,2. Black,3. Some College,75.35567932
+2005,40,1. Male,2. Married,1. White,4. College Grad,136.1577108
+2003,56,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2005,56,1. Male,2. Married,3. Asian,3. Some College,81.98531783
+2003,47,1. Male,2. Married,3. Asian,4. College Grad,176.9896505
+2007,39,1. Male,2. Married,1. White,2. HS Grad,118.8860804
+2005,38,1. Male,2. Married,1. White,3. Some College,121.2627457
+2009,48,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2005,44,1. Male,2. Married,2. Black,2. HS Grad,99.6894637
+2003,42,1. Male,2. Married,1. White,5. Advanced Degree,123.9085676
+2009,55,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2006,61,1. Male,1. Never Married,1. White,5. Advanced Degree,82.6796373
+2006,39,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2005,30,1. Male,2. Married,2. Black,3. Some College,104.9215065
+2009,49,1. Male,4. Divorced,1. White,2. HS Grad,99.6894637
+2006,33,1. Male,2. Married,1. White,4. College Grad,136.1577108
+2006,31,1. Male,2. Married,1. White,1. < HS Grad,81.28325328
+2005,35,1. Male,1. Never Married,3. Asian,2. HS Grad,68.50868966
+2003,55,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2008,36,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2003,37,1. Male,2. Married,1. White,2. HS Grad,118.0197533
+2006,33,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2006,48,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2004,47,1. Male,2. Married,3. Asian,3. Some College,118.8843593
+2003,60,1. Male,2. Married,1. White,3. Some College,123.0896998
+2004,28,1. Male,1. Never Married,1. White,4. College Grad,109.8339856
+2005,28,1. Male,2. Married,1. White,3. Some College,102.8702469
+2005,48,1. Male,2. Married,1. White,4. College Grad,163.515864
+2009,29,1. Male,2. Married,1. White,5. Advanced Degree,117.1468169
+2004,40,1. Male,1. Never Married,1. White,2. HS Grad,92.30006143
+2009,32,1. Male,1. Never Married,1. White,5. Advanced Degree,100.0134869
+2004,33,1. Male,4. Divorced,1. White,2. HS Grad,55.06972842
+2003,40,1. Male,4. Divorced,1. White,2. HS Grad,101.8243521
+2004,42,1. Male,2. Married,1. White,3. Some College,148.4131591
+2003,36,1. Male,2. Married,1. White,2. HS Grad,115.3750386
+2004,39,1. Male,2. Married,2. Black,1. < HS Grad,73.77574327
+2009,44,1. Male,2. Married,1. White,5. Advanced Degree,267.9010869
+2009,43,1. Male,2. Married,1. White,2. HS Grad,129.4536446
+2008,44,1. Male,2. Married,1. White,1. < HS Grad,96.37065283
+2006,29,1. Male,2. Married,3. Asian,5. Advanced Degree,87.98103279
+2007,49,1. Male,2. Married,2. Black,3. Some College,104.9215065
+2007,47,1. Male,2. Married,2. Black,3. Some College,130.9821774
+2004,46,1. Male,2. Married,3. Asian,5. Advanced Degree,190.5476786
+2006,41,1. Male,4. Divorced,1. White,1. < HS Grad,118.0197533
+2008,52,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2003,43,1. Male,4. Divorced,1. White,2. HS Grad,72.4793163
+2004,38,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2003,42,1. Male,2. Married,1. White,3. Some College,74.4446382
+2005,56,1. Male,2. Married,2. Black,4. College Grad,118.8843593
+2003,39,1. Male,2. Married,1. White,2. HS Grad,128.6804882
+2005,29,1. Male,2. Married,2. Black,3. Some College,87.98103279
+2009,33,1. Male,2. Married,1. White,5. Advanced Degree,267.9010869
+2004,33,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2004,41,1. Male,2. Married,1. White,2. HS Grad,92.89584479
+2004,44,1. Male,1. Never Married,2. Black,1. < HS Grad,70.47601965
+2005,45,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2004,58,1. Male,2. Married,1. White,2. HS Grad,102.8702469
+2005,29,1. Male,2. Married,1. White,3. Some College,102.8702469
+2004,42,1. Male,4. Divorced,1. White,2. HS Grad,65.11085372
+2008,68,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2005,47,1. Male,2. Married,1. White,5. Advanced Degree,127.1157438
+2005,30,1. Male,2. Married,2. Black,4. College Grad,94.07271475
+2005,39,1. Male,2. Married,1. White,1. < HS Grad,67.86252341
+2008,42,1. Male,2. Married,1. White,4. College Grad,125.5254984
+2006,49,1. Male,2. Married,1. White,3. Some College,165.2087738
+2009,36,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2003,44,1. Male,2. Married,3. Asian,2. HS Grad,112.6488963
+2009,54,1. Male,2. Married,1. White,2. HS Grad,76.89360252
+2003,42,1. Male,2. Married,1. White,2. HS Grad,75.04315402
+2003,39,1. Male,2. Married,1. White,4. College Grad,128.6804882
+2008,30,1. Male,2. Married,3. Asian,2. HS Grad,59.09706408
+2004,33,1. Male,1. Never Married,2. Black,2. HS Grad,63.7733912
+2003,28,1. Male,2. Married,1. White,2. HS Grad,84.04595765
+2003,38,1. Male,2. Married,1. White,2. HS Grad,93.93718158
+2005,30,1. Male,2. Married,4. Other,3. Some College,82.6796373
+2008,25,1. Male,1. Never Married,1. White,5. Advanced Degree,118.8843593
+2007,52,1. Male,2. Married,2. Black,2. HS Grad,81.28325328
+2007,26,1. Male,2. Married,1. White,2. HS Grad,66.96164432
+2009,54,1. Male,2. Married,1. White,4. College Grad,166.3249412
+2005,62,1. Male,2. Married,1. White,4. College Grad,99.6894637
+2009,57,1. Male,2. Married,3. Asian,5. Advanced Degree,141.7751723
+2003,32,1. Male,2. Married,1. White,4. College Grad,143.1349408
+2003,60,1. Male,2. Married,1. White,2. HS Grad,35.03342132
+2004,40,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2005,49,1. Male,2. Married,1. White,2. HS Grad,111.0144055
+2006,54,1. Male,2. Married,1. White,4. College Grad,132.4878211
+2009,48,1. Male,1. Never Married,1. White,5. Advanced Degree,148.4131591
+2009,35,1. Male,1. Never Married,1. White,1. < HS Grad,73.77574327
+2009,46,1. Male,4. Divorced,1. White,2. HS Grad,143.6997101
+2007,42,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2004,58,1. Male,2. Married,1. White,4. College Grad,272.2947832
+2003,30,1. Male,1. Never Married,1. White,4. College Grad,200.5432623
+2008,27,1. Male,1. Never Married,1. White,2. HS Grad,85.38658902
+2008,55,1. Male,2. Married,1. White,1. < HS Grad,109.8339856
+2004,50,1. Male,2. Married,1. White,2. HS Grad,61.05242105
+2006,55,1. Male,4. Divorced,1. White,2. HS Grad,118.8843593
+2006,40,1. Male,2. Married,1. White,3. Some College,145.8051634
+2005,32,1. Male,2. Married,1. White,2. HS Grad,112.6488963
+2006,27,1. Male,2. Married,1. White,2. HS Grad,106.9218141
+2007,49,1. Male,2. Married,1. White,3. Some College,106.9218141
+2007,50,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2006,50,1. Male,2. Married,1. White,1. < HS Grad,87.98103279
+2008,44,1. Male,2. Married,1. White,5. Advanced Degree,144.4780877
+2007,57,1. Male,2. Married,3. Asian,5. Advanced Degree,160.409702
+2008,72,1. Male,2. Married,2. Black,5. Advanced Degree,87.98103279
+2006,23,1. Male,1. Never Married,1. White,1. < HS Grad,65.11085372
+2007,31,1. Male,1. Never Married,1. White,5. Advanced Degree,176.9896505
+2008,36,1. Male,2. Married,1. White,2. HS Grad,54.59815003
+2009,63,1. Male,2. Married,2. Black,3. Some College,109.8339856
+2006,48,1. Male,2. Married,1. White,1. < HS Grad,81.69842172
+2005,46,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2003,55,1. Male,2. Married,1. White,4. College Grad,142.6344728
+2007,44,1. Male,2. Married,1. White,5. Advanced Degree,160.6424754
+2006,44,1. Male,2. Married,1. White,3. Some College,94.07271475
+2004,32,1. Male,2. Married,4. Other,1. < HS Grad,54.59815003
+2003,60,1. Male,2. Married,1. White,1. < HS Grad,73.77574327
+2004,42,1. Male,2. Married,1. White,5. Advanced Degree,160.6424754
+2009,48,1. Male,2. Married,2. Black,5. Advanced Degree,148.4131591
+2008,36,1. Male,2. Married,1. White,1. < HS Grad,87.98230643
+2009,31,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2006,54,1. Male,2. Married,1. White,2. HS Grad,111.7208494
+2007,29,1. Male,2. Married,1. White,3. Some College,106.9218141
+2003,46,1. Male,4. Divorced,1. White,3. Some College,126.3238807
+2003,35,1. Male,4. Divorced,1. White,2. HS Grad,109.8339856
+2009,50,1. Male,2. Married,1. White,1. < HS Grad,92.89584479
+2005,25,1. Male,2. Married,1. White,3. Some College,54.59815003
+2005,33,1. Male,1. Never Married,1. White,3. Some College,96.37065283
+2008,34,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2006,51,1. Male,2. Married,2. Black,2. HS Grad,94.07271475
+2004,33,1. Male,2. Married,1. White,2. HS Grad,95.23071257
+2007,59,1. Male,2. Married,1. White,3. Some College,139.0034081
+2006,62,1. Male,5. Separated,2. Black,1. < HS Grad,81.28325328
+2005,28,1. Male,5. Separated,1. White,2. HS Grad,94.07271475
+2008,40,1. Male,2. Married,1. White,3. Some College,87.98103279
+2003,52,1. Male,2. Married,1. White,5. Advanced Degree,138.2991269
+2007,29,1. Male,2. Married,1. White,2. HS Grad,89.49247952
+2007,34,1. Male,2. Married,1. White,1. < HS Grad,92.89584479
+2004,25,1. Male,1. Never Married,1. White,2. HS Grad,54.59815003
+2005,66,1. Male,2. Married,1. White,4. College Grad,94.07271475
+2005,43,1. Male,2. Married,1. White,2. HS Grad,68.74808773
+2007,45,1. Male,2. Married,2. Black,2. HS Grad,92.89584479
+2006,35,1. Male,2. Married,1. White,5. Advanced Degree,114.4757133
+2005,43,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2007,49,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2004,60,1. Male,1. Never Married,2. Black,1. < HS Grad,77.04520085
+2003,46,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2009,55,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2006,32,1. Male,2. Married,1. White,3. Some College,118.8843593
+2007,53,1. Male,2. Married,1. White,2. HS Grad,133.2323508
+2009,57,1. Male,2. Married,1. White,4. College Grad,157.1035043
+2007,51,1. Male,2. Married,1. White,5. Advanced Degree,281.7459706
+2004,59,1. Male,2. Married,1. White,5. Advanced Degree,182.020621
+2006,45,1. Male,2. Married,1. White,3. Some College,119.0992348
+2006,56,1. Male,1. Never Married,1. White,2. HS Grad,71.68674367
+2005,30,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2006,21,1. Male,1. Never Married,1. White,2. HS Grad,72.15045568
+2003,60,1. Male,2. Married,1. White,4. College Grad,138.2991269
+2007,60,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2007,48,1. Male,4. Divorced,1. White,1. < HS Grad,109.8339856
+2003,39,1. Male,4. Divorced,1. White,4. College Grad,87.98103279
+2009,32,1. Male,1. Never Married,1. White,3. Some College,115.3750386
+2007,51,1. Male,2. Married,2. Black,5. Advanced Degree,191.5736835
+2006,47,1. Male,2. Married,1. White,4. College Grad,86.69515483
+2007,44,1. Male,2. Married,1. White,2. HS Grad,75.8522372
+2008,46,1. Male,2. Married,1. White,2. HS Grad,166.3249412
+2004,28,1. Male,1. Never Married,1. White,4. College Grad,56.90553914
+2003,24,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2006,37,1. Male,2. Married,1. White,2. HS Grad,92.89584479
+2006,31,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2004,72,1. Male,2. Married,1. White,2. HS Grad,92.89584479
+2008,50,1. Male,2. Married,1. White,3. Some College,101.8243521
+2007,36,1. Male,2. Married,1. White,3. Some College,145.1436012
+2006,27,1. Male,1. Never Married,2. Black,2. HS Grad,76.89360252
+2009,27,1. Male,2. Married,1. White,3. Some College,90.48191336
+2004,41,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2008,20,1. Male,1. Never Married,1. White,3. Some College,82.6796373
+2008,49,1. Male,2. Married,2. Black,2. HS Grad,99.6894637
+2007,25,1. Male,1. Never Married,1. White,2. HS Grad,64.15923257
+2006,41,1. Male,2. Married,3. Asian,1. < HS Grad,89.49247952
+2009,53,1. Male,1. Never Married,1. White,2. HS Grad,87.98103279
+2009,45,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2003,32,1. Male,2. Married,1. White,1. < HS Grad,66.96164432
+2005,47,1. Male,2. Married,1. White,3. Some College,148.4131591
+2003,26,1. Male,2. Married,1. White,2. HS Grad,123.0896998
+2009,31,1. Male,2. Married,2. Black,3. Some College,133.2323508
+2007,32,1. Male,2. Married,3. Asian,5. Advanced Degree,118.8843593
+2006,50,1. Male,4. Divorced,1. White,5. Advanced Degree,120.1661196
+2007,46,1. Male,2. Married,1. White,2. HS Grad,115.3750386
+2006,47,1. Male,2. Married,1. White,5. Advanced Degree,112.6488963
+2005,55,1. Male,2. Married,1. White,3. Some College,118.8843593
+2005,49,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2004,25,1. Male,2. Married,1. White,2. HS Grad,61.18752643
+2008,60,1. Male,2. Married,1. White,2. HS Grad,95.68881191
+2008,62,1. Male,2. Married,1. White,2. HS Grad,89.24288466
+2003,63,1. Male,5. Separated,2. Black,2. HS Grad,127.901233
+2004,31,1. Male,1. Never Married,1. White,5. Advanced Degree,128.6804882
+2006,29,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2008,51,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2007,28,1. Male,2. Married,3. Asian,2. HS Grad,76.12969964
+2005,36,1. Male,1. Never Married,1. White,3. Some College,123.0896998
+2007,28,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2004,38,1. Male,2. Married,1. White,4. College Grad,102.8702469
+2008,35,1. Male,2. Married,1. White,3. Some College,96.37065283
+2005,46,1. Male,4. Divorced,1. White,3. Some College,117.1468169
+2007,37,1. Male,2. Married,1. White,3. Some College,90.48191336
+2005,41,1. Male,4. Divorced,2. Black,3. Some College,104.9215065
+2006,59,1. Male,2. Married,2. Black,3. Some College,73.77574327
+2006,51,1. Male,2. Married,1. White,3. Some College,107.9039239
+2006,26,1. Male,1. Never Married,2. Black,2. HS Grad,99.6894637
+2003,34,1. Male,2. Married,2. Black,3. Some College,60.15412466
+2004,32,1. Male,2. Married,1. White,2. HS Grad,123.0896998
+2007,23,1. Male,1. Never Married,1. White,3. Some College,81.28325328
+2004,50,1. Male,2. Married,1. White,2. HS Grad,143.1349408
+2009,25,1. Male,1. Never Married,1. White,1. < HS Grad,69.09818381
+2004,43,1. Male,2. Married,1. White,2. HS Grad,78.98167452
+2009,36,1. Male,2. Married,2. Black,3. Some College,128.6804882
+2006,50,1. Male,2. Married,1. White,2. HS Grad,54.59815003
+2006,34,1. Male,5. Separated,2. Black,2. HS Grad,134.7053751
+2005,34,1. Male,1. Never Married,1. White,2. HS Grad,104.9215065
+2005,55,1. Male,2. Married,3. Asian,5. Advanced Degree,277.6014175
+2003,39,1. Male,2. Married,2. Black,2. HS Grad,78.21457569
+2004,40,1. Male,2. Married,1. White,1. < HS Grad,82.6796373
+2005,32,1. Male,2. Married,1. White,3. Some College,117.1468169
+2006,63,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2004,38,1. Male,1. Never Married,1. White,2. HS Grad,109.8339856
+2008,67,1. Male,2. Married,3. Asian,2. HS Grad,59.09706408
+2005,39,1. Male,2. Married,1. White,2. HS Grad,116.2653241
+2003,31,1. Male,2. Married,3. Asian,2. HS Grad,61.18752643
+2006,41,1. Male,1. Never Married,1. White,3. Some College,114.4757133
+2003,47,1. Male,2. Married,1. White,1. < HS Grad,78.3924668
+2009,61,1. Male,2. Married,1. White,2. HS Grad,122.2636739
+2005,61,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2008,21,1. Male,2. Married,4. Other,2. HS Grad,54.59815003
+2004,22,1. Male,1. Never Married,1. White,4. College Grad,66.04469423
+2003,53,1. Male,2. Married,1. White,4. College Grad,126.9578857
+2004,47,1. Male,2. Married,1. White,4. College Grad,81.28325328
+2005,36,1. Male,2. Married,1. White,3. Some College,127.901233
+2007,36,1. Male,1. Never Married,1. White,2. HS Grad,87.98103279
+2005,42,1. Male,2. Married,1. White,2. HS Grad,123.0896998
+2004,54,1. Male,4. Divorced,1. White,3. Some College,104.9215065
+2004,27,1. Male,2. Married,1. White,3. Some College,87.98103279
+2004,36,1. Male,2. Married,1. White,2. HS Grad,131.7378012
+2006,35,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2003,60,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2005,42,1. Male,5. Separated,1. White,2. HS Grad,91.60261566
+2008,41,1. Male,2. Married,2. Black,5. Advanced Degree,123.0896998
+2004,35,1. Male,1. Never Married,2. Black,3. Some College,131.6526987
+2006,34,1. Male,1. Never Married,2. Black,5. Advanced Degree,309.5717713
+2007,22,1. Male,1. Never Married,1. White,2. HS Grad,70.66104767
+2007,47,1. Male,2. Married,1. White,2. HS Grad,84.85204409
+2004,59,1. Male,2. Married,1. White,2. HS Grad,102.8702469
+2007,29,1. Male,1. Never Married,1. White,3. Some College,103.9024706
+2006,32,1. Male,1. Never Married,1. White,1. < HS Grad,94.07271475
+2003,49,1. Male,2. Married,1. White,4. College Grad,128.6804882
+2009,30,1. Male,1. Never Married,1. White,3. Some College,106.3268649
+2003,33,1. Male,1. Never Married,3. Asian,2. HS Grad,99.25528683
+2007,51,1. Male,2. Married,1. White,2. HS Grad,133.2323508
+2003,37,1. Male,2. Married,1. White,2. HS Grad,78.3924668
+2003,46,1. Male,2. Married,1. White,3. Some College,130.9821774
+2007,63,1. Male,2. Married,1. White,5. Advanced Degree,109.8339856
+2005,41,1. Male,2. Married,1. White,2. HS Grad,96.37065283
+2005,40,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2007,46,1. Male,2. Married,1. White,5. Advanced Degree,281.7459706
+2005,45,1. Male,4. Divorced,1. White,2. HS Grad,94.07271475
+2008,48,1. Male,1. Never Married,1. White,4. College Grad,200.5432623
+2007,28,1. Male,2. Married,1. White,3. Some College,87.98103279
+2009,65,1. Male,4. Divorced,2. Black,2. HS Grad,87.98103279
+2005,50,1. Male,1. Never Married,1. White,2. HS Grad,97.49329405
+2008,53,1. Male,2. Married,1. White,2. HS Grad,107.9039239
+2007,48,1. Male,2. Married,3. Asian,2. HS Grad,95.68881191
+2003,30,1. Male,2. Married,1. White,3. Some College,109.8339856
+2006,37,1. Male,2. Married,1. White,2. HS Grad,87.38744997
+2004,51,1. Male,2. Married,1. White,4. College Grad,88.83156917
+2008,55,1. Male,2. Married,1. White,5. Advanced Degree,166.3249412
+2004,35,1. Male,2. Married,1. White,2. HS Grad,94.69569513
+2006,33,1. Male,2. Married,1. White,2. HS Grad,122.2636739
+2008,41,1. Male,4. Divorced,1. White,4. College Grad,132.4878211
+2003,34,1. Male,2. Married,1. White,5. Advanced Degree,96.37065283
+2006,33,1. Male,2. Married,1. White,2. HS Grad,89.24288466
+2008,49,1. Male,1. Never Married,1. White,1. < HS Grad,81.28325328
+2006,62,1. Male,2. Married,1. White,5. Advanced Degree,73.77574327
+2004,31,1. Male,1. Never Married,2. Black,1. < HS Grad,109.8339856
+2007,43,1. Male,4. Divorced,1. White,1. < HS Grad,100.0996625
+2008,43,1. Male,2. Married,2. Black,4. College Grad,134.2656772
+2004,43,1. Male,1. Never Married,1. White,3. Some College,91.69922611
+2009,48,1. Male,2. Married,1. White,4. College Grad,109.5472966
+2003,48,1. Male,2. Married,1. White,2. HS Grad,70.47601965
+2007,50,1. Male,2. Married,1. White,4. College Grad,144.2047389
+2009,29,1. Male,1. Never Married,3. Asian,4. College Grad,99.6894637
+2004,52,1. Male,2. Married,1. White,3. Some College,94.07271475
+2004,46,1. Male,1. Never Married,1. White,2. HS Grad,87.98103279
+2005,40,1. Male,1. Never Married,1. White,2. HS Grad,94.07271475
+2004,43,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2006,54,1. Male,2. Married,1. White,2. HS Grad,115.3750386
+2006,38,1. Male,1. Never Married,1. White,5. Advanced Degree,107.9039239
+2004,32,1. Male,2. Married,1. White,3. Some College,101.4020523
+2008,28,1. Male,1. Never Married,3. Asian,4. College Grad,144.4794227
+2005,33,1. Male,1. Never Married,1. White,5. Advanced Degree,145.1436012
+2004,44,1. Male,2. Married,1. White,5. Advanced Degree,163.515864
+2006,41,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2005,31,1. Male,1. Never Married,1. White,1. < HS Grad,40.40566526
+2007,48,1. Male,4. Divorced,1. White,4. College Grad,97.49329405
+2007,50,1. Male,2. Married,2. Black,4. College Grad,117.1468169
+2004,47,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2004,31,1. Male,2. Married,2. Black,2. HS Grad,84.04595765
+2008,40,1. Male,2. Married,1. White,2. HS Grad,88.81647397
+2009,54,1. Male,4. Divorced,1. White,3. Some College,86.69515483
+2004,24,1. Male,1. Never Married,2. Black,2. HS Grad,75.35567932
+2005,34,1. Male,2. Married,1. White,2. HS Grad,98.59934386
+2003,65,1. Male,2. Married,1. White,4. College Grad,87.98103279
+2007,28,1. Male,2. Married,1. White,2. HS Grad,109.6429681
+2008,30,1. Male,5. Separated,1. White,2. HS Grad,79.85490031
+2009,45,1. Male,2. Married,1. White,3. Some College,166.3249412
+2008,35,1. Male,5. Separated,1. White,4. College Grad,139.0034081
+2005,46,1. Male,2. Married,4. Other,5. Advanced Degree,145.1436012
+2003,47,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2008,71,1. Male,2. Married,1. White,2. HS Grad,99.6916284
+2003,39,1. Male,2. Married,1. White,3. Some College,130.9821774
+2009,41,1. Male,1. Never Married,1. White,1. < HS Grad,68.74808773
+2007,33,1. Male,2. Married,1. White,2. HS Grad,139.7030715
+2009,76,1. Male,4. Divorced,1. White,5. Advanced Degree,176.9896505
+2009,20,1. Male,1. Never Married,1. White,2. HS Grad,76.89360252
+2006,34,1. Male,2. Married,1. White,5. Advanced Degree,134.7053751
+2003,26,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2006,51,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2003,25,1. Male,2. Married,1. White,1. < HS Grad,79.85490031
+2006,62,1. Male,2. Married,1. White,3. Some College,128.6804882
+2006,37,1. Male,2. Married,1. White,4. College Grad,180.7799522
+2009,37,1. Male,1. Never Married,2. Black,3. Some College,94.07271475
+2007,32,1. Male,2. Married,1. White,3. Some College,89.49247952
+2007,55,1. Male,2. Married,1. White,3. Some College,130.2208324
+2009,36,1. Male,2. Married,1. White,1. < HS Grad,77.49768139
+2006,39,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2004,46,1. Male,2. Married,1. White,4. College Grad,185.2833171
+2007,48,1. Male,2. Married,1. White,4. College Grad,128.6804882
+2005,34,1. Male,4. Divorced,1. White,4. College Grad,147.1166892
+2004,39,1. Male,2. Married,1. White,3. Some College,106.9218141
+2005,50,1. Male,2. Married,1. White,5. Advanced Degree,115.3750386
+2006,54,1. Male,2. Married,1. White,3. Some College,91.69922611
+2007,60,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2007,48,1. Male,1. Never Married,1. White,5. Advanced Degree,111.7208494
+2007,47,1. Male,2. Married,1. White,4. College Grad,126.3238807
+2004,20,1. Male,1. Never Married,1. White,2. HS Grad,65.11085372
+2003,60,1. Male,2. Married,1. White,2. HS Grad,107.9039239
+2003,37,1. Male,1. Never Married,1. White,4. College Grad,54.59815003
+2003,46,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2003,54,1. Male,2. Married,1. White,3. Some College,72.4793163
+2006,51,1. Male,2. Married,1. White,4. College Grad,130.9821774
+2009,32,1. Male,1. Never Married,2. Black,2. HS Grad,91.69922611
+2006,35,1. Male,2. Married,1. White,4. College Grad,154.685293
+2003,46,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2008,38,1. Male,2. Married,2. Black,1. < HS Grad,87.98103279
+2005,62,1. Male,2. Married,2. Black,2. HS Grad,80.57319971
+2003,47,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2003,28,1. Male,2. Married,3. Asian,5. Advanced Degree,141.7751723
+2007,61,1. Male,2. Married,1. White,4. College Grad,145.1436012
+2003,26,1. Male,1. Never Married,1. White,4. College Grad,94.07271475
+2006,49,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2009,28,1. Male,2. Married,1. White,2. HS Grad,113.5670896
+2003,61,1. Male,2. Married,1. White,2. HS Grad,101.5955382
+2003,42,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2009,31,1. Male,2. Married,1. White,5. Advanced Degree,127.1157438
+2009,50,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2005,44,1. Male,2. Married,1. White,1. < HS Grad,78.3924668
+2007,46,1. Male,2. Married,2. Black,2. HS Grad,318.3424301
+2006,54,1. Male,2. Married,1. White,2. HS Grad,82.6796373
+2003,40,1. Male,4. Divorced,1. White,2. HS Grad,97.49329405
+2005,38,1. Male,2. Married,1. White,2. HS Grad,87.8535469
+2006,43,1. Male,2. Married,1. White,5. Advanced Degree,184.1671358
+2009,43,1. Male,1. Never Married,2. Black,2. HS Grad,109.8339856
+2004,30,1. Male,2. Married,1. White,3. Some College,95.23071257
+2005,58,1. Male,2. Married,1. White,5. Advanced Degree,59.09706408
+2007,60,1. Male,2. Married,3. Asian,4. College Grad,118.8843593
+2004,45,1. Male,2. Married,1. White,5. Advanced Degree,130.9821774
+2008,47,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2005,47,1. Male,2. Married,1. White,1. < HS Grad,87.98103279
+2003,59,1. Male,4. Divorced,1. White,3. Some College,67.36898208
+2006,36,1. Male,2. Married,1. White,3. Some College,83.32134154
+2008,39,1. Male,1. Never Married,1. White,5. Advanced Degree,118.8843593
+2004,40,1. Male,2. Married,3. Asian,1. < HS Grad,105.9278108
+2003,42,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2009,29,1. Male,1. Never Married,1. White,5. Advanced Degree,73.77574327
+2005,38,1. Male,2. Married,1. White,4. College Grad,139.0034081
+2003,58,1. Male,2. Married,2. Black,3. Some College,123.0896998
+2004,18,1. Male,1. Never Married,1. White,2. HS Grad,55.99743383
+2004,35,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2008,30,1. Male,2. Married,3. Asian,5. Advanced Degree,154.0729972
+2003,48,1. Male,2. Married,1. White,3. Some College,118.8843593
+2004,27,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2005,40,1. Male,2. Married,1. White,3. Some College,120.9267015
+2007,34,1. Male,2. Married,1. White,5. Advanced Degree,97.49329405
+2004,54,1. Male,2. Married,1. White,2. HS Grad,141.7751723
+2006,20,1. Male,1. Never Married,2. Black,2. HS Grad,75.04315402
+2005,50,1. Male,2. Married,1. White,2. HS Grad,89.49247952
+2009,42,1. Male,2. Married,1. White,5. Advanced Degree,198.3502905
+2008,45,1. Male,2. Married,2. Black,3. Some College,65.26143902
+2003,59,1. Male,2. Married,1. White,3. Some College,107.9039239
+2003,44,1. Male,2. Married,1. White,1. < HS Grad,81.28325328
+2005,67,1. Male,4. Divorced,1. White,4. College Grad,76.89360252
+2007,26,1. Male,1. Never Married,2. Black,4. College Grad,76.89360252
+2007,40,1. Male,2. Married,1. White,5. Advanced Degree,140.3982002
+2004,42,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2005,22,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2005,43,1. Male,2. Married,1. White,3. Some College,140.3982002
+2004,34,1. Male,1. Never Married,1. White,2. HS Grad,79.85490031
+2004,44,1. Male,4. Divorced,2. Black,2. HS Grad,79.85490031
+2003,53,1. Male,2. Married,1. White,3. Some College,268.266292
+2003,54,1. Male,2. Married,1. White,5. Advanced Degree,124.7204462
+2008,55,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2009,30,1. Male,1. Never Married,3. Asian,5. Advanced Degree,118.8843593
+2004,48,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2003,48,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2008,30,1. Male,2. Married,3. Asian,5. Advanced Degree,127.1157438
+2006,38,1. Male,4. Divorced,1. White,3. Some College,110.7826503
+2005,25,1. Male,2. Married,1. White,3. Some College,91.69922611
+2009,59,1. Male,3. Widowed,2. Black,2. HS Grad,104.9215065
+2004,38,1. Male,2. Married,1. White,5. Advanced Degree,272.2947832
+2003,40,1. Male,2. Married,1. White,4. College Grad,268.266292
+2007,36,1. Male,2. Married,1. White,5. Advanced Degree,163.515864
+2008,60,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2005,40,1. Male,2. Married,3. Asian,4. College Grad,123.0896998
+2003,28,1. Male,2. Married,1. White,3. Some College,118.8843593
+2004,34,1. Male,2. Married,3. Asian,5. Advanced Degree,148.4131591
+2008,39,1. Male,2. Married,1. White,4. College Grad,175.4435493
+2005,26,1. Male,2. Married,1. White,2. HS Grad,96.37065283
+2004,28,1. Male,1. Never Married,1. White,2. HS Grad,96.93409046
+2004,27,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2008,34,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2009,38,1. Male,2. Married,2. Black,2. HS Grad,311.9345689
+2005,51,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2008,58,1. Male,4. Divorced,1. White,3. Some College,87.98103279
+2004,42,1. Male,2. Married,1. White,4. College Grad,138.2991269
+2005,32,1. Male,1. Never Married,2. Black,3. Some College,47.93367133
+2006,27,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2009,51,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2009,50,1. Male,2. Married,2. Black,2. HS Grad,133.2323508
+2009,25,1. Male,1. Never Married,3. Asian,4. College Grad,115.3750386
+2006,60,1. Male,2. Married,2. Black,2. HS Grad,120.9267015
+2004,62,1. Male,2. Married,1. White,3. Some College,148.4131591
+2006,53,1. Male,2. Married,1. White,3. Some College,120.5894365
+2009,39,1. Male,2. Married,1. White,4. College Grad,144.4780877
+2003,23,1. Male,1. Never Married,1. White,3. Some College,90.48191336
+2008,47,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2009,32,1. Male,1. Never Married,1. White,4. College Grad,123.0896998
+2003,57,1. Male,2. Married,1. White,4. College Grad,268.266292
+2005,40,1. Male,2. Married,2. Black,3. Some College,78.3924668
+2006,57,1. Male,2. Married,1. White,3. Some College,107.9039239
+2005,31,1. Male,2. Married,3. Asian,5. Advanced Degree,148.4131591
+2005,28,1. Male,1. Never Married,1. White,3. Some College,89.24288466
+2007,58,1. Male,2. Married,1. White,2. HS Grad,130.9821774
+2008,47,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2003,41,1. Male,2. Married,1. White,4. College Grad,70.47601965
+2004,53,1. Male,2. Married,1. White,2. HS Grad,108.6813082
+2009,27,1. Male,2. Married,1. White,4. College Grad,80.57319971
+2003,19,1. Male,1. Never Married,2. Black,1. < HS Grad,65.11085372
+2007,47,1. Male,2. Married,1. White,4. College Grad,65.11085372
+2005,44,1. Male,5. Separated,1. White,2. HS Grad,118.8843593
+2006,32,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2005,23,1. Male,1. Never Married,1. White,2. HS Grad,54.59815003
+2006,31,1. Male,2. Married,1. White,2. HS Grad,66.22940829
+2004,42,1. Male,2. Married,1. White,3. Some College,272.2947832
+2003,50,1. Male,2. Married,1. White,5. Advanced Degree,134.7053751
+2004,52,1. Male,2. Married,1. White,4. College Grad,46.7632688
+2003,20,1. Male,1. Never Married,1. White,2. HS Grad,76.89360252
+2004,33,1. Male,4. Divorced,1. White,2. HS Grad,81.28325328
+2008,26,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2004,40,1. Male,2. Married,3. Asian,5. Advanced Degree,166.3249412
+2005,29,1. Male,1. Never Married,1. White,2. HS Grad,94.07271475
+2004,35,1. Male,1. Never Married,1. White,4. College Grad,114.4757133
+2009,34,1. Male,1. Never Married,1. White,4. College Grad,87.98103279
+2003,37,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2008,37,1. Male,2. Married,1. White,4. College Grad,161.9149514
+2003,22,1. Male,1. Never Married,1. White,3. Some College,73.77574327
+2008,39,1. Male,2. Married,2. Black,2. HS Grad,99.6894637
+2003,42,1. Male,2. Married,3. Asian,3. Some College,103.9024706
+2006,44,1. Male,2. Married,1. White,4. College Grad,108.8745258
+2008,45,1. Male,4. Divorced,1. White,1. < HS Grad,107.9039239
+2003,42,1. Male,2. Married,1. White,5. Advanced Degree,141.7751723
+2009,52,1. Male,4. Divorced,1. White,3. Some College,160.6424754
+2004,27,1. Male,4. Divorced,1. White,3. Some College,112.1861229
+2009,46,1. Male,2. Married,1. White,3. Some College,169.07354
+2007,59,1. Male,2. Married,1. White,3. Some College,96.37065283
+2005,52,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2003,19,1. Male,1. Never Married,1. White,1. < HS Grad,54.59815003
+2003,64,1. Male,2. Married,1. White,4. College Grad,107.9039239
+2007,38,1. Male,2. Married,1. White,5. Advanced Degree,136.8763676
+2006,45,1. Male,5. Separated,2. Black,2. HS Grad,65.11085372
+2008,53,1. Male,2. Married,1. White,3. Some College,179.5280922
+2007,28,1. Male,2. Married,1. White,2. HS Grad,66.22940829
+2003,39,1. Male,2. Married,1. White,1. < HS Grad,104.9215065
+2008,52,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2009,41,1. Male,2. Married,1. White,1. < HS Grad,114.4757133
+2004,44,1. Male,2. Married,1. White,1. < HS Grad,76.89360252
+2005,48,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2003,47,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2006,31,1. Male,1. Never Married,1. White,2. HS Grad,94.07271475
+2005,28,1. Male,2. Married,1. White,3. Some College,103.9024706
+2007,45,1. Male,2. Married,1. White,4. College Grad,99.6894637
+2004,56,1. Male,3. Widowed,1. White,4. College Grad,87.98103279
+2004,47,1. Male,2. Married,1. White,2. HS Grad,136.1577108
+2005,41,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2006,49,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2009,28,1. Male,1. Never Married,1. White,2. HS Grad,97.49329405
+2009,19,1. Male,1. Never Married,1. White,3. Some College,43.73511168
+2004,48,1. Male,2. Married,1. White,3. Some College,117.1468169
+2003,47,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2004,57,1. Male,2. Married,1. White,4. College Grad,272.2947832
+2003,39,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2004,45,1. Male,1. Never Married,2. Black,2. HS Grad,66.96164432
+2006,52,1. Male,2. Married,1. White,1. < HS Grad,127.901233
+2008,51,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2009,46,1. Male,2. Married,1. White,5. Advanced Degree,74.43830467
+2003,45,1. Male,4. Divorced,1. White,4. College Grad,143.1349408
+2005,40,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2008,48,1. Male,2. Married,1. White,4. College Grad,128.6804882
+2004,47,1. Male,2. Married,1. White,3. Some College,121.4303138
+2009,45,1. Male,2. Married,1. White,2. HS Grad,98.59934386
+2005,49,1. Male,2. Married,2. Black,3. Some College,117.1468169
+2007,57,1. Male,4. Divorced,1. White,3. Some College,109.8339856
+2005,77,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2005,48,1. Male,2. Married,3. Asian,4. College Grad,160.6424754
+2004,56,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2007,39,1. Male,2. Married,1. White,4. College Grad,163.515864
+2003,44,1. Male,1. Never Married,1. White,2. HS Grad,110.7826503
+2007,49,1. Male,2. Married,2. Black,3. Some College,87.98103279
+2008,58,1. Male,2. Married,3. Asian,1. < HS Grad,54.59815003
+2005,46,1. Male,2. Married,1. White,3. Some College,127.0368467
+2004,39,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2007,26,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2003,61,1. Male,2. Married,1. White,3. Some College,99.6894637
+2003,62,1. Male,4. Divorced,1. White,3. Some College,94.07271475
+2008,47,1. Male,2. Married,3. Asian,4. College Grad,87.98103279
+2003,40,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2006,35,1. Male,2. Married,1. White,1. < HS Grad,65.11085372
+2008,61,1. Male,2. Married,1. White,2. HS Grad,141.7751723
+2003,38,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2008,18,1. Male,1. Never Married,1. White,2. HS Grad,76.89360252
+2006,45,1. Male,2. Married,1. White,2. HS Grad,101.4020523
+2009,27,1. Male,2. Married,2. Black,3. Some College,99.6894637
+2004,22,1. Male,1. Never Married,1. White,3. Some College,95.23071257
+2008,29,1. Male,2. Married,4. Other,1. < HS Grad,73.77574327
+2006,50,1. Male,2. Married,1. White,2. HS Grad,123.0896998
+2003,25,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2007,35,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2004,41,1. Male,2. Married,1. White,3. Some College,127.1157438
+2009,38,1. Male,2. Married,1. White,4. College Grad,145.1436012
+2008,49,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2004,36,1. Male,2. Married,1. White,2. HS Grad,128.6804882
+2005,66,1. Male,1. Never Married,2. Black,2. HS Grad,92.89584479
+2003,23,1. Male,1. Never Married,1. White,1. < HS Grad,68.74808773
+2004,28,1. Male,2. Married,1. White,5. Advanced Degree,99.6894637
+2007,42,1. Male,2. Married,1. White,3. Some College,109.8339856
+2007,20,1. Male,1. Never Married,1. White,2. HS Grad,43.73511168
+2009,37,1. Male,2. Married,1. White,4. College Grad,189.2441629
+2009,58,1. Male,2. Married,1. White,2. HS Grad,32.36641317
+2004,45,1. Male,2. Married,1. White,5. Advanced Degree,154.685293
+2006,64,1. Male,2. Married,1. White,3. Some College,114.4757133
+2009,45,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2007,52,1. Male,4. Divorced,1. White,3. Some College,101.8243521
+2005,42,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2005,32,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2009,40,1. Male,5. Separated,1. White,1. < HS Grad,75.04315402
+2005,55,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2004,46,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2008,55,1. Male,5. Separated,1. White,1. < HS Grad,81.28325328
+2003,53,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2005,33,1. Male,2. Married,3. Asian,4. College Grad,104.9215065
+2006,45,1. Male,2. Married,1. White,1. < HS Grad,95.23071257
+2006,54,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2004,32,1. Male,2. Married,1. White,4. College Grad,84.04595765
+2005,42,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2004,35,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2004,54,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2003,38,1. Male,2. Married,1. White,3. Some College,94.07271475
+2004,31,1. Male,1. Never Married,1. White,4. College Grad,101.8243521
+2003,41,1. Male,2. Married,1. White,3. Some College,85.38394038
+2005,45,1. Male,2. Married,1. White,4. College Grad,142.4571699
+2003,49,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2004,50,1. Male,2. Married,1. White,3. Some College,95.23071257
+2003,40,1. Male,1. Never Married,1. White,2. HS Grad,111.7208494
+2003,29,1. Male,2. Married,2. Black,2. HS Grad,59.62864555
+2006,25,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2004,32,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2007,51,1. Male,2. Married,1. White,2. HS Grad,86.69515483
+2008,29,1. Male,2. Married,1. White,3. Some College,93.04401493
+2005,32,1. Male,2. Married,1. White,3. Some College,134.7053751
+2008,42,1. Male,2. Married,1. White,3. Some College,145.1436012
+2005,59,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2003,31,1. Male,2. Married,1. White,4. College Grad,87.98103279
+2006,29,1. Male,2. Married,1. White,3. Some College,108.39064
+2006,52,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2006,35,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2008,28,1. Male,1. Never Married,1. White,1. < HS Grad,106.3696472
+2006,50,1. Male,2. Married,1. White,4. College Grad,78.3924668
+2004,49,1. Male,4. Divorced,1. White,2. HS Grad,72.56122831
+2009,39,1. Male,2. Married,1. White,2. HS Grad,73.77734527
+2003,26,1. Male,1. Never Married,4. Other,4. College Grad,38.22358282
+2003,31,1. Male,1. Never Married,2. Black,3. Some College,99.6894637
+2007,50,1. Male,1. Never Married,1. White,2. HS Grad,50.41192284
+2009,62,1. Male,2. Married,1. White,5. Advanced Degree,170.4601659
+2004,35,1. Male,2. Married,1. White,3. Some College,123.0896998
+2005,22,1. Male,1. Never Married,2. Black,3. Some College,73.77574327
+2003,55,1. Male,1. Never Married,1. White,5. Advanced Degree,110.7826503
+2006,63,1. Male,2. Married,1. White,3. Some College,125.5254984
+2004,63,1. Male,4. Divorced,1. White,2. HS Grad,75.04315402
+2008,39,1. Male,2. Married,1. White,4. College Grad,95.23071257
+2003,28,1. Male,2. Married,1. White,1. < HS Grad,118.8843593
+2006,43,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2006,58,1. Male,2. Married,2. Black,1. < HS Grad,70.47601965
+2007,38,1. Male,2. Married,1. White,5. Advanced Degree,166.3249412
+2004,49,1. Male,2. Married,2. Black,3. Some College,139.1563254
+2003,62,1. Male,2. Married,1. White,3. Some College,25.2910081
+2004,36,1. Male,2. Married,1. White,3. Some College,81.44683486
+2004,54,1. Male,4. Divorced,1. White,4. College Grad,87.98103279
+2005,26,1. Male,2. Married,1. White,2. HS Grad,116.4423183
+2009,46,1. Male,2. Married,3. Asian,5. Advanced Degree,166.3249412
+2006,58,1. Male,4. Divorced,1. White,3. Some College,149.6950421
+2005,22,1. Male,1. Never Married,1. White,3. Some College,73.77574327
+2005,58,1. Male,2. Married,1. White,5. Advanced Degree,277.6014175
+2008,63,1. Male,2. Married,1. White,4. College Grad,136.8763676
+2007,67,1. Male,2. Married,2. Black,1. < HS Grad,129.4536446
+2008,44,1. Male,2. Married,1. White,2. HS Grad,111.7208494
+2003,51,1. Male,2. Married,1. White,4. College Grad,178.7006572
+2003,46,1. Male,2. Married,1. White,2. HS Grad,49.55533812
+2007,43,1. Male,2. Married,1. White,1. < HS Grad,82.6796373
+2004,40,1. Male,2. Married,1. White,3. Some College,73.77574327
+2008,31,1. Male,1. Never Married,1. White,3. Some College,92.89584479
+2007,41,1. Male,2. Married,1. White,5. Advanced Degree,114.4757133
+2008,21,1. Male,1. Never Married,2. Black,2. HS Grad,84.04595765
+2008,51,1. Male,2. Married,1. White,3. Some College,76.89360252
+2003,43,1. Male,5. Separated,2. Black,3. Some College,79.85490031
+2004,34,1. Male,2. Married,1. White,3. Some College,130.9821774
+2008,45,1. Male,2. Married,1. White,3. Some College,148.4131591
+2008,35,1. Male,2. Married,3. Asian,1. < HS Grad,65.11085372
+2004,33,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2003,46,1. Male,2. Married,2. Black,2. HS Grad,94.07271475
+2003,38,1. Male,1. Never Married,2. Black,1. < HS Grad,94.07271475
+2004,44,1. Male,1. Never Married,2. Black,4. College Grad,90.48191336
+2006,50,1. Male,1. Never Married,1. White,2. HS Grad,111.7217824
+2009,55,1. Male,2. Married,1. White,2. HS Grad,107.9039239
+2009,49,1. Male,2. Married,1. White,5. Advanced Degree,191.5736835
+2006,47,1. Male,2. Married,2. Black,5. Advanced Degree,145.1436012
+2003,40,1. Male,2. Married,4. Other,2. HS Grad,138.6391722
+2003,21,1. Male,1. Never Married,1. White,2. HS Grad,53.63872202
+2008,60,1. Male,2. Married,2. Black,1. < HS Grad,93.05348736
+2008,56,1. Male,1. Never Married,1. White,1. < HS Grad,81.28325328
+2004,61,1. Male,2. Married,1. White,3. Some College,128.6804882
+2008,44,1. Male,2. Married,1. White,5. Advanced Degree,136.1577108
+2007,43,1. Male,4. Divorced,1. White,5. Advanced Degree,160.6424754
+2005,29,1. Male,2. Married,1. White,3. Some College,109.8339856
+2003,38,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2003,26,1. Male,1. Never Married,1. White,3. Some College,108.39064
+2006,28,1. Male,1. Never Married,4. Other,2. HS Grad,67.14308075
+2003,38,1. Male,1. Never Married,1. White,4. College Grad,118.0197533
+2006,45,1. Male,4. Divorced,1. White,3. Some College,109.8339856
+2004,39,1. Male,2. Married,1. White,2. HS Grad,47.3389061
+2003,33,1. Male,2. Married,1. White,2. HS Grad,62.91365497
+2005,44,1. Male,2. Married,1. White,1. < HS Grad,70.47601965
+2006,48,1. Male,2. Married,1. White,3. Some College,99.6894637
+2007,45,1. Male,2. Married,1. White,2. HS Grad,92.79134808
+2007,56,1. Male,2. Married,1. White,2. HS Grad,99.6916284
+2009,40,1. Male,1. Never Married,1. White,4. College Grad,114.4757133
+2006,71,1. Male,2. Married,2. Black,1. < HS Grad,89.24288466
+2006,30,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2004,45,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2004,41,1. Male,2. Married,1. White,2. HS Grad,90.48191336
+2003,40,1. Male,2. Married,4. Other,3. Some College,118.8843593
+2004,59,1. Male,2. Married,1. White,1. < HS Grad,89.16782867
+2007,46,1. Male,2. Married,3. Asian,1. < HS Grad,73.77574327
+2003,38,1. Male,1. Never Married,1. White,2. HS Grad,70.47601965
+2007,26,1. Male,2. Married,1. White,3. Some College,93.48669204
+2005,53,1. Male,2. Married,2. Black,2. HS Grad,70.47601965
+2004,46,1. Male,4. Divorced,1. White,4. College Grad,99.6894637
+2007,42,1. Male,2. Married,1. White,3. Some College,98.59934386
+2006,28,1. Male,1. Never Married,2. Black,3. Some College,54.59815003
+2004,30,1. Male,1. Never Married,1. White,1. < HS Grad,86.69515483
+2008,34,1. Male,2. Married,3. Asian,4. College Grad,118.8843593
+2008,46,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2007,22,1. Male,1. Never Married,1. White,3. Some College,59.09706408
+2007,37,1. Male,1. Never Married,1. White,2. HS Grad,92.72952791
+2008,27,1. Male,2. Married,1. White,3. Some College,63.188861
+2008,52,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2008,43,1. Male,2. Married,1. White,2. HS Grad,65.11085372
+2004,52,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2005,54,1. Male,1. Never Married,2. Black,3. Some College,109.4898415
+2007,47,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2005,21,1. Male,1. Never Married,2. Black,3. Some College,105.9278108
+2005,42,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2003,72,1. Male,2. Married,1. White,5. Advanced Degree,189.2441629
+2003,38,1. Male,2. Married,3. Asian,2. HS Grad,104.9215065
+2009,53,1. Male,2. Married,1. White,2. HS Grad,82.6796373
+2006,35,1. Male,5. Separated,1. White,3. Some College,81.28325328
+2008,60,1. Male,2. Married,1. White,2. HS Grad,76.89360252
+2003,39,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2005,45,1. Male,4. Divorced,2. Black,2. HS Grad,73.77574327
+2008,61,1. Male,2. Married,1. White,2. HS Grad,106.6080215
+2008,64,1. Male,4. Divorced,1. White,2. HS Grad,95.23071257
+2004,39,1. Male,2. Married,3. Asian,1. < HS Grad,70.47601965
+2007,46,1. Male,2. Married,2. Black,3. Some College,105.9278108
+2008,25,1. Male,1. Never Married,2. Black,3. Some College,56.45386498
+2003,80,1. Male,2. Married,1. White,3. Some College,94.07271475
+2008,51,1. Male,4. Divorced,1. White,3. Some College,105.9278108
+2004,58,1. Male,2. Married,1. White,2. HS Grad,75.04315402
+2009,52,1. Male,2. Married,1. White,3. Some College,118.8843593
+2004,45,1. Male,2. Married,1. White,5. Advanced Degree,138.2991269
+2007,41,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2004,42,1. Male,2. Married,1. White,2. HS Grad,95.23071257
+2008,31,1. Male,1. Never Married,1. White,3. Some College,94.07271475
+2004,49,1. Male,4. Divorced,1. White,2. HS Grad,123.0896998
+2009,47,1. Male,4. Divorced,1. White,2. HS Grad,90.48191336
+2005,39,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2006,53,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2003,37,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2003,52,1. Male,2. Married,1. White,4. College Grad,191.5736835
+2006,41,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2006,39,1. Male,2. Married,3. Asian,4. College Grad,148.4131591
+2009,63,1. Male,2. Married,1. White,5. Advanced Degree,171.7651326
+2007,23,1. Male,1. Never Married,1. White,2. HS Grad,73.45442826
+2004,62,1. Male,2. Married,2. Black,2. HS Grad,87.98103279
+2004,43,1. Male,2. Married,1. White,5. Advanced Degree,272.2947832
+2004,29,1. Male,1. Never Married,2. Black,2. HS Grad,102.8702469
+2004,43,1. Male,2. Married,3. Asian,5. Advanced Degree,160.6424754
+2008,34,1. Male,2. Married,2. Black,4. College Grad,123.0896998
+2003,38,1. Male,2. Married,3. Asian,5. Advanced Degree,91.69922611
+2005,25,1. Male,1. Never Married,1. White,4. College Grad,85.38394038
+2005,64,1. Male,2. Married,2. Black,2. HS Grad,109.8339856
+2003,49,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2009,46,1. Male,2. Married,1. White,4. College Grad,84.31576886
+2006,30,1. Male,2. Married,1. White,5. Advanced Degree,114.4757133
+2003,33,1. Male,1. Never Married,1. White,3. Some College,57.35259108
+2007,29,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2008,32,1. Male,2. Married,1. White,2. HS Grad,125.5254984
+2007,54,1. Male,2. Married,1. White,2. HS Grad,108.8745258
+2005,40,1. Male,1. Never Married,2. Black,2. HS Grad,65.11085372
+2005,24,1. Male,1. Never Married,1. White,4. College Grad,109.8339856
+2008,30,1. Male,5. Separated,1. White,1. < HS Grad,70.81503862
+2009,49,1. Male,2. Married,1. White,4. College Grad,145.1436012
+2006,47,1. Male,2. Married,4. Other,2. HS Grad,101.8243521
+2008,25,1. Male,1. Never Married,2. Black,2. HS Grad,84.04595765
+2007,44,1. Male,2. Married,1. White,3. Some College,134.7053751
+2007,41,1. Male,4. Divorced,1. White,1. < HS Grad,97.49329405
+2005,54,1. Male,5. Separated,1. White,4. College Grad,154.685293
+2009,59,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2003,25,1. Male,1. Never Married,1. White,2. HS Grad,59.73422334
+2009,63,1. Male,2. Married,2. Black,5. Advanced Degree,91.69922611
+2009,49,1. Male,1. Never Married,1. White,3. Some College,109.8339856
+2008,35,1. Male,5. Separated,2. Black,3. Some College,114.4757133
+2006,24,1. Male,1. Never Married,3. Asian,2. HS Grad,66.22940829
+2003,66,1. Male,2. Married,1. White,2. HS Grad,92.89584479
+2008,57,1. Male,2. Married,4. Other,1. < HS Grad,94.07271475
+2003,47,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2006,44,1. Male,2. Married,1. White,4. College Grad,132.4878211
+2006,56,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2004,34,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2006,23,1. Male,2. Married,1. White,1. < HS Grad,40.40566526
+2008,30,1. Male,2. Married,1. White,4. College Grad,138.2991269
+2004,38,1. Male,2. Married,1. White,3. Some College,102.8702469
+2004,43,1. Male,2. Married,2. Black,1. < HS Grad,79.85490031
+2007,58,1. Male,4. Divorced,1. White,3. Some College,111.7208494
+2005,36,1. Male,2. Married,1. White,2. HS Grad,62.19867943
+2007,48,1. Male,1. Never Married,1. White,2. HS Grad,70.47601965
+2005,35,1. Male,2. Married,1. White,2. HS Grad,86.04280113
+2006,22,1. Male,1. Never Married,1. White,2. HS Grad,99.6894637
+2007,50,1. Male,2. Married,1. White,4. College Grad,113.5670896
+2004,58,1. Male,2. Married,1. White,1. < HS Grad,100.7642728
+2003,20,1. Male,1. Never Married,1. White,2. HS Grad,61.18752643
+2007,44,1. Male,2. Married,1. White,2. HS Grad,113.6127457
+2003,50,1. Male,2. Married,3. Asian,4. College Grad,134.7053751
+2009,55,1. Male,2. Married,1. White,2. HS Grad,104.9235317
+2003,39,1. Male,1. Never Married,1. White,2. HS Grad,109.8339856
+2008,32,1. Male,1. Never Married,1. White,4. College Grad,276.7784133
+2008,50,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2009,24,1. Male,2. Married,1. White,1. < HS Grad,148.4131591
+2009,53,1. Male,2. Married,1. White,3. Some College,109.8339856
+2003,35,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2003,25,1. Male,1. Never Married,1. White,1. < HS Grad,79.85490031
+2006,24,1. Male,1. Never Married,3. Asian,4. College Grad,109.8339856
+2005,57,1. Male,5. Separated,1. White,4. College Grad,148.4131591
+2005,43,1. Male,2. Married,1. White,1. < HS Grad,65.11085372
+2009,33,1. Male,2. Married,1. White,3. Some College,88.29869947
+2005,40,1. Male,2. Married,1. White,3. Some College,91.69922611
+2008,39,1. Male,1. Never Married,1. White,4. College Grad,73.77574327
+2004,32,1. Male,2. Married,1. White,5. Advanced Degree,70.47601965
+2005,48,1. Male,4. Divorced,1. White,4. College Grad,128.6804882
+2004,29,1. Male,2. Married,1. White,5. Advanced Degree,94.07271475
+2005,35,1. Male,4. Divorced,1. White,4. College Grad,98.59934386
+2004,41,1. Male,2. Married,1. White,2. HS Grad,133.2323508
+2009,52,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2005,50,1. Male,2. Married,1. White,2. HS Grad,91.69922611
+2004,35,1. Male,2. Married,3. Asian,4. College Grad,160.6354986
+2007,27,1. Male,2. Married,1. White,3. Some College,99.6894637
+2004,57,1. Male,2. Married,1. White,5. Advanced Degree,114.4757133
+2004,48,1. Male,2. Married,1. White,3. Some College,97.49329405
+2009,41,1. Male,4. Divorced,2. Black,3. Some College,98.04835051
+2005,59,1. Male,2. Married,1. White,5. Advanced Degree,104.9215065
+2003,55,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2005,54,1. Male,4. Divorced,1. White,2. HS Grad,133.2323508
+2003,34,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2009,43,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2003,43,1. Male,4. Divorced,2. Black,4. College Grad,104.9215065
+2003,62,1. Male,3. Widowed,1. White,1. < HS Grad,62.03030461
+2006,45,1. Male,1. Never Married,1. White,2. HS Grad,97.49329405
+2004,40,1. Male,2. Married,1. White,4. College Grad,145.8051634
+2003,33,1. Male,2. Married,1. White,2. HS Grad,82.6796373
+2005,45,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2009,21,1. Male,1. Never Married,1. White,3. Some College,49.55533812
+2009,54,1. Male,2. Married,3. Asian,1. < HS Grad,73.77574327
+2003,43,1. Male,2. Married,1. White,4. College Grad,73.77574327
+2004,54,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2004,35,1. Male,2. Married,1. White,1. < HS Grad,109.8339856
+2008,23,1. Male,1. Never Married,1. White,3. Some College,61.59458318
+2006,61,1. Male,3. Widowed,1. White,2. HS Grad,111.4404696
+2004,51,1. Male,4. Divorced,1. White,4. College Grad,138.2991269
+2006,43,1. Male,2. Married,1. White,3. Some College,127.1157438
+2003,20,1. Male,1. Never Married,1. White,2. HS Grad,75.35567932
+2007,51,1. Male,2. Married,4. Other,3. Some College,139.0034081
+2009,65,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2009,37,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2008,24,1. Male,1. Never Married,1. White,2. HS Grad,66.23309573
+2003,36,1. Male,2. Married,1. White,2. HS Grad,73.29308207
+2005,45,1. Male,2. Married,1. White,3. Some College,130.9821774
+2008,33,1. Male,2. Married,1. White,5. Advanced Degree,276.7784133
+2009,36,1. Male,4. Divorced,1. White,2. HS Grad,86.91032774
+2004,32,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2009,45,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2003,51,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2005,33,1. Male,2. Married,1. White,3. Some College,136.8763676
+2003,47,1. Male,4. Divorced,1. White,3. Some College,84.04595765
+2003,37,1. Male,2. Married,1. White,5. Advanced Degree,196.1252726
+2008,41,1. Male,2. Married,1. White,3. Some College,121.4303138
+2005,23,1. Male,1. Never Married,1. White,2. HS Grad,96.3977959
+2009,57,1. Male,2. Married,1. White,4. College Grad,128.6804882
+2006,61,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2007,47,1. Male,4. Divorced,1. White,3. Some College,85.38394038
+2003,29,1. Male,2. Married,3. Asian,4. College Grad,87.98103279
+2005,37,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2005,57,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2004,39,1. Male,1. Never Married,1. White,5. Advanced Degree,81.28325328
+2007,59,1. Male,2. Married,1. White,4. College Grad,145.8051634
+2007,31,1. Male,2. Married,1. White,4. College Grad,149.0558956
+2009,26,1. Male,1. Never Married,1. White,2. HS Grad,97.49329405
+2009,51,1. Male,2. Married,1. White,2. HS Grad,118.0197533
+2006,38,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2006,51,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2004,50,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2005,32,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2007,38,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2005,49,1. Male,2. Married,1. White,2. HS Grad,176.9896505
+2005,40,1. Male,1. Never Married,1. White,3. Some College,73.77574327
+2007,60,1. Male,2. Married,3. Asian,5. Advanced Degree,154.685293
+2007,30,1. Male,1. Never Married,1. White,4. College Grad,101.8243521
+2003,41,1. Male,2. Married,1. White,4. College Grad,130.9821774
+2009,32,1. Male,1. Never Married,1. White,3. Some College,114.4757133
+2009,26,1. Male,1. Never Married,1. White,4. College Grad,105.9278108
+2004,41,1. Male,2. Married,1. White,3. Some College,81.28325328
+2008,53,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2005,35,1. Male,2. Married,1. White,3. Some College,97.49329405
+2008,50,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2004,43,1. Male,2. Married,1. White,4. College Grad,171.7651326
+2003,50,1. Male,5. Separated,1. White,2. HS Grad,67.82678713
+2009,19,1. Male,1. Never Married,2. Black,2. HS Grad,73.77574327
+2004,42,1. Male,2. Married,1. White,2. HS Grad,91.69922611
+2007,53,1. Male,2. Married,3. Asian,2. HS Grad,66.96164432
+2004,22,1. Male,1. Never Married,2. Black,3. Some College,95.23071257
+2003,49,1. Male,2. Married,1. White,2. HS Grad,98.59934386
+2005,33,1. Male,1. Never Married,1. White,2. HS Grad,109.8339856
+2005,31,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2004,43,1. Male,2. Married,1. White,1. < HS Grad,90.48191336
+2009,57,1. Male,2. Married,1. White,5. Advanced Degree,109.8339856
+2005,40,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2003,48,1. Male,2. Married,1. White,2. HS Grad,84.52946902
+2004,46,1. Male,2. Married,1. White,4. College Grad,101.8243521
+2009,58,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2003,50,1. Male,2. Married,1. White,1. < HS Grad,104.9215065
+2005,38,1. Male,2. Married,1. White,3. Some College,99.6894637
+2004,33,1. Male,1. Never Married,1. White,5. Advanced Degree,101.4020523
+2007,52,1. Male,2. Married,1. White,3. Some College,149.0558956
+2004,48,1. Male,2. Married,1. White,1. < HS Grad,73.77574327
+2006,53,1. Male,2. Married,1. White,5. Advanced Degree,160.6424754
+2008,37,1. Male,1. Never Married,1. White,3. Some College,118.8843593
+2007,43,1. Male,2. Married,1. White,2. HS Grad,119.4052043
+2008,54,1. Male,2. Married,1. White,3. Some College,107.9039239
+2004,41,1. Male,2. Married,1. White,5. Advanced Degree,154.8683672
+2005,57,1. Male,2. Married,1. White,4. College Grad,75.35567932
+2007,54,1. Male,2. Married,1. White,5. Advanced Degree,118.5395025
+2009,25,1. Male,4. Divorced,1. White,2. HS Grad,76.89360252
+2003,35,1. Male,5. Separated,1. White,1. < HS Grad,62.19867943
+2008,29,1. Male,2. Married,1. White,3. Some College,182.020621
+2009,36,1. Male,2. Married,1. White,2. HS Grad,267.9010869
+2005,43,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2007,41,1. Male,2. Married,1. White,4. College Grad,186.8766776
+2003,52,1. Male,2. Married,1. White,4. College Grad,72.15045568
+2005,48,1. Male,2. Married,1. White,2. HS Grad,49.55533812
+2003,51,1. Male,2. Married,2. Black,2. HS Grad,81.28325328
+2004,55,1. Male,2. Married,1. White,3. Some College,118.8843593
+2004,37,1. Male,2. Married,1. White,5. Advanced Degree,97.49329405
+2007,48,1. Male,1. Never Married,1. White,3. Some College,111.7208494
+2003,42,1. Male,2. Married,1. White,1. < HS Grad,101.8243521
+2007,43,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2006,32,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2006,33,1. Male,1. Never Married,1. White,4. College Grad,84.04595765
+2003,48,1. Male,2. Married,1. White,2. HS Grad,78.3924668
+2009,20,1. Male,1. Never Married,2. Black,3. Some College,46.36650274
+2005,43,1. Male,2. Married,1. White,2. HS Grad,132.8607653
+2003,58,1. Male,4. Divorced,2. Black,2. HS Grad,61.59458318
+2004,38,1. Male,2. Married,1. White,3. Some College,99.6894637
+2008,23,1. Male,1. Never Married,1. White,2. HS Grad,66.22940829
+2009,54,1. Male,4. Divorced,1. White,2. HS Grad,108.8745258
+2007,66,1. Male,2. Married,1. White,5. Advanced Degree,99.6894637
+2009,47,1. Male,2. Married,1. White,5. Advanced Degree,152.838801
+2003,35,1. Male,2. Married,1. White,3. Some College,76.89360252
+2008,39,1. Male,2. Married,1. White,2. HS Grad,143.1349408
+2005,35,1. Male,1. Never Married,2. Black,3. Some College,125.2042866
+2006,40,1. Male,2. Married,1. White,3. Some College,75.61069586
+2006,41,1. Male,2. Married,3. Asian,2. HS Grad,109.8339856
+2004,40,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2006,50,1. Male,2. Married,2. Black,2. HS Grad,59.09706408
+2004,35,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2009,43,1. Male,2. Married,1. White,3. Some College,95.23071257
+2005,26,1. Male,1. Never Married,1. White,3. Some College,104.9215065
+2009,23,1. Male,1. Never Married,1. White,2. HS Grad,49.55533812
+2003,61,1. Male,2. Married,1. White,5. Advanced Degree,130.9821774
+2004,24,1. Male,1. Never Married,1. White,4. College Grad,43.73511168
+2006,66,1. Male,2. Married,2. Black,3. Some College,118.8843593
+2006,50,1. Male,3. Widowed,1. White,2. HS Grad,109.8339856
+2005,22,1. Male,1. Never Married,1. White,2. HS Grad,75.04315402
+2004,62,1. Male,2. Married,2. Black,2. HS Grad,91.69922611
+2003,55,1. Male,2. Married,1. White,4. College Grad,105.9278108
+2004,41,1. Male,2. Married,1. White,4. College Grad,73.77574327
+2005,54,1. Male,2. Married,1. White,4. College Grad,170.1568344
+2009,29,1. Male,2. Married,3. Asian,4. College Grad,138.2991269
+2004,39,1. Male,2. Married,2. Black,2. HS Grad,101.8243521
+2006,71,1. Male,4. Divorced,1. White,4. College Grad,87.98103279
+2003,22,1. Male,1. Never Married,1. White,4. College Grad,78.3924668
+2007,48,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2009,35,1. Male,2. Married,1. White,3. Some College,116.2653241
+2003,46,1. Male,2. Married,1. White,4. College Grad,90.48191336
+2003,51,1. Male,2. Married,1. White,1. < HS Grad,109.8339856
+2005,55,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2005,36,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2008,57,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2005,21,1. Male,2. Married,1. White,2. HS Grad,141.7751723
+2006,60,1. Male,2. Married,1. White,5. Advanced Degree,128.6804882
+2006,41,1. Male,1. Never Married,2. Black,3. Some College,73.77574327
+2004,56,1. Male,2. Married,1. White,4. College Grad,139.3538118
+2005,32,1. Male,1. Never Married,1. White,4. College Grad,94.07271475
+2003,32,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2006,36,1. Male,4. Divorced,1. White,3. Some College,107.9039239
+2006,28,1. Male,1. Never Married,1. White,2. HS Grad,64.54207487
+2009,60,1. Male,2. Married,1. White,5. Advanced Degree,138.2991269
+2003,41,1. Male,2. Married,1. White,3. Some College,89.24288466
+2006,55,1. Male,2. Married,1. White,3. Some College,99.6894637
+2003,36,1. Male,2. Married,2. Black,3. Some College,109.8339856
+2006,46,1. Male,1. Never Married,2. Black,3. Some College,90.48191336
+2008,62,1. Male,2. Married,1. White,2. HS Grad,89.49247952
+2006,44,1. Male,2. Married,1. White,2. HS Grad,102.7662809
+2006,36,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2004,41,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2006,22,1. Male,1. Never Married,1. White,4. College Grad,114.4757133
+2008,51,1. Male,2. Married,1. White,5. Advanced Degree,129.9836348
+2008,57,1. Male,2. Married,1. White,1. < HS Grad,110.7826503
+2005,55,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2003,36,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2008,43,1. Male,2. Married,1. White,5. Advanced Degree,276.7784133
+2003,38,1. Male,2. Married,1. White,3. Some College,23.95294448
+2006,27,1. Male,1. Never Married,1. White,3. Some College,103.9024706
+2007,32,1. Male,2. Married,1. White,3. Some College,118.8843593
+2009,44,1. Male,1. Never Married,1. White,1. < HS Grad,71.68674367
+2008,56,1. Male,2. Married,3. Asian,4. College Grad,276.7784133
+2007,38,1. Male,2. Married,2. Black,4. College Grad,141.7751723
+2003,36,1. Male,2. Married,1. White,1. < HS Grad,99.6894637
+2005,28,1. Male,1. Never Married,1. White,3. Some College,108.8745258
+2005,39,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2008,42,1. Male,1. Never Married,2. Black,2. HS Grad,78.98460618
+2009,51,1. Male,2. Married,1. White,1. < HS Grad,82.6796373
+2004,55,1. Male,2. Married,2. Black,2. HS Grad,89.49247952
+2007,39,1. Male,1. Never Married,1. White,5. Advanced Degree,130.9821774
+2003,42,1. Male,2. Married,1. White,1. < HS Grad,109.7060518
+2006,33,1. Male,2. Married,2. Black,5. Advanced Degree,117.1468169
+2008,23,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2003,40,1. Male,2. Married,1. White,4. College Grad,81.28325328
+2003,40,1. Male,2. Married,1. White,3. Some College,80.85819596
+2009,51,1. Male,2. Married,3. Asian,3. Some College,107.9039239
+2007,76,1. Male,2. Married,3. Asian,4. College Grad,76.89360252
+2007,57,1. Male,4. Divorced,1. White,5. Advanced Degree,87.98103279
+2003,27,1. Male,5. Separated,1. White,3. Some College,95.23071257
+2005,26,1. Male,1. Never Married,2. Black,2. HS Grad,84.04595765
+2005,25,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2005,27,1. Male,2. Married,1. White,3. Some College,101.4020523
+2004,33,1. Male,1. Never Married,1. White,3. Some College,87.98103279
+2003,51,1. Male,4. Divorced,1. White,1. < HS Grad,87.98103279
+2005,22,1. Male,1. Never Married,1. White,4. College Grad,94.07271475
+2005,47,1. Male,2. Married,1. White,2. HS Grad,128.1996369
+2009,34,1. Male,1. Never Married,1. White,3. Some College,136.5176552
+2008,47,1. Male,4. Divorced,1. White,3. Some College,107.9039239
+2005,31,1. Male,1. Never Married,1. White,3. Some College,123.0896998
+2005,46,1. Male,2. Married,1. White,2. HS Grad,91.69922611
+2006,47,1. Male,2. Married,1. White,2. HS Grad,78.3924668
+2006,49,1. Male,2. Married,1. White,4. College Grad,154.685293
+2003,40,1. Male,2. Married,2. Black,4. College Grad,136.1577108
+2004,51,1. Male,2. Married,1. White,1. < HS Grad,81.28325328
+2008,31,1. Male,2. Married,1. White,3. Some College,76.28327785
+2003,58,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2005,48,1. Male,2. Married,2. Black,3. Some College,87.78843622
+2004,54,1. Male,4. Divorced,2. Black,4. College Grad,127.1157438
+2007,56,1. Male,1. Never Married,1. White,5. Advanced Degree,154.0729972
+2007,61,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2009,32,1. Male,2. Married,3. Asian,5. Advanced Degree,138.2991269
+2007,60,1. Male,2. Married,1. White,4. College Grad,164.6469889
+2006,42,1. Male,2. Married,1. White,3. Some College,138.2991269
+2003,22,1. Male,1. Never Married,3. Asian,3. Some College,44.97829203
+2003,46,1. Male,2. Married,1. White,3. Some College,106.7239776
+2005,53,1. Male,2. Married,1. White,1. < HS Grad,114.4757133
+2008,43,1. Male,4. Divorced,1. White,4. College Grad,73.77574327
+2009,32,1. Male,1. Never Married,1. White,2. HS Grad,75.35567932
+2009,30,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2009,50,1. Male,1. Never Married,2. Black,5. Advanced Degree,109.8339856
+2006,40,1. Male,2. Married,1. White,5. Advanced Degree,277.7994802
+2009,55,1. Male,2. Married,1. White,1. < HS Grad,79.85490031
+2004,42,1. Male,2. Married,1. White,4. College Grad,166.3249412
+2004,35,1. Male,1. Never Married,1. White,2. HS Grad,75.35567932
+2004,33,1. Male,2. Married,1. White,4. College Grad,100.0867423
+2004,33,1. Male,2. Married,1. White,3. Some College,102.8702469
+2003,38,1. Male,2. Married,1. White,2. HS Grad,118.7120941
+2009,41,1. Male,2. Married,1. White,2. HS Grad,117.1468169
+2009,42,1. Male,2. Married,1. White,5. Advanced Degree,123.5000178
+2009,58,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2009,45,1. Male,2. Married,1. White,2. HS Grad,76.89360252
+2009,47,1. Male,1. Never Married,1. White,2. HS Grad,109.8339856
+2005,30,1. Male,2. Married,1. White,2. HS Grad,105.9278108
+2009,34,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2006,43,1. Male,2. Married,1. White,5. Advanced Degree,149.6950421
+2008,58,1. Male,5. Separated,1. White,1. < HS Grad,99.6894637
+2009,44,1. Male,2. Married,2. Black,3. Some College,104.9235317
+2005,28,1. Male,2. Married,1. White,1. < HS Grad,61.18752643
+2004,46,1. Male,2. Married,1. White,3. Some College,105.9278108
+2008,36,1. Male,2. Married,1. White,3. Some College,107.9039239
+2007,37,1. Male,2. Married,2. Black,2. HS Grad,70.81503862
+2008,47,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2007,56,1. Male,4. Divorced,1. White,3. Some College,99.6894637
+2009,38,1. Male,2. Married,1. White,3. Some College,111.7208494
+2007,41,1. Male,1. Never Married,2. Black,1. < HS Grad,75.35567932
+2004,62,1. Male,2. Married,1. White,3. Some College,94.07271475
+2004,40,1. Male,2. Married,1. White,3. Some College,87.98103279
+2004,44,1. Male,2. Married,3. Asian,5. Advanced Degree,123.0896998
+2007,56,1. Male,2. Married,1. White,4. College Grad,99.6894637
+2008,51,1. Male,2. Married,2. Black,3. Some College,76.89360252
+2005,41,1. Male,2. Married,1. White,3. Some College,86.69515483
+2005,52,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2008,27,1. Male,2. Married,1. White,3. Some College,100.7642728
+2004,52,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2005,51,1. Male,4. Divorced,1. White,2. HS Grad,67.17929148
+2009,51,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2005,28,1. Male,1. Never Married,1. White,4. College Grad,90.48191336
+2007,49,1. Male,1. Never Married,1. White,2. HS Grad,57.97094218
+2007,61,1. Male,2. Married,1. White,1. < HS Grad,114.4757133
+2006,39,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2005,23,1. Male,1. Never Married,1. White,1. < HS Grad,89.49247952
+2007,53,1. Male,2. Married,1. White,5. Advanced Degree,151.8050963
+2004,55,1. Male,1. Never Married,3. Asian,3. Some College,87.98103279
+2005,48,1. Male,1. Never Married,2. Black,2. HS Grad,87.98103279
+2007,50,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2009,31,1. Male,1. Never Married,1. White,1. < HS Grad,65.11085372
+2007,53,1. Male,2. Married,1. White,2. HS Grad,128.6804882
+2008,49,1. Male,2. Married,1. White,4. College Grad,154.685293
+2003,49,1. Male,1. Never Married,1. White,4. College Grad,130.9821774
+2004,43,1. Male,2. Married,1. White,2. HS Grad,120.5894365
+2007,20,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2008,46,1. Male,4. Divorced,1. White,2. HS Grad,110.1729303
+2005,48,1. Male,2. Married,1. White,4. College Grad,152.2168068
+2005,19,1. Male,1. Never Married,1. White,2. HS Grad,70.47601965
+2004,56,1. Male,4. Divorced,1. White,4. College Grad,85.38394038
+2003,44,1. Male,2. Married,1. White,3. Some College,101.8243521
+2009,23,1. Male,1. Never Married,1. White,2. HS Grad,85.38394038
+2005,42,1. Male,1. Never Married,1. White,4. College Grad,101.8243521
+2008,32,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2003,32,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2003,43,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2008,57,1. Male,1. Never Married,2. Black,4. College Grad,138.610994
+2008,26,1. Male,2. Married,2. Black,3. Some College,109.8339856
+2009,67,1. Male,4. Divorced,1. White,3. Some College,151.5914842
+2004,31,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2006,49,1. Male,4. Divorced,1. White,3. Some College,103.9024706
+2005,29,1. Male,1. Never Married,1. White,4. College Grad,128.6804882
+2008,41,1. Male,2. Married,1. White,3. Some College,108.8745258
+2006,35,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2009,39,1. Male,2. Married,1. White,2. HS Grad,95.23071257
+2004,33,1. Male,5. Separated,2. Black,3. Some College,98.59934386
+2009,53,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2009,43,1. Male,2. Married,3. Asian,4. College Grad,123.0896998
+2004,36,1. Male,2. Married,1. White,4. College Grad,94.65402038
+2004,38,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2003,58,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2004,45,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2005,34,1. Male,1. Never Married,2. Black,2. HS Grad,94.5960991
+2007,30,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2008,21,1. Male,1. Never Married,1. White,2. HS Grad,29.3769761
+2003,39,1. Male,2. Married,1. White,4. College Grad,129.4536446
+2006,28,1. Male,1. Never Married,2. Black,3. Some College,109.8339856
+2008,54,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2007,24,1. Male,1. Never Married,1. White,3. Some College,90.48191336
+2005,57,1. Male,2. Married,1. White,5. Advanced Degree,70.81503862
+2003,48,1. Male,5. Separated,2. Black,2. HS Grad,95.23071257
+2004,31,1. Male,2. Married,1. White,3. Some College,109.8339856
+2006,47,1. Male,1. Never Married,1. White,5. Advanced Degree,182.020621
+2004,44,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2004,30,1. Male,1. Never Married,1. White,2. HS Grad,70.47601965
+2003,41,1. Male,1. Never Married,1. White,4. College Grad,130.9821774
+2008,26,1. Male,1. Never Married,1. White,4. College Grad,105.9278108
+2009,32,1. Male,1. Never Married,3. Asian,3. Some College,109.8339856
+2009,39,1. Male,2. Married,1. White,2. HS Grad,97.4710061
+2004,42,1. Male,2. Married,2. Black,3. Some College,111.7208494
+2005,24,1. Male,1. Never Married,1. White,4. College Grad,172.2172655
+2006,44,1. Male,4. Divorced,1. White,5. Advanced Degree,129.4536446
+2006,30,1. Male,1. Never Married,3. Asian,4. College Grad,127.1157438
+2006,58,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2008,33,1. Male,1. Never Married,1. White,2. HS Grad,94.07271475
+2008,56,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2005,28,1. Male,2. Married,1. White,3. Some College,96.93409046
+2008,41,1. Male,2. Married,3. Asian,5. Advanced Degree,276.7784133
+2009,22,1. Male,2. Married,1. White,3. Some College,32.36641317
+2004,37,1. Male,4. Divorced,1. White,3. Some College,84.45025367
+2006,18,1. Male,1. Never Married,1. White,1. < HS Grad,65.11085372
+2004,37,1. Male,1. Never Married,1. White,4. College Grad,84.7183897
+2007,43,1. Male,2. Married,1. White,4. College Grad,167.7065756
+2008,49,1. Male,2. Married,2. Black,2. HS Grad,94.07271475
+2005,36,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2007,47,1. Male,2. Married,2. Black,5. Advanced Degree,81.28325328
+2003,52,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2009,34,1. Male,2. Married,1. White,3. Some College,114.4757133
+2004,62,1. Male,2. Married,1. White,4. College Grad,130.9821774
+2007,44,1. Male,2. Married,1. White,1. < HS Grad,104.9215065
+2005,48,1. Male,2. Married,1. White,1. < HS Grad,152.2168068
+2007,51,1. Male,2. Married,1. White,2. HS Grad,124.7204462
+2009,35,1. Male,1. Never Married,1. White,4. College Grad,148.4131591
+2003,42,1. Male,2. Married,1. White,2. HS Grad,89.24288466
+2005,34,1. Male,1. Never Married,1. White,4. College Grad,82.6796373
+2003,50,1. Male,2. Married,3. Asian,4. College Grad,94.07271475
+2006,50,1. Male,4. Divorced,1. White,4. College Grad,153.4575153
+2004,55,1. Male,2. Married,1. White,4. College Grad,46.7632688
+2009,56,1. Male,2. Married,1. White,2. HS Grad,129.4536446
+2005,50,1. Male,2. Married,1. White,2. HS Grad,130.9821774
+2009,44,1. Male,2. Married,1. White,4. College Grad,94.07271475
+2005,30,1. Male,2. Married,1. White,4. College Grad,99.6894637
+2005,34,1. Male,2. Married,1. White,4. College Grad,128.6804882
+2007,50,1. Male,4. Divorced,1. White,2. HS Grad,73.77574327
+2004,51,1. Male,2. Married,1. White,4. College Grad,110.7826503
+2003,53,1. Male,2. Married,2. Black,3. Some College,99.6894637
+2004,40,1. Male,1. Never Married,2. Black,5. Advanced Degree,91.69922611
+2006,34,1. Male,2. Married,1. White,2. HS Grad,82.6796373
+2006,36,1. Male,2. Married,1. White,3. Some College,118.8843593
+2005,44,1. Male,2. Married,1. White,3. Some College,148.4131591
+2008,54,1. Male,2. Married,3. Asian,2. HS Grad,95.23071257
+2008,36,1. Male,2. Married,1. White,4. College Grad,163.515864
+2006,62,1. Male,2. Married,1. White,5. Advanced Degree,279.501782
+2008,33,1. Male,1. Never Married,1. White,5. Advanced Degree,114.4757133
+2004,44,1. Male,1. Never Married,1. White,2. HS Grad,102.8702469
+2005,80,1. Male,1. Never Married,1. White,2. HS Grad,87.98103279
+2005,45,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2008,58,1. Male,4. Divorced,1. White,4. College Grad,70.47601965
+2004,51,1. Male,2. Married,1. White,3. Some College,101.8243521
+2005,60,1. Male,2. Married,1. White,3. Some College,277.6014175
+2007,33,1. Male,2. Married,1. White,1. < HS Grad,87.98103279
+2006,28,1. Male,1. Never Married,1. White,3. Some College,104.9215065
+2004,37,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2006,56,1. Male,2. Married,1. White,3. Some College,99.6894637
+2009,59,1. Male,2. Married,1. White,5. Advanced Degree,171.7651326
+2004,56,1. Male,2. Married,1. White,2. HS Grad,75.04315402
+2003,34,1. Male,2. Married,1. White,1. < HS Grad,72.15045568
+2004,37,1. Male,1. Never Married,1. White,2. HS Grad,34.60741773
+2009,36,1. Male,2. Married,1. White,4. College Grad,94.07271475
+2008,45,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2006,36,1. Male,2. Married,1. White,5. Advanced Degree,140.3982002
+2008,23,1. Male,1. Never Married,1. White,3. Some College,27.14057921
+2003,56,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2005,33,1. Male,2. Married,1. White,3. Some College,114.4757133
+2009,48,1. Male,2. Married,3. Asian,1. < HS Grad,127.1157438
+2008,28,1. Male,1. Never Married,1. White,2. HS Grad,82.6796373
+2008,37,1. Male,2. Married,1. White,3. Some College,101.8243521
+2006,56,1. Male,2. Married,1. White,2. HS Grad,86.69515483
+2005,22,1. Male,1. Never Married,1. White,3. Some College,63.188861
+2007,60,1. Male,2. Married,1. White,2. HS Grad,114.9265218
+2009,30,1. Male,1. Never Married,1. White,4. College Grad,81.28325328
+2003,50,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2003,38,1. Male,2. Married,1. White,5. Advanced Degree,101.8243521
+2009,55,1. Male,2. Married,1. White,5. Advanced Degree,103.181327
+2006,26,1. Male,2. Married,1. White,4. College Grad,113.5670896
+2006,39,1. Male,2. Married,1. White,3. Some College,148.4131591
+2003,42,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2007,71,1. Male,2. Married,2. Black,4. College Grad,105.6914475
+2008,33,1. Male,2. Married,1. White,3. Some College,128.6804882
+2004,49,1. Male,1. Never Married,1. White,2. HS Grad,51.75144037
+2005,45,1. Male,2. Married,1. White,3. Some College,81.28325328
+2004,41,1. Male,2. Married,1. White,5. Advanced Degree,158.2946214
+2005,59,1. Male,4. Divorced,1. White,1. < HS Grad,54.1212054
+2004,33,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2009,47,1. Male,1. Never Married,4. Other,1. < HS Grad,71.68674367
+2006,34,1. Male,2. Married,1. White,3. Some College,145.1436012
+2007,23,1. Male,2. Married,2. Black,3. Some College,94.07271475
+2009,32,1. Male,2. Married,1. White,2. HS Grad,127.901233
+2009,30,1. Male,2. Married,1. White,4. College Grad,102.8702469
+2006,54,1. Male,2. Married,2. Black,2. HS Grad,89.49247952
+2009,46,1. Male,2. Married,1. White,3. Some College,104.9215065
+2005,52,1. Male,2. Married,1. White,4. College Grad,137.5901428
+2008,50,1. Male,2. Married,1. White,2. HS Grad,176.9896505
+2007,57,1. Male,2. Married,1. White,2. HS Grad,97.49329405
+2005,46,1. Male,2. Married,1. White,3. Some College,100.7642728
+2005,30,1. Male,1. Never Married,1. White,3. Some College,81.28325328
+2006,32,1. Male,1. Never Married,1. White,3. Some College,56.90553914
+2008,53,1. Male,2. Married,1. White,3. Some College,105.9278108
+2005,48,1. Male,2. Married,1. White,4. College Grad,138.2991269
+2003,31,1. Male,2. Married,1. White,3. Some College,108.8745258
+2003,50,1. Male,2. Married,1. White,2. HS Grad,76.89360252
+2004,41,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2008,47,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2004,37,1. Male,2. Married,1. White,2. HS Grad,75.35567932
+2004,24,1. Male,1. Never Married,1. White,3. Some College,74.57116177
+2004,53,1. Male,2. Married,1. White,1. < HS Grad,81.28325328
+2004,39,1. Male,4. Divorced,1. White,2. HS Grad,95.23071257
+2007,47,1. Male,2. Married,1. White,3. Some College,145.1436012
+2006,36,1. Male,2. Married,1. White,4. College Grad,140.3982002
+2006,34,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2004,45,1. Male,2. Married,1. White,3. Some College,99.6894637
+2003,60,1. Male,2. Married,1. White,1. < HS Grad,59.09706408
+2006,43,1. Male,2. Married,1. White,1. < HS Grad,118.8843593
+2009,20,1. Male,1. Never Married,1. White,2. HS Grad,64.35102457
+2008,27,1. Male,1. Never Married,1. White,4. College Grad,133.2323508
+2004,35,1. Male,4. Divorced,1. White,2. HS Grad,59.09706408
+2008,50,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2009,56,1. Male,2. Married,4. Other,2. HS Grad,60.15412466
+2008,19,1. Male,1. Never Married,1. White,3. Some College,30.92375269
+2006,35,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2005,23,1. Male,1. Never Married,1. White,1. < HS Grad,65.11085372
+2003,45,1. Male,3. Widowed,4. Other,2. HS Grad,94.07271475
+2004,54,1. Male,4. Divorced,1. White,1. < HS Grad,65.11085372
+2008,43,1. Male,1. Never Married,1. White,2. HS Grad,87.98103279
+2008,42,1. Male,2. Married,1. White,5. Advanced Degree,176.9896505
+2005,51,1. Male,2. Married,1. White,4. College Grad,189.2441629
+2007,49,1. Male,1. Never Married,1. White,4. College Grad,79.85490031
+2006,48,1. Male,2. Married,1. White,2. HS Grad,111.1854619
+2005,50,1. Male,4. Divorced,1. White,4. College Grad,118.8843593
+2006,37,1. Male,2. Married,1. White,4. College Grad,81.28325328
+2005,38,1. Male,2. Married,1. White,5. Advanced Degree,186.8766776
+2009,58,1. Male,2. Married,1. White,4. College Grad,154.685293
+2005,41,1. Male,2. Married,1. White,1. < HS Grad,124.7204462
+2006,51,1. Male,2. Married,1. White,4. College Grad,277.7994802
+2006,51,1. Male,2. Married,1. White,3. Some College,99.59198882
+2006,44,1. Male,2. Married,1. White,1. < HS Grad,87.98103279
+2003,43,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2004,34,1. Male,2. Married,1. White,3. Some College,145.1436012
+2005,43,1. Male,2. Married,1. White,4. College Grad,138.2991269
+2004,59,1. Male,2. Married,1. White,4. College Grad,256.4006496
+2004,61,1. Male,4. Divorced,1. White,2. HS Grad,113.5670896
+2008,40,1. Male,2. Married,1. White,1. < HS Grad,118.0197533
+2009,49,1. Male,2. Married,1. White,3. Some College,104.9215065
+2003,55,1. Male,2. Married,1. White,4. College Grad,130.9821774
+2005,54,1. Male,2. Married,1. White,5. Advanced Degree,123.0896998
+2004,41,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2006,29,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2009,66,1. Male,2. Married,2. Black,2. HS Grad,138.2991269
+2006,61,1. Male,2. Married,1. White,5. Advanced Degree,107.4339706
+2003,34,1. Male,4. Divorced,1. White,2. HS Grad,105.9278108
+2007,41,1. Male,1. Never Married,1. White,2. HS Grad,121.4303138
+2004,48,1. Male,4. Divorced,2. Black,1. < HS Grad,85.38394038
+2005,26,1. Male,1. Never Married,1. White,4. College Grad,91.69922611
+2006,54,1. Male,4. Divorced,1. White,3. Some College,90.48191336
+2008,44,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2008,60,1. Male,4. Divorced,1. White,4. College Grad,147.1166892
+2008,57,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2009,53,1. Male,2. Married,1. White,2. HS Grad,107.9039239
+2007,54,1. Male,4. Divorced,1. White,5. Advanced Degree,118.8843593
+2009,37,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2008,62,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2003,40,1. Male,2. Married,1. White,3. Some College,87.98103279
+2008,39,1. Male,2. Married,1. White,2. HS Grad,111.7208494
+2005,55,1. Male,1. Never Married,2. Black,2. HS Grad,81.28325328
+2006,57,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2003,45,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2003,41,1. Male,2. Married,1. White,4. College Grad,82.6796373
+2007,28,1. Male,1. Never Married,1. White,3. Some College,102.7662809
+2003,58,1. Male,2. Married,1. White,5. Advanced Degree,120.5894365
+2008,47,1. Male,1. Never Married,2. Black,5. Advanced Degree,141.7751723
+2007,60,1. Male,1. Never Married,1. White,5. Advanced Degree,106.9218141
+2003,26,1. Male,1. Never Married,3. Asian,4. College Grad,268.266292
+2006,52,1. Male,2. Married,1. White,3. Some College,109.8339856
+2008,31,1. Male,2. Married,1. White,3. Some College,99.6894637
+2007,63,1. Male,2. Married,3. Asian,5. Advanced Degree,200.5432623
+2005,42,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2009,30,1. Male,1. Never Married,1. White,5. Advanced Degree,125.5254984
+2007,52,1. Male,2. Married,1. White,3. Some College,114.4757133
+2005,38,1. Male,2. Married,1. White,5. Advanced Degree,160.6424754
+2008,29,1. Male,2. Married,1. White,1. < HS Grad,99.6894637
+2007,42,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2007,57,1. Male,2. Married,1. White,4. College Grad,125.5254984
+2005,46,1. Male,2. Married,2. Black,3. Some College,133.2323508
+2003,21,1. Male,1. Never Married,1. White,1. < HS Grad,75.04315402
+2005,34,1. Male,4. Divorced,1. White,3. Some College,109.8339856
+2008,39,1. Male,1. Never Married,1. White,2. HS Grad,63.188861
+2006,26,1. Male,1. Never Married,1. White,3. Some College,95.23071257
+2004,42,1. Male,4. Divorced,1. White,1. < HS Grad,111.7208494
+2004,48,1. Male,2. Married,1. White,3. Some College,78.3924668
+2009,54,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2003,80,1. Male,2. Married,1. White,2. HS Grad,82.6796373
+2006,37,1. Male,2. Married,1. White,2. HS Grad,78.3924668
+2007,31,1. Male,1. Never Married,4. Other,3. Some College,81.28325328
+2003,41,1. Male,5. Separated,1. White,2. HS Grad,70.81503862
+2004,37,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2003,43,1. Male,1. Never Married,1. White,4. College Grad,130.6022275
+2004,54,1. Male,2. Married,1. White,4. College Grad,200.5432623
+2004,39,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2004,45,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2007,21,1. Male,1. Never Married,1. White,2. HS Grad,96.14407221
+2005,59,1. Male,2. Married,2. Black,3. Some College,104.9215065
+2007,29,1. Male,1. Never Married,3. Asian,4. College Grad,62.23868126
+2009,29,1. Male,2. Married,1. White,4. College Grad,137.5901428
+2005,33,1. Male,1. Never Married,2. Black,1. < HS Grad,87.98103279
+2003,45,1. Male,2. Married,1. White,4. College Grad,155.9005061
+2008,53,1. Male,4. Divorced,1. White,5. Advanced Degree,176.9896505
+2003,63,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2004,56,1. Male,2. Married,1. White,4. College Grad,138.2991269
+2003,21,1. Male,1. Never Married,1. White,2. HS Grad,63.188861
+2007,39,1. Male,3. Widowed,3. Asian,2. HS Grad,73.77574327
+2007,30,1. Male,2. Married,1. White,4. College Grad,182.020621
+2003,42,1. Male,2. Married,1. White,4. College Grad,116.2653241
+2004,40,1. Male,4. Divorced,1. White,3. Some College,94.07271475
+2004,47,1. Male,2. Married,1. White,3. Some College,148.4131591
+2005,43,1. Male,2. Married,1. White,3. Some College,20.08553692
+2005,42,1. Male,4. Divorced,1. White,3. Some College,111.7208494
+2008,50,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2004,39,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2007,50,1. Male,2. Married,1. White,4. College Grad,70.47601965
+2005,60,1. Male,3. Widowed,2. Black,5. Advanced Degree,92.89584479
+2009,57,1. Male,1. Never Married,1. White,3. Some College,87.98103279
+2007,38,1. Male,2. Married,1. White,2. HS Grad,89.49247952
+2004,49,1. Male,2. Married,1. White,2. HS Grad,102.8702469
+2004,51,1. Male,4. Divorced,1. White,2. HS Grad,73.77574327
+2004,33,1. Male,2. Married,1. White,3. Some College,66.22940829
+2006,59,1. Male,1. Never Married,1. White,3. Some College,117.1468169
+2006,41,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2003,33,1. Male,2. Married,1. White,5. Advanced Degree,116.2653241
+2008,28,1. Male,1. Never Married,1. White,4. College Grad,126.3238807
+2009,49,1. Male,1. Never Married,1. White,3. Some College,82.74175417
+2005,51,1. Male,5. Separated,1. White,4. College Grad,112.6488963
+2008,36,1. Male,1. Never Married,1. White,4. College Grad,118.8843593
+2003,26,1. Male,1. Never Married,1. White,3. Some College,87.98103279
+2005,22,1. Male,1. Never Married,1. White,4. College Grad,54.02996518
+2006,47,1. Male,2. Married,2. Black,2. HS Grad,117.1468169
+2003,59,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2004,41,1. Male,2. Married,1. White,4. College Grad,127.901233
+2006,32,1. Male,1. Never Married,1. White,4. College Grad,87.98103279
+2008,45,1. Male,2. Married,1. White,1. < HS Grad,109.8339856
+2008,39,1. Male,2. Married,1. White,1. < HS Grad,68.74808773
+2006,64,1. Male,2. Married,1. White,2. HS Grad,95.23071257
+2004,36,1. Male,2. Married,3. Asian,4. College Grad,134.7053751
+2004,61,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2003,34,1. Male,2. Married,1. White,1. < HS Grad,68.74808773
+2004,52,1. Male,2. Married,1. White,5. Advanced Degree,134.7053751
+2008,33,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2009,36,1. Male,2. Married,3. Asian,4. College Grad,150.6951821
+2005,34,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2004,39,1. Male,1. Never Married,1. White,1. < HS Grad,75.35567932
+2004,59,1. Male,3. Widowed,2. Black,5. Advanced Degree,141.7751723
+2009,49,1. Male,2. Married,1. White,4. College Grad,175.9329977
+2006,40,1. Male,2. Married,1. White,5. Advanced Degree,198.3502905
+2006,49,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2003,25,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2009,59,1. Male,2. Married,3. Asian,4. College Grad,81.28325328
+2007,39,1. Male,2. Married,1. White,2. HS Grad,76.43645437
+2005,40,1. Male,2. Married,1. White,3. Some College,94.07271475
+2009,51,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2009,63,1. Male,1. Never Married,1. White,2. HS Grad,110.7826503
+2007,53,1. Male,2. Married,1. White,1. < HS Grad,92.89584479
+2008,25,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2007,53,1. Male,4. Divorced,1. White,2. HS Grad,85.38394038
+2006,23,1. Male,2. Married,1. White,4. College Grad,75.35567932
+2004,36,1. Male,1. Never Married,3. Asian,2. HS Grad,72.15045568
+2005,19,1. Male,1. Never Married,1. White,2. HS Grad,31.41099627
+2005,47,1. Male,2. Married,1. White,2. HS Grad,92.89584479
+2005,43,1. Male,1. Never Married,1. White,5. Advanced Degree,103.9024706
+2004,40,1. Male,2. Married,1. White,4. College Grad,111.7208494
+2009,38,1. Male,2. Married,1. White,5. Advanced Degree,180.7799522
+2003,63,1. Male,2. Married,1. White,3. Some College,109.8339856
+2008,45,1. Male,1. Never Married,1. White,4. College Grad,36.6737042
+2008,32,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2009,37,1. Male,2. Married,1. White,4. College Grad,98.59934386
+2004,37,1. Male,4. Divorced,1. White,2. HS Grad,57.46364704
+2008,41,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2005,45,1. Male,1. Never Married,1. White,4. College Grad,82.6796373
+2008,22,1. Male,1. Never Married,1. White,3. Some College,81.28325328
+2005,58,1. Male,2. Married,3. Asian,5. Advanced Degree,227.458934
+2003,44,1. Male,2. Married,1. White,2. HS Grad,91.69922611
+2007,39,1. Male,2. Married,1. White,3. Some College,116.2653241
+2005,40,1. Male,2. Married,1. White,2. HS Grad,141.7751723
+2003,33,1. Male,1. Never Married,3. Asian,3. Some College,81.28325328
+2006,35,1. Male,2. Married,1. White,5. Advanced Degree,91.09321847
+2009,63,1. Male,2. Married,3. Asian,5. Advanced Degree,114.4757133
+2003,45,1. Male,2. Married,1. White,5. Advanced Degree,160.6424754
+2008,31,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2003,41,1. Male,1. Never Married,1. White,5. Advanced Degree,92.89584479
+2008,66,1. Male,2. Married,1. White,5. Advanced Degree,276.7784133
+2009,45,1. Male,1. Never Married,2. Black,2. HS Grad,82.6796373
+2007,47,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2006,35,1. Male,2. Married,1. White,2. HS Grad,124.7204462
+2005,52,1. Male,2. Married,1. White,2. HS Grad,100.7642728
+2003,62,1. Male,2. Married,1. White,4. College Grad,169.8003423
+2003,47,1. Male,2. Married,1. White,2. HS Grad,82.6796373
+2004,40,1. Male,2. Married,1. White,3. Some College,136.8763676
+2006,41,1. Male,2. Married,1. White,5. Advanced Degree,277.7994802
+2009,48,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2005,55,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2009,64,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2004,29,1. Male,2. Married,1. White,4. College Grad,61.18752643
+2003,49,1. Male,2. Married,1. White,3. Some College,118.8843593
+2009,32,1. Male,2. Married,1. White,4. College Grad,133.2323508
+2006,41,1. Male,2. Married,3. Asian,2. HS Grad,82.6796373
+2004,58,1. Male,2. Married,1. White,3. Some College,148.4131591
+2003,41,1. Male,2. Married,1. White,3. Some College,148.4131591
+2007,34,1. Male,1. Never Married,1. White,3. Some College,96.93409046
+2004,43,1. Male,2. Married,1. White,4. College Grad,154.685293
+2003,23,1. Male,1. Never Married,2. Black,1. < HS Grad,87.98103279
+2003,40,1. Male,1. Never Married,1. White,5. Advanced Degree,102.8702469
+2007,46,1. Male,2. Married,1. White,5. Advanced Degree,281.7459706
+2004,35,1. Male,2. Married,1. White,4. College Grad,106.9218141
+2007,42,1. Male,1. Never Married,1. White,5. Advanced Degree,148.4144482
+2009,47,1. Male,5. Separated,1. White,2. HS Grad,111.7208494
+2007,45,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2008,34,1. Male,1. Never Married,1. White,4. College Grad,108.8745258
+2004,57,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2005,32,1. Male,1. Never Married,1. White,3. Some College,86.17378673
+2009,55,1. Male,4. Divorced,1. White,2. HS Grad,102.8702469
+2008,22,1. Male,1. Never Married,1. White,4. College Grad,76.28327785
+2005,51,1. Male,2. Married,1. White,2. HS Grad,124.7204462
+2006,26,1. Male,1. Never Married,1. White,2. HS Grad,66.96164432
+2004,27,1. Male,1. Never Married,1. White,4. College Grad,54.59815003
+2004,34,1. Male,2. Married,1. White,4. College Grad,166.3249412
+2007,48,1. Male,2. Married,1. White,2. HS Grad,91.70163967
+2008,23,1. Male,2. Married,1. White,2. HS Grad,78.346562
+2003,41,1. Male,2. Married,1. White,2. HS Grad,111.7208494
+2009,49,1. Male,4. Divorced,1. White,5. Advanced Degree,151.5914842
+2005,47,1. Male,2. Married,1. White,5. Advanced Degree,120.5894365
+2005,35,1. Male,4. Divorced,2. Black,4. College Grad,117.1468169
+2007,50,1. Male,2. Married,1. White,2. HS Grad,81.98531783
+2006,55,1. Male,2. Married,1. White,2. HS Grad,137.5901428
+2009,69,1. Male,2. Married,1. White,2. HS Grad,40.40566526
+2004,45,1. Male,2. Married,1. White,2. HS Grad,154.685293
+2005,40,1. Male,2. Married,1. White,3. Some College,154.685293
+2005,47,1. Male,1. Never Married,1. White,4. College Grad,143.3253181
+2008,22,1. Male,1. Never Married,1. White,3. Some College,78.3924668
+2003,42,1. Male,4. Divorced,1. White,2. HS Grad,85.38394038
+2008,47,1. Male,2. Married,1. White,4. College Grad,159.4741767
+2005,48,1. Male,2. Married,2. Black,2. HS Grad,66.22940829
+2009,28,1. Male,1. Never Married,1. White,2. HS Grad,111.7208494
+2005,49,1. Male,1. Never Married,1. White,3. Some College,90.72707931
+2009,51,1. Male,4. Divorced,1. White,2. HS Grad,128.6804882
+2003,58,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2005,32,1. Male,1. Never Married,2. Black,3. Some College,114.4757133
+2009,55,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2007,49,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2004,46,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2003,44,1. Male,2. Married,1. White,5. Advanced Degree,182.020621
+2003,25,1. Male,2. Married,1. White,3. Some College,87.98103279
+2004,73,1. Male,4. Divorced,2. Black,1. < HS Grad,92.89584479
+2004,18,1. Male,1. Never Married,1. White,2. HS Grad,72.15045568
+2005,52,1. Male,2. Married,2. Black,1. < HS Grad,122.2636739
+2008,28,1. Male,2. Married,3. Asian,2. HS Grad,72.15045568
+2004,51,1. Male,2. Married,1. White,2. HS Grad,82.6796373
+2009,44,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2008,44,1. Male,2. Married,1. White,3. Some College,141.7751723
+2003,29,1. Male,2. Married,3. Asian,2. HS Grad,95.23071257
+2006,48,1. Male,2. Married,3. Asian,4. College Grad,141.7751723
+2006,62,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2004,40,1. Male,2. Married,1. White,5. Advanced Degree,131.7378012
+2003,24,1. Male,1. Never Married,1. White,3. Some College,66.32519494
+2003,48,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2008,54,1. Male,2. Married,1. White,5. Advanced Degree,163.515864
+2003,69,1. Male,2. Married,2. Black,1. < HS Grad,114.4757133
+2006,48,1. Male,2. Married,1. White,2. HS Grad,123.0896998
+2003,73,1. Male,2. Married,1. White,1. < HS Grad,40.19437052
+2009,30,1. Male,2. Married,2. Black,3. Some College,70.5134157
+2003,41,1. Male,1. Never Married,3. Asian,3. Some College,73.77574327
+2009,48,1. Male,2. Married,1. White,1. < HS Grad,100.8794609
+2004,63,1. Male,2. Married,1. White,4. College Grad,84.04595765
+2003,29,1. Male,2. Married,1. White,3. Some College,85.38394038
+2004,40,1. Male,2. Married,1. White,3. Some College,141.7751723
+2007,52,1. Male,2. Married,1. White,3. Some College,91.09321847
+2008,54,1. Male,5. Separated,1. White,2. HS Grad,114.4757133
+2009,33,1. Male,2. Married,1. White,4. College Grad,267.9010869
+2004,42,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2007,31,1. Male,2. Married,2. Black,2. HS Grad,94.07271475
+2006,46,1. Male,2. Married,1. White,3. Some College,139.6758702
+2008,44,1. Male,2. Married,1. White,4. College Grad,125.1238157
+2009,45,1. Male,5. Separated,1. White,2. HS Grad,113.5670896
+2003,40,1. Male,2. Married,1. White,2. HS Grad,182.020621
+2005,31,1. Male,1. Never Married,1. White,2. HS Grad,102.8702469
+2006,19,1. Male,1. Never Married,1. White,2. HS Grad,76.89360252
+2003,43,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2007,56,1. Male,2. Married,1. White,4. College Grad,142.4571699
+2006,55,1. Male,2. Married,1. White,3. Some College,101.8243521
+2006,59,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2009,49,1. Male,4. Divorced,1. White,1. < HS Grad,102.8702469
+2009,42,1. Male,2. Married,1. White,4. College Grad,128.6804882
+2008,27,1. Male,1. Never Married,1. White,2. HS Grad,61.18752643
+2003,34,1. Male,1. Never Married,1. White,2. HS Grad,81.28607729
+2008,47,1. Male,2. Married,1. White,4. College Grad,276.7784133
+2003,35,1. Male,2. Married,1. White,5. Advanced Degree,268.266292
+2004,33,1. Male,2. Married,2. Black,3. Some College,104.9215065
+2003,35,1. Male,2. Married,1. White,2. HS Grad,144.4780877
+2004,40,1. Male,2. Married,1. White,3. Some College,118.8843593
+2004,53,1. Male,2. Married,1. White,4. College Grad,94.07271475
+2007,47,1. Male,2. Married,2. Black,4. College Grad,73.77574327
+2006,45,1. Male,1. Never Married,1. White,5. Advanced Degree,196.1252726
+2009,34,1. Male,2. Married,1. White,4. College Grad,169.07354
+2006,25,1. Male,2. Married,1. White,1. < HS Grad,69.6190369
+2006,56,1. Male,2. Married,1. White,4. College Grad,124.7204462
+2005,54,1. Male,2. Married,1. White,3. Some College,115.5180852
+2003,41,1. Male,2. Married,1. White,1. < HS Grad,89.24288466
+2008,46,1. Male,2. Married,1. White,5. Advanced Degree,276.7784133
+2004,44,1. Male,2. Married,1. White,5. Advanced Degree,170.6951277
+2004,44,1. Male,4. Divorced,1. White,4. College Grad,99.6894637
+2005,46,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2009,38,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2008,36,1. Male,2. Married,1. White,2. HS Grad,128.6804882
+2009,27,1. Male,1. Never Married,3. Asian,4. College Grad,99.6894637
+2008,33,1. Male,2. Married,1. White,2. HS Grad,128.6804882
+2006,56,1. Male,2. Married,2. Black,2. HS Grad,140.3982002
+2005,52,1. Male,2. Married,1. White,2. HS Grad,111.7208494
+2008,33,1. Male,1. Never Married,1. White,5. Advanced Degree,125.5254984
+2008,32,1. Male,2. Married,3. Asian,4. College Grad,94.07271475
+2008,39,1. Male,4. Divorced,1. White,4. College Grad,118.8843593
+2005,22,1. Male,1. Never Married,1. White,2. HS Grad,72.15045568
+2009,53,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2006,36,1. Male,2. Married,1. White,4. College Grad,277.7994802
+2005,37,1. Male,2. Married,1. White,1. < HS Grad,73.77574327
+2008,40,1. Male,2. Married,1. White,2. HS Grad,130.9821774
+2005,51,1. Male,2. Married,2. Black,2. HS Grad,78.21457569
+2008,40,1. Male,2. Married,1. White,2. HS Grad,90.48191336
+2006,56,1. Male,2. Married,1. White,5. Advanced Degree,117.1468169
+2009,50,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2009,49,1. Male,2. Married,1. White,2. HS Grad,166.3249412
+2007,32,1. Male,2. Married,1. White,1. < HS Grad,81.28325328
+2004,21,1. Male,1. Never Married,1. White,2. HS Grad,84.04595765
+2004,48,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2007,48,1. Male,2. Married,1. White,3. Some College,73.77574327
+2004,32,1. Male,2. Married,1. White,3. Some College,115.1062017
+2003,30,1. Male,1. Never Married,1. White,3. Some College,53.02755112
+2006,30,1. Male,2. Married,1. White,3. Some College,118.8843593
+2003,33,1. Male,2. Married,1. White,1. < HS Grad,79.85490031
+2005,56,1. Male,2. Married,3. Asian,5. Advanced Degree,56.45386498
+2004,46,1. Male,4. Divorced,2. Black,3. Some College,90.48191336
+2003,49,1. Male,2. Married,1. White,3. Some College,104.9215065
+2008,24,1. Male,1. Never Married,1. White,2. HS Grad,87.98103279
+2009,48,1. Male,1. Never Married,1. White,3. Some College,147.1166892
+2006,37,1. Male,4. Divorced,1. White,4. College Grad,109.8339856
+2007,53,1. Male,2. Married,1. White,3. Some College,118.8843593
+2004,56,1. Male,2. Married,2. Black,5. Advanced Degree,141.7751723
+2008,34,1. Male,2. Married,2. Black,3. Some College,108.8745258
+2004,56,1. Male,2. Married,1. White,3. Some College,104.9215065
+2006,48,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2006,47,1. Male,2. Married,2. Black,2. HS Grad,27.14057921
+2003,52,1. Male,2. Married,1. White,3. Some College,70.47601965
+2009,40,1. Male,2. Married,1. White,3. Some College,166.8793833
+2008,25,1. Male,2. Married,1. White,2. HS Grad,127.1157438
+2009,35,1. Male,2. Married,1. White,4. College Grad,117.1468169
+2006,40,1. Male,1. Never Married,2. Black,3. Some College,103.9024706
+2009,22,1. Male,1. Never Married,1. White,2. HS Grad,34.60741773
+2003,50,1. Male,4. Divorced,1. White,3. Some College,100.0134869
+2008,48,1. Male,5. Separated,1. White,1. < HS Grad,64.86896919
+2007,40,1. Male,1. Never Married,3. Asian,5. Advanced Degree,109.8339856
+2003,45,1. Male,2. Married,1. White,3. Some College,127.1157438
+2004,30,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2003,46,1. Male,2. Married,1. White,4. College Grad,117.1468169
+2008,34,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2007,32,1. Male,2. Married,1. White,1. < HS Grad,65.11085372
+2004,53,1. Male,2. Married,1. White,4. College Grad,143.1349408
+2008,32,1. Male,1. Never Married,1. White,3. Some College,76.89360252
+2004,39,1. Male,2. Married,2. Black,4. College Grad,99.6894637
+2007,51,1. Male,2. Married,1. White,4. College Grad,94.07271475
+2004,40,1. Male,2. Married,1. White,2. HS Grad,75.35567932
+2009,66,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2006,40,1. Male,2. Married,1. White,4. College Grad,166.3249412
+2009,52,1. Male,2. Married,1. White,5. Advanced Degree,133.2323508
+2007,36,1. Male,2. Married,1. White,3. Some College,125.5254984
+2007,32,1. Male,1. Never Married,1. White,2. HS Grad,89.49247952
+2008,45,1. Male,2. Married,1. White,2. HS Grad,84.04595765
+2006,37,1. Male,2. Married,1. White,2. HS Grad,169.07354
+2004,47,1. Male,2. Married,3. Asian,5. Advanced Degree,160.6424754
+2008,49,1. Male,2. Married,1. White,2. HS Grad,144.1706065
+2003,53,1. Male,2. Married,1. White,1. < HS Grad,73.77574327
+2007,66,1. Male,4. Divorced,2. Black,2. HS Grad,70.47601965
+2006,33,1. Male,2. Married,1. White,1. < HS Grad,73.77574327
+2004,58,1. Male,4. Divorced,1. White,2. HS Grad,94.07271475
+2008,41,1. Male,2. Married,1. White,5. Advanced Degree,83.19132429
+2009,54,1. Male,2. Married,3. Asian,3. Some College,134.7053751
+2009,26,1. Male,1. Never Married,1. White,2. HS Grad,86.69515483
+2008,24,1. Male,1. Never Married,4. Other,2. HS Grad,70.47601965
+2007,62,1. Male,2. Married,1. White,4. College Grad,130.9821774
+2005,63,1. Male,2. Married,1. White,2. HS Grad,136.3039976
+2005,26,1. Male,1. Never Married,3. Asian,4. College Grad,114.0225804
+2004,45,1. Male,2. Married,1. White,2. HS Grad,106.1275822
+2003,23,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2008,31,1. Male,2. Married,1. White,4. College Grad,116.2653241
+2003,44,1. Male,2. Married,1. White,5. Advanced Degree,143.1349408
+2003,43,1. Male,1. Never Married,1. White,1. < HS Grad,54.59815003
+2004,48,1. Male,2. Married,1. White,2. HS Grad,48.18565022
+2008,48,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2006,55,1. Male,2. Married,1. White,5. Advanced Degree,117.5843403
+2004,45,1. Male,2. Married,3. Asian,5. Advanced Degree,272.2947832
+2008,48,1. Male,2. Married,1. White,4. College Grad,145.1436012
+2009,63,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2004,57,1. Male,2. Married,2. Black,2. HS Grad,97.49329405
+2008,69,1. Male,2. Married,3. Asian,5. Advanced Degree,148.4131591
+2009,31,1. Male,1. Never Married,1. White,4. College Grad,127.1157438
+2003,38,1. Male,2. Married,1. White,4. College Grad,268.266292
+2005,43,1. Male,5. Separated,1. White,4. College Grad,109.8339856
+2003,19,1. Male,1. Never Married,1. White,2. HS Grad,51.90369627
+2005,44,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2007,31,1. Male,2. Married,3. Asian,4. College Grad,134.7053751
+2004,49,1. Male,1. Never Married,4. Other,1. < HS Grad,87.98103279
+2006,29,1. Male,2. Married,1. White,3. Some College,95.23071257
+2008,26,1. Male,2. Married,4. Other,3. Some College,76.89360252
+2007,37,1. Male,2. Married,1. White,5. Advanced Degree,116.2653241
+2006,30,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2009,35,1. Male,2. Married,1. White,3. Some College,131.621803
+2004,40,1. Male,2. Married,1. White,2. HS Grad,117.1468169
+2005,44,1. Male,4. Divorced,4. Other,5. Advanced Degree,68.74808773
+2004,65,1. Male,2. Married,1. White,2. HS Grad,125.5254984
+2007,54,1. Male,2. Married,2. Black,3. Some College,101.8243521
+2009,56,1. Male,2. Married,1. White,3. Some College,140.3982002
+2008,48,1. Male,2. Married,1. White,4. College Grad,107.9039239
+2009,37,1. Male,4. Divorced,1. White,3. Some College,58.01478201
+2005,30,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2005,46,1. Male,2. Married,1. White,5. Advanced Degree,85.38394038
+2009,37,1. Male,2. Married,1. White,2. HS Grad,131.7378012
+2005,58,1. Male,4. Divorced,2. Black,2. HS Grad,81.28325328
+2007,52,1. Male,2. Married,1. White,3. Some College,86.69515483
+2006,45,1. Male,2. Married,1. White,3. Some College,157.7005277
+2008,33,1. Male,2. Married,1. White,2. HS Grad,65.11462388
+2004,51,1. Male,2. Married,1. White,3. Some College,90.48191336
+2008,50,1. Male,2. Married,1. White,1. < HS Grad,46.7632688
+2006,42,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2004,46,1. Male,1. Never Married,1. White,3. Some College,139.7030715
+2005,43,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2003,47,1. Male,2. Married,1. White,3. Some College,81.28325328
+2005,47,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2004,44,1. Male,2. Married,1. White,4. College Grad,71.15195654
+2008,36,1. Male,2. Married,3. Asian,2. HS Grad,65.11085372
+2008,39,1. Male,2. Married,1. White,2. HS Grad,65.11085372
+2003,29,1. Male,2. Married,1. White,4. College Grad,125.5254984
+2005,40,1. Male,2. Married,1. White,3. Some College,123.0896998
+2007,20,1. Male,1. Never Married,1. White,3. Some College,70.81503862
+2004,32,1. Male,2. Married,1. White,5. Advanced Degree,112.6488963
+2003,36,1. Male,2. Married,1. White,3. Some College,86.69515483
+2009,31,1. Male,1. Never Married,2. Black,3. Some College,82.6796373
+2005,28,1. Male,2. Married,3. Asian,4. College Grad,130.9821774
+2005,41,1. Male,4. Divorced,4. Other,3. Some College,117.1468169
+2004,54,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2004,42,1. Male,2. Married,1. White,2. HS Grad,118.8843593
+2003,19,1. Male,1. Never Married,1. White,2. HS Grad,68.74808773
+2009,59,1. Male,2. Married,1. White,3. Some College,267.9010869
+2003,64,1. Male,1. Never Married,1. White,3. Some College,99.6894637
+2003,31,1. Male,2. Married,1. White,3. Some College,92.65813017
+2004,37,1. Male,1. Never Married,1. White,3. Some College,109.8339856
+2004,30,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2005,24,1. Male,1. Never Married,1. White,4. College Grad,118.8843593
+2006,26,1. Male,2. Married,1. White,2. HS Grad,75.04315402
+2004,44,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2008,39,1. Male,2. Married,1. White,5. Advanced Degree,276.7784133
+2005,48,1. Male,2. Married,1. White,5. Advanced Degree,277.6014175
+2004,53,1. Male,1. Never Married,2. Black,2. HS Grad,80.57319971
+2004,42,1. Male,2. Married,3. Asian,5. Advanced Degree,114.4757133
+2009,44,1. Male,2. Married,1. White,5. Advanced Degree,166.3249412
+2003,25,1. Male,1. Never Married,1. White,4. College Grad,85.38394038
+2004,46,1. Male,2. Married,1. White,2. HS Grad,43.73511168
+2003,52,1. Male,2. Married,1. White,3. Some College,101.8243521
+2008,33,1. Male,2. Married,1. White,3. Some College,87.98103279
+2007,30,1. Male,2. Married,2. Black,3. Some College,121.4303138
+2007,38,1. Male,1. Never Married,1. White,3. Some College,109.8339856
+2005,29,1. Male,1. Never Married,1. White,2. HS Grad,79.85490031
+2008,57,1. Male,2. Married,3. Asian,4. College Grad,127.1157438
+2003,50,1. Male,2. Married,1. White,4. College Grad,115.285517
+2008,23,1. Male,1. Never Married,1. White,3. Some College,98.60153978
+2006,46,1. Male,4. Divorced,1. White,3. Some College,144.4780877
+2005,61,1. Male,2. Married,1. White,4. College Grad,136.1577108
+2007,70,1. Male,2. Married,1. White,1. < HS Grad,100.7642728
+2009,59,1. Male,2. Married,1. White,2. HS Grad,76.89360252
+2003,57,1. Male,2. Married,2. Black,2. HS Grad,90.48191336
+2003,25,1. Male,1. Never Married,1. White,2. HS Grad,86.69515483
+2005,48,1. Male,2. Married,1. White,3. Some College,123.9085676
+2009,52,1. Male,2. Married,3. Asian,5. Advanced Degree,65.11085372
+2009,44,1. Male,5. Separated,1. White,4. College Grad,131.7378012
+2004,40,1. Male,2. Married,1. White,2. HS Grad,66.96164432
+2008,43,1. Male,2. Married,1. White,4. College Grad,196.1252726
+2005,51,1. Male,2. Married,1. White,3. Some College,166.3249412
+2003,43,1. Male,2. Married,3. Asian,1. < HS Grad,65.11085372
+2003,42,1. Male,2. Married,1. White,2. HS Grad,120.5894365
+2008,28,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2003,54,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2005,34,1. Male,2. Married,1. White,5. Advanced Degree,159.0520271
+2004,50,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2005,36,1. Male,2. Married,1. White,5. Advanced Degree,140.0511976
+2005,36,1. Male,2. Married,1. White,4. College Grad,132.3524777
+2005,71,1. Male,3. Widowed,1. White,3. Some College,118.8843593
+2006,31,1. Male,1. Never Married,3. Asian,5. Advanced Degree,97.49329405
+2005,43,1. Male,2. Married,1. White,5. Advanced Degree,134.7053751
+2007,20,1. Male,1. Never Married,1. White,3. Some College,72.15045568
+2007,23,1. Male,1. Never Married,1. White,1. < HS Grad,87.98103279
+2007,42,1. Male,4. Divorced,1. White,2. HS Grad,49.55533812
+2005,41,1. Male,2. Married,1. White,5. Advanced Degree,149.0558956
+2009,27,1. Male,2. Married,1. White,5. Advanced Degree,122.2636739
+2008,29,1. Male,2. Married,1. White,3. Some College,101.8243521
+2008,41,1. Male,4. Divorced,1. White,3. Some College,99.6894637
+2003,41,1. Male,2. Married,2. Black,2. HS Grad,104.9215065
+2003,22,1. Male,1. Never Married,1. White,3. Some College,81.28325328
+2003,39,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2008,50,1. Male,2. Married,1. White,4. College Grad,82.6796373
+2006,49,1. Male,1. Never Married,1. White,4. College Grad,148.4131591
+2003,42,1. Male,2. Married,1. White,3. Some College,118.8843593
+2008,38,1. Male,2. Married,2. Black,2. HS Grad,129.4536446
+2004,55,1. Male,2. Married,1. White,4. College Grad,134.7053751
+2005,47,1. Male,1. Never Married,1. White,2. HS Grad,79.85490031
+2007,52,1. Male,2. Married,4. Other,1. < HS Grad,68.11199407
+2009,56,1. Male,4. Divorced,1. White,4. College Grad,40.40566526
+2007,30,1. Male,2. Married,1. White,3. Some College,131.7378012
+2005,56,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2003,46,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2009,43,1. Male,2. Married,1. White,1. < HS Grad,126.3238807
+2003,35,1. Male,2. Married,1. White,3. Some College,116.7071546
+2009,58,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2009,69,1. Male,2. Married,1. White,2. HS Grad,81.22674631
+2006,68,1. Male,4. Divorced,1. White,2. HS Grad,87.98103279
+2004,52,1. Male,2. Married,1. White,3. Some College,127.1157438
+2005,46,1. Male,1. Never Married,2. Black,4. College Grad,104.9215065
+2007,39,1. Male,1. Never Married,1. White,4. College Grad,107.9039239
+2009,66,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2005,30,1. Male,2. Married,1. White,5. Advanced Degree,117.1468169
+2006,30,1. Male,4. Divorced,1. White,3. Some College,107.9039239
+2005,43,1. Male,2. Married,1. White,2. HS Grad,72.15045568
+2008,49,1. Male,2. Married,1. White,5. Advanced Degree,160.6424754
+2005,54,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2008,48,1. Male,4. Divorced,1. White,5. Advanced Degree,143.1349408
+2008,37,1. Male,5. Separated,2. Black,3. Some College,97.49329405
+2007,46,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2007,53,1. Male,2. Married,1. White,2. HS Grad,148.4131591
+2009,31,1. Male,1. Never Married,1. White,4. College Grad,109.8339856
+2006,18,1. Male,1. Never Married,1. White,3. Some College,59.09706408
+2003,49,1. Male,2. Married,1. White,4. College Grad,152.5282169
+2006,39,1. Male,2. Married,1. White,2. HS Grad,81.28325328
+2003,40,1. Male,2. Married,1. White,2. HS Grad,43.73511168
+2008,37,1. Male,2. Married,1. White,2. HS Grad,96.37065283
+2006,24,1. Male,2. Married,1. White,2. HS Grad,101.8243521
+2007,35,1. Male,2. Married,1. White,4. College Grad,130.9821774
+2007,27,1. Male,1. Never Married,1. White,2. HS Grad,82.6796373
+2003,44,1. Male,1. Never Married,3. Asian,5. Advanced Degree,130.9821774
+2008,46,1. Male,2. Married,1. White,4. College Grad,89.24288466
+2005,40,1. Male,2. Married,1. White,3. Some College,85.11853342
+2007,39,1. Male,2. Married,1. White,5. Advanced Degree,166.3249412
+2008,42,1. Male,1. Never Married,1. White,1. < HS Grad,100.7642728
+2003,37,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2008,58,1. Male,2. Married,1. White,3. Some College,123.0896998
+2005,40,1. Male,2. Married,3. Asian,5. Advanced Degree,163.515864
+2003,27,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2003,31,1. Male,2. Married,1. White,3. Some College,75.35567932
+2008,44,1. Male,2. Married,1. White,2. HS Grad,65.11085372
+2003,38,1. Male,4. Divorced,1. White,2. HS Grad,92.65813017
+2004,34,1. Male,2. Married,1. White,4. College Grad,137.5901428
+2005,41,1. Male,2. Married,1. White,2. HS Grad,134.8515263
+2007,20,1. Male,1. Never Married,1. White,1. < HS Grad,72.4793163
+2008,28,1. Male,1. Never Married,1. White,4. College Grad,178.5330504
+2009,55,1. Male,2. Married,1. White,4. College Grad,98.59934386
+2008,38,1. Male,2. Married,1. White,4. College Grad,115.3750386
+2005,33,1. Male,1. Never Married,2. Black,2. HS Grad,73.77574327
+2009,43,1. Male,1. Never Married,1. White,2. HS Grad,36.6737042
+2006,50,1. Male,2. Married,3. Asian,4. College Grad,123.0896998
+2008,55,1. Male,2. Married,1. White,4. College Grad,87.98103279
+2005,24,1. Male,1. Never Married,2. Black,3. Some College,73.93571929
+2008,41,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2009,37,1. Male,4. Divorced,1. White,4. College Grad,118.8843593
+2005,42,1. Male,2. Married,1. White,3. Some College,134.7053751
+2004,25,1. Male,1. Never Married,1. White,4. College Grad,90.48191336
+2005,45,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2009,40,1. Male,2. Married,1. White,1. < HS Grad,81.28325328
+2004,43,1. Male,2. Married,1. White,5. Advanced Degree,130.9821774
+2006,50,1. Male,2. Married,1. White,3. Some College,176.9896505
+2003,42,1. Male,1. Never Married,1. White,2. HS Grad,82.6796373
+2003,38,1. Male,2. Married,1. White,2. HS Grad,131.7378012
+2006,44,1. Male,4. Divorced,1. White,1. < HS Grad,82.6796373
+2007,19,1. Male,1. Never Married,1. White,3. Some College,41.44121303
+2004,44,1. Male,1. Never Married,1. White,3. Some College,117.1468169
+2003,26,1. Male,1. Never Married,1. White,1. < HS Grad,73.77574327
+2005,54,1. Male,2. Married,1. White,2. HS Grad,86.69515483
+2006,32,1. Male,2. Married,1. White,4. College Grad,99.6894637
+2008,49,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2005,35,1. Male,2. Married,1. White,1. < HS Grad,70.81503862
+2007,34,1. Male,2. Married,1. White,1. < HS Grad,72.15045568
+2003,23,1. Male,1. Never Married,1. White,1. < HS Grad,54.59815003
+2008,60,1. Male,2. Married,3. Asian,3. Some College,127.1157438
+2006,54,1. Male,2. Married,1. White,5. Advanced Degree,73.77574327
+2003,31,1. Male,2. Married,2. Black,3. Some College,139.7030715
+2006,47,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2003,48,1. Male,4. Divorced,1. White,2. HS Grad,23.95294448
+2005,48,1. Male,2. Married,1. White,4. College Grad,115.3750386
+2004,35,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2006,55,1. Male,2. Married,1. White,5. Advanced Degree,127.1157438
+2004,35,1. Male,2. Married,1. White,5. Advanced Degree,137.5901428
+2009,37,1. Male,2. Married,3. Asian,4. College Grad,176.9896505
+2003,27,1. Male,1. Never Married,2. Black,2. HS Grad,23.27470405
+2007,64,1. Male,2. Married,1. White,2. HS Grad,90.48191336
+2003,52,1. Male,4. Divorced,1. White,2. HS Grad,73.77574327
+2007,47,1. Male,5. Separated,2. Black,1. < HS Grad,82.6796373
+2003,26,1. Male,1. Never Married,1. White,2. HS Grad,56.90553914
+2005,41,1. Male,2. Married,1. White,1. < HS Grad,128.6804882
+2009,22,1. Male,1. Never Married,1. White,2. HS Grad,75.04315402
+2004,76,1. Male,2. Married,1. White,3. Some College,73.77574327
+2006,46,1. Male,2. Married,1. White,2. HS Grad,108.0658303
+2006,39,1. Male,2. Married,2. Black,3. Some College,123.0896998
+2006,39,1. Male,2. Married,1. White,5. Advanced Degree,277.7994802
+2004,23,1. Male,1. Never Married,1. White,3. Some College,73.77574327
+2006,49,1. Male,2. Married,1. White,3. Some College,123.9085676
+2009,44,1. Male,2. Married,1. White,1. < HS Grad,87.98103279
+2006,20,1. Male,1. Never Married,1. White,2. HS Grad,70.47601965
+2005,43,1. Male,2. Married,1. White,5. Advanced Degree,277.6014175
+2006,42,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2009,46,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2009,33,1. Male,1. Never Married,1. White,4. College Grad,99.6894637
+2003,62,1. Male,2. Married,1. White,5. Advanced Degree,268.266292
+2006,38,1. Male,2. Married,1. White,3. Some College,130.9821774
+2005,43,1. Male,2. Married,1. White,4. College Grad,109.8339856
+2005,46,1. Male,4. Divorced,1. White,4. College Grad,277.6014175
+2006,18,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2009,63,1. Male,2. Married,1. White,5. Advanced Degree,267.9010869
+2006,43,1. Male,1. Never Married,2. Black,5. Advanced Degree,119.7408513
+2009,44,1. Male,2. Married,1. White,4. College Grad,141.7751723
+2008,53,1. Male,1. Never Married,2. Black,3. Some College,128.2526611
+2008,58,1. Male,1. Never Married,1. White,1. < HS Grad,90.48191336
+2003,23,1. Male,1. Never Married,1. White,4. College Grad,76.89360252
+2004,50,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2004,35,1. Male,1. Never Married,1. White,5. Advanced Degree,118.8843593
+2006,38,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2004,36,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2005,32,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2003,56,1. Male,2. Married,1. White,5. Advanced Degree,268.266292
+2005,41,1. Male,2. Married,1. White,3. Some College,87.98103279
+2004,40,1. Male,1. Never Married,1. White,2. HS Grad,99.6894637
+2004,26,1. Male,1. Never Married,1. White,4. College Grad,82.6796373
+2006,26,1. Male,2. Married,1. White,2. HS Grad,130.9821774
+2008,47,1. Male,4. Divorced,1. White,4. College Grad,108.8745258
+2007,25,1. Male,1. Never Married,2. Black,4. College Grad,54.59815003
+2006,58,1. Male,2. Married,2. Black,3. Some College,309.5717713
+2008,57,1. Male,2. Married,1. White,2. HS Grad,82.68239934
+2003,30,1. Male,1. Never Married,1. White,1. < HS Grad,59.62864555
+2007,44,1. Male,2. Married,1. White,4. College Grad,166.3249412
+2009,29,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2007,51,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2006,37,1. Male,2. Married,1. White,1. < HS Grad,92.89584479
+2004,67,1. Male,2. Married,3. Asian,5. Advanced Degree,160.6424754
+2009,34,1. Male,2. Married,1. White,1. < HS Grad,70.47601965
+2003,50,1. Male,2. Married,1. White,5. Advanced Degree,120.5894365
+2005,38,1. Male,2. Married,1. White,2. HS Grad,160.6424754
+2008,55,1. Male,2. Married,1. White,4. College Grad,171.7651326
+2003,27,1. Male,1. Never Married,1. White,3. Some College,120.5894365
+2007,39,1. Male,2. Married,1. White,3. Some College,134.7053751
+2007,54,1. Male,2. Married,1. White,3. Some College,148.4131591
+2008,55,1. Male,4. Divorced,1. White,5. Advanced Degree,129.4536446
+2003,49,1. Male,2. Married,2. Black,3. Some College,134.7053751
+2003,42,1. Male,2. Married,1. White,1. < HS Grad,56.90553914
+2005,39,1. Male,2. Married,1. White,4. College Grad,87.98103279
+2003,32,1. Male,1. Never Married,1. White,2. HS Grad,68.11199407
+2005,39,1. Male,2. Married,1. White,3. Some College,128.6804882
+2003,50,1. Male,2. Married,1. White,5. Advanced Degree,134.7053751
+2004,47,1. Male,2. Married,1. White,2. HS Grad,94.07271475
+2003,40,1. Male,1. Never Married,1. White,3. Some College,87.98103279
+2006,51,1. Male,1. Never Married,1. White,3. Some College,118.8843593
+2009,28,1. Male,2. Married,3. Asian,3. Some College,68.74808773
+2007,53,1. Male,4. Divorced,1. White,3. Some College,94.07271475
+2005,54,1. Male,2. Married,1. White,3. Some College,118.8843593
+2009,51,1. Male,2. Married,1. White,4. College Grad,91.69922611
+2008,33,1. Male,2. Married,1. White,5. Advanced Degree,134.7053751
+2008,55,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2003,44,1. Male,2. Married,1. White,5. Advanced Degree,100.7642728
+2009,30,1. Male,2. Married,1. White,3. Some College,105.9278108
+2005,40,1. Male,2. Married,3. Asian,5. Advanced Degree,87.98103279
+2007,26,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2006,49,1. Male,2. Married,3. Asian,4. College Grad,112.6488963
+2004,43,1. Male,2. Married,1. White,5. Advanced Degree,163.515864
+2004,43,1. Male,1. Never Married,2. Black,3. Some College,82.6796373
+2008,44,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2006,32,1. Male,1. Never Married,1. White,4. College Grad,49.55533812
+2009,34,1. Male,2. Married,3. Asian,5. Advanced Degree,152.838801
+2009,36,1. Male,2. Married,3. Asian,4. College Grad,148.4131591
+2006,51,1. Male,2. Married,1. White,1. < HS Grad,101.4020523
+2007,42,1. Male,2. Married,1. White,3. Some College,95.68881191
+2003,60,1. Male,2. Married,1. White,5. Advanced Degree,118.8843593
+2004,36,1. Male,2. Married,1. White,2. HS Grad,76.89360252
+2006,47,1. Male,2. Married,1. White,3. Some College,118.8843593
+2004,60,1. Male,2. Married,1. White,3. Some College,138.2991269
+2003,22,1. Male,1. Never Married,1. White,2. HS Grad,54.59815003
+2005,41,1. Male,1. Never Married,2. Black,2. HS Grad,65.11085372
+2003,56,1. Male,4. Divorced,1. White,4. College Grad,109.8339856
+2003,44,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2005,49,1. Male,2. Married,1. White,4. College Grad,105.9278108
+2006,45,1. Male,2. Married,1. White,4. College Grad,116.2653241
+2003,25,1. Male,1. Never Married,1. White,3. Some College,94.07271475
+2007,52,1. Male,2. Married,1. White,3. Some College,118.8843593
+2003,30,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2009,29,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2007,23,1. Male,2. Married,1. White,4. College Grad,79.85490031
+2007,48,1. Male,4. Divorced,1. White,2. HS Grad,108.8745258
+2009,44,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2003,62,1. Male,2. Married,1. White,4. College Grad,127.1157438
+2006,33,1. Male,2. Married,1. White,5. Advanced Degree,151.5914842
+2008,51,1. Male,2. Married,1. White,2. HS Grad,105.9278108
+2006,36,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2005,23,1. Male,2. Married,1. White,2. HS Grad,59.09706408
+2003,51,1. Male,4. Divorced,1. White,2. HS Grad,68.74808773
+2008,47,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2003,34,1. Male,1. Never Married,1. White,2. HS Grad,103.9024706
+2004,34,1. Male,2. Married,1. White,2. HS Grad,82.6796373
+2009,43,1. Male,2. Married,1. White,5. Advanced Degree,200.5432623
+2006,43,1. Male,5. Separated,1. White,3. Some College,101.8243521
+2009,40,1. Male,1. Never Married,1. White,4. College Grad,163.515864
+2005,59,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2008,53,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2004,32,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2008,48,1. Male,2. Married,1. White,2. HS Grad,107.9039239
+2008,37,1. Male,1. Never Married,1. White,5. Advanced Degree,182.020621
+2006,20,1. Male,1. Never Married,2. Black,3. Some College,75.04315402
+2004,32,1. Male,2. Married,1. White,2. HS Grad,61.18752643
+2004,40,1. Male,1. Never Married,1. White,2. HS Grad,85.38394038
+2004,48,1. Male,2. Married,1. White,3. Some College,123.8237338
+2005,43,1. Male,2. Married,1. White,4. College Grad,176.9896505
+2009,56,1. Male,2. Married,3. Asian,5. Advanced Degree,118.8843593
+2003,55,1. Male,2. Married,1. White,5. Advanced Degree,268.266292
+2008,38,1. Male,1. Never Married,1. White,2. HS Grad,89.49247952
+2006,52,1. Male,2. Married,1. White,2. HS Grad,92.89584479
+2003,40,1. Male,2. Married,1. White,5. Advanced Degree,127.1157438
+2005,29,1. Male,2. Married,1. White,5. Advanced Degree,115.3750386
+2007,45,1. Male,2. Married,1. White,4. College Grad,130.9836943
+2003,39,1. Male,2. Married,3. Asian,1. < HS Grad,68.74808773
+2005,50,1. Male,2. Married,1. White,4. College Grad,182.020621
+2003,50,1. Male,2. Married,1. White,5. Advanced Degree,143.8085568
+2004,57,1. Male,2. Married,3. Asian,5. Advanced Degree,134.7053751
+2003,30,1. Male,2. Married,1. White,2. HS Grad,63.188861
+2005,56,1. Male,4. Divorced,2. Black,3. Some College,75.35567932
+2008,43,1. Male,2. Married,3. Asian,5. Advanced Degree,176.9906754
+2004,43,1. Male,2. Married,1. White,4. College Grad,104.9215065
+2005,67,1. Male,2. Married,2. Black,3. Some College,123.0896998
+2005,50,1. Male,2. Married,1. White,2. HS Grad,111.7208494
+2005,49,1. Male,2. Married,1. White,3. Some College,111.7208494
+2004,50,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2004,59,1. Male,2. Married,2. Black,4. College Grad,144.2107612
+2007,51,1. Male,2. Married,1. White,3. Some College,117.1468169
+2005,39,1. Male,2. Married,1. White,2. HS Grad,78.3924668
+2009,54,1. Male,2. Married,2. Black,3. Some College,99.6894637
+2004,55,1. Male,2. Married,1. White,3. Some College,123.0896998
+2005,45,1. Male,2. Married,1. White,3. Some College,127.1157438
+2003,54,1. Male,2. Married,1. White,3. Some College,139.0034081
+2008,23,1. Male,1. Never Married,1. White,2. HS Grad,127.1157438
+2003,74,1. Male,3. Widowed,2. Black,4. College Grad,70.47601965
+2005,52,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2005,25,1. Male,1. Never Married,1. White,2. HS Grad,70.81503862
+2008,45,1. Male,1. Never Married,1. White,1. < HS Grad,70.47601965
+2004,37,1. Male,2. Married,1. White,3. Some College,176.9896505
+2005,55,1. Male,2. Married,1. White,3. Some College,113.5670896
+2004,25,1. Male,1. Never Married,1. White,1. < HS Grad,82.6796373
+2008,66,1. Male,2. Married,1. White,4. College Grad,148.4131591
+2007,47,1. Male,1. Never Married,2. Black,4. College Grad,161.2224955
+2005,36,1. Male,2. Married,2. Black,4. College Grad,127.1157438
+2004,63,1. Male,2. Married,1. White,2. HS Grad,134.7053751
+2003,44,1. Male,2. Married,1. White,4. College Grad,160.6424754
+2009,37,1. Male,2. Married,1. White,5. Advanced Degree,267.9010869
+2006,32,1. Male,1. Never Married,1. White,4. College Grad,104.9215065
+2004,43,1. Male,2. Married,1. White,3. Some College,134.7053751
+2009,37,1. Male,2. Married,1. White,4. College Grad,123.0896998
+2009,26,1. Male,1. Never Married,1. White,2. HS Grad,66.96164432
+2004,39,1. Male,2. Married,1. White,3. Some College,91.69922611
+2008,45,1. Male,2. Married,1. White,5. Advanced Degree,160.6424754
+2009,40,1. Male,1. Never Married,2. Black,4. College Grad,136.8763676
+2006,51,1. Male,2. Married,1. White,5. Advanced Degree,153.4575153
+2009,52,1. Male,2. Married,2. Black,2. HS Grad,61.18752643
+2007,43,1. Male,2. Married,1. White,2. HS Grad,65.11085372
+2005,52,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2005,50,1. Male,1. Never Married,1. White,5. Advanced Degree,182.020621
+2005,54,1. Male,2. Married,1. White,4. College Grad,114.4757133
+2004,28,1. Male,2. Married,1. White,2. HS Grad,97.49329405
+2003,28,1. Male,2. Married,1. White,2. HS Grad,136.8763676
+2005,26,1. Male,1. Never Married,3. Asian,4. College Grad,97.49329405
+2009,45,1. Male,4. Divorced,1. White,2. HS Grad,81.28325328
+2003,34,1. Male,4. Divorced,1. White,2. HS Grad,73.77574327
+2006,73,1. Male,2. Married,2. Black,2. HS Grad,118.8843593
+2009,31,1. Male,1. Never Married,1. White,2. HS Grad,113.5670896
+2005,29,1. Male,1. Never Married,1. White,3. Some College,90.48191336
+2008,40,1. Male,2. Married,1. White,5. Advanced Degree,160.6424754
+2003,38,1. Male,2. Married,1. White,5. Advanced Degree,179.5280922
+2004,42,1. Male,2. Married,1. White,3. Some College,147.7667762
+2007,50,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2008,51,1. Male,2. Married,1. White,2. HS Grad,59.03285483
+2009,40,1. Male,5. Separated,1. White,2. HS Grad,107.3160632
+2008,25,1. Male,1. Never Married,1. White,4. College Grad,49.55533812
+2009,47,1. Male,4. Divorced,1. White,4. College Grad,144.4780877
+2009,27,1. Male,2. Married,1. White,3. Some College,81.28325328
+2003,53,1. Male,4. Divorced,1. White,4. College Grad,81.63526865
+2004,67,1. Male,2. Married,2. Black,1. < HS Grad,87.98103279
+2008,40,1. Male,2. Married,3. Asian,4. College Grad,130.9821774
+2003,44,1. Male,2. Married,2. Black,4. College Grad,87.98103279
+2004,33,1. Male,1. Never Married,1. White,1. < HS Grad,81.28325328
+2004,29,1. Male,1. Never Married,1. White,3. Some College,89.24288466
+2003,32,1. Male,1. Never Married,1. White,5. Advanced Degree,114.1133945
+2009,27,1. Male,1. Never Married,1. White,2. HS Grad,104.9215065
+2003,40,1. Male,2. Married,1. White,2. HS Grad,112.6488963
+2008,36,1. Male,4. Divorced,1. White,2. HS Grad,56.90553914
+2003,48,1. Male,1. Never Married,2. Black,2. HS Grad,87.98103279
+2004,56,1. Male,2. Married,1. White,3. Some College,118.8843593
+2004,24,1. Male,2. Married,1. White,1. < HS Grad,127.1157438
+2006,53,1. Male,2. Married,3. Asian,5. Advanced Degree,134.7053751
+2008,34,1. Male,2. Married,1. White,2. HS Grad,107.9039239
+2007,61,1. Male,2. Married,1. White,3. Some College,281.7459706
+2004,38,1. Male,2. Married,1. White,2. HS Grad,48.18565022
+2007,55,1. Male,3. Widowed,1. White,4. College Grad,127.1157438
+2005,70,1. Male,2. Married,1. White,4. College Grad,50.35400164
+2003,24,1. Male,1. Never Married,1. White,2. HS Grad,81.28325328
+2006,22,1. Male,5. Separated,1. White,1. < HS Grad,75.04315402
+2007,38,1. Male,4. Divorced,2. Black,4. College Grad,104.9215065
+2004,29,1. Male,2. Married,1. White,3. Some College,79.85490031
+2006,30,1. Male,2. Married,1. White,3. Some College,130.9821774
+2007,38,1. Male,2. Married,1. White,5. Advanced Degree,171.7651326
+2007,49,1. Male,5. Separated,1. White,3. Some College,97.49329405
+2009,71,1. Male,2. Married,1. White,2. HS Grad,98.59934386
+2005,32,1. Male,2. Married,1. White,2. HS Grad,84.04595765
+2003,40,1. Male,2. Married,3. Asian,5. Advanced Degree,299.2629768
+2004,32,1. Male,2. Married,1. White,2. HS Grad,70.81503862
+2006,33,1. Male,1. Never Married,1. White,3. Some College,82.6796373
+2003,40,1. Male,2. Married,1. White,2. HS Grad,73.77574327
+2005,25,1. Male,1. Never Married,2. Black,2. HS Grad,77.49768139
+2003,36,1. Male,5. Separated,2. Black,3. Some College,91.69922611
+2003,46,1. Male,2. Married,1. White,2. HS Grad,141.7751723
+2009,59,1. Male,2. Married,1. White,5. Advanced Degree,93.72167396
+2003,49,1. Male,1. Never Married,1. White,5. Advanced Degree,143.1349408
+2005,41,1. Male,2. Married,1. White,3. Some College,91.69922611
+2007,42,1. Male,2. Married,3. Asian,5. Advanced Degree,130.9821774
+2009,59,1. Male,2. Married,2. Black,3. Some College,87.98103279
+2004,27,1. Male,1. Never Married,1. White,1. < HS Grad,76.4884434
+2006,30,1. Male,2. Married,1. White,2. HS Grad,71.68674367
+2005,54,1. Male,2. Married,2. Black,2. HS Grad,87.98103279
+2005,31,1. Male,1. Never Married,1. White,5. Advanced Degree,80.57319971
+2007,34,1. Male,2. Married,1. White,5. Advanced Degree,163.515864
+2007,47,1. Male,2. Married,1. White,2. HS Grad,107.9039239
+2003,40,1. Male,2. Married,1. White,5. Advanced Degree,133.2323508
+2007,29,1. Male,1. Never Married,1. White,2. HS Grad,73.77574327
+2003,58,1. Male,2. Married,1. White,1. < HS Grad,87.98103279
+2006,41,1. Male,2. Married,1. White,2. HS Grad,119.0133452
+2004,56,1. Male,2. Married,1. White,2. HS Grad,102.1270009
+2008,52,1. Male,2. Married,1. White,2. HS Grad,136.8763676
+2003,53,1. Male,2. Married,1. White,3. Some College,118.8843593
+2003,37,1. Male,4. Divorced,1. White,2. HS Grad,65.11085372
+2009,30,1. Male,1. Never Married,2. Black,3. Some College,94.07271475
+2004,35,1. Male,2. Married,1. White,2. HS Grad,138.2991269
+2006,40,1. Male,2. Married,1. White,4. College Grad,118.8843593
+2007,54,1. Male,2. Married,3. Asian,2. HS Grad,79.85490031
+2007,22,1. Male,1. Never Married,3. Asian,4. College Grad,63.188861
+2005,37,1. Male,2. Married,1. White,5. Advanced Degree,134.7053751
+2005,39,1. Male,2. Married,1. White,2. HS Grad,295.99125
+2009,62,1. Male,2. Married,1. White,2. HS Grad,109.8339856
+2007,47,1. Male,2. Married,1. White,3. Some College,104.9215065
+2003,51,1. Male,2. Married,1. White,5. Advanced Degree,148.4131591
+2006,47,1. Male,4. Divorced,1. White,2. HS Grad,99.6894637
+2003,28,1. Male,1. Never Married,1. White,4. College Grad,118.8843593
+2005,65,1. Male,2. Married,1. White,2. HS Grad,95.68881191
+2005,42,1. Male,2. Married,1. White,2. HS Grad,114.4757133
+2007,58,1. Male,2. Married,1. White,2. HS Grad,104.9215065
+2007,32,1. Male,2. Married,1. White,3. Some College,101.8243521
+2003,34,1. Male,2. Married,1. White,5. Advanced Degree,146.4628385
+2007,49,1. Male,2. Married,1. White,2. HS Grad,79.85490031
+2008,39,1. Male,2. Married,1. White,5. Advanced Degree,145.1436012
+2008,44,1. Male,2. Married,1. White,4. College Grad,76.40585107
+2009,38,1. Male,1. Never Married,1. White,3. Some College,84.04595765
+2008,48,1. Male,2. Married,1. White,5. Advanced Degree,115.3750386
+2006,47,1. Male,2. Married,1. White,2. HS Grad,105.9278108
+2009,40,1. Male,2. Married,4. Other,1. < HS Grad,72.15045568
+2005,27,1. Male,5. Separated,1. White,1. < HS Grad,79.85490031
+2004,42,1. Male,2. Married,1. White,4. College Grad,103.9024706
+2004,30,1. Male,4. Divorced,1. White,2. HS Grad,88.99237719
+2007,31,1. Male,2. Married,1. White,5. Advanced Degree,99.6894637
+2007,29,1. Male,2. Married,1. White,4. College Grad,112.6488963
+2006,53,1. Male,4. Divorced,1. White,5. Advanced Degree,138.2991269
+2009,37,1. Male,2. Married,1. White,1. < HS Grad,68.74808773
+2007,48,1. Male,2. Married,1. White,3. Some College,109.31532
+2009,56,1. Male,4. Divorced,1. White,5. Advanced Degree,148.4131591
+2003,44,1. Male,2. Married,1. White,3. Some College,99.6894637
+2004,63,1. Male,2. Married,1. White,4. College Grad,118.0197533
+2003,25,1. Male,2. Married,1. White,4. College Grad,65.11085372
+2003,31,1. Male,2. Married,1. White,4. College Grad,94.07271475
+2003,51,1. Male,2. Married,1. White,2. HS Grad,98.59934386
+2007,25,1. Male,1. Never Married,1. White,2. HS Grad,87.98103279
+2007,50,1. Male,2. Married,1. White,3. Some College,99.6894637
+2006,34,1. Male,2. Married,1. White,2. HS Grad,108.8745258
+2004,20,1. Male,1. Never Married,1. White,3. Some College,82.6796373
+2007,30,1. Male,1. Never Married,1. White,2. HS Grad,89.49247952
+2009,40,1. Male,2. Married,1. White,3. Some College,97.49329405
+2006,34,1. Male,2. Married,1. White,2. HS Grad,56.90553914
+2004,57,1. Male,2. Married,1. White,2. HS Grad,65.11085372
+2007,42,1. Male,2. Married,2. Black,2. HS Grad,89.49247952
+2003,30,1. Male,1. Never Married,1. White,3. Some College,84.04595765
+2003,37,1. Male,1. Never Married,1. White,3. Some College,94.07271475
+2008,50,1. Male,2. Married,2. Black,2. HS Grad,85.38394038
+2009,26,1. Male,1. Never Married,1. White,3. Some College,78.3924668
+2007,59,1. Male,2. Married,3. Asian,2. HS Grad,160.409702
+2003,29,1. Male,1. Never Married,4. Other,3. Some College,132.8607653
+2009,22,1. Male,1. Never Married,1. White,2. HS Grad,87.98103279
+2005,54,1. Male,2. Married,1. White,2. HS Grad,158.1736623
+2003,46,1. Male,2. Married,2. Black,2. HS Grad,118.8843593
+2008,51,1. Male,2. Married,1. White,2. HS Grad,101.4020523
+2006,35,1. Male,1. Never Married,1. White,3. Some College,59.09706408
+2007,49,1. Male,2. Married,1. White,2. HS Grad,85.38394038
+2003,53,1. Male,2. Married,1. White,2. HS Grad,87.98103279
+2009,61,1. Male,2. Married,1. White,3. Some College,160.6424754
+2007,40,1. Male,2. Married,2. Black,1. < HS Grad,70.47601965
+2003,52,1. Male,2. Married,1. White,1. < HS Grad,47.74778451
+2005,40,1. Male,2. Married,1. White,4. College Grad,130.9821774
+2003,56,1. Male,2. Married,1. White,1. < HS Grad,85.38394038
+2008,39,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2007,30,1. Male,2. Married,1. White,2. HS Grad,93.87868349
+2003,58,1. Male,2. Married,1. White,3. Some College,130.9821774
+2007,33,1. Male,2. Married,3. Asian,5. Advanced Degree,167.9811282
+2007,51,1. Male,2. Married,1. White,5. Advanced Degree,126.0850573
+2008,32,1. Male,1. Never Married,1. White,4. College Grad,148.4131591
+2009,50,1. Male,2. Married,2. Black,2. HS Grad,132.4878211
+2003,26,1. Male,1. Never Married,2. Black,3. Some College,118.8843593
+2007,35,1. Male,2. Married,1. White,1. < HS Grad,109.8339856
+2006,31,1. Male,2. Married,1. White,2. HS Grad,102.8702469
+2009,31,1. Male,2. Married,1. White,4. College Grad,133.3806077
+2008,44,1. Male,2. Married,1. White,3. Some College,154.685293
+2007,30,1. Male,2. Married,1. White,2. HS Grad,99.6894637
+2005,27,1. Male,2. Married,2. Black,1. < HS Grad,66.22940829
+2005,27,1. Male,1. Never Married,1. White,3. Some College,87.98103279
+2009,55,1. Male,5. Separated,1. White,2. HS Grad,90.48191336
